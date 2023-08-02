@@ -8,7 +8,7 @@ Repositorio donde dejare mis practicas de portugués con NoCountry
 
 Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La comunicación se llevará a cabo de manera centralizada a través de Slack, brindándote una experiencia de aprendizaje fluida y efectiva.
 
-- Elige entre disponiblesà
+- Elige entre disponibles:
 
 -Mañana: 09 hs. a 12 hs.å
 
