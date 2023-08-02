@@ -4,7 +4,7 @@ Repositorio donde dejare mis practicas de portugués con NoCountry
 
 ---
 
-## Modalidad
+## <img width="48" height="48" src="https://img.icons8.com/dusk/48/clock--v1.png" alt="clock--v1"/> Modalidad
 
 Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La comunicación se llevará a cabo de manera centralizada a través de Slack, brindándote una experiencia de aprendizaje fluida y efectiva.
 
@@ -64,7 +64,7 @@ y social.
 
 ---
 
-## Aprobacón
+## <img width="48" height="48" src="https://img.icons8.com/emoji/48/check-mark-button-emoji.png" alt="check-mark-button-emoji"/> Aprobación
 
 Para evaluar tus habilidades y progreso, nuestro equipo de profesores evaluará **4 entregas en video**. Se evaluarán
 aspectos clave, como **pronunciación, fluidez, sintaxis y vocabulario**.
@@ -73,7 +73,7 @@ Esta evaluación garantiza que recibas un feedback personalizado y puedas mejora
 
 ---
 
-## Bolsa de trabajo
+## <img width="48" height="48" src="https://img.icons8.com/color/48/shopping-bag--v1.png" alt="shopping-bag--v1"/> Bolsa de trabajo
 
 Una vez finalizado el programa, te ofrecemos una oportunidad única. Enviaremos tu perfil a nuestras partnerships **LATAM-BR** y **Pointer HRTech**,  encargadas de conectar talento con empresas de Brasil. Esto te brinda la posibilidad de acceder a
 oportunidades laborales relevantes y conectarte con empleadores que buscan profesionales con habilidades en portugués.
