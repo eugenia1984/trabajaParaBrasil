@@ -80,3 +80,41 @@ oportunidades laborales relevantes y conectarte con empleadores que buscan profe
 
 
 ---
+
+## <img width="48" height="48" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/> Slack
+
+### Bienvenid@s
+
+Para poder ser miembro de No Country-TrabajaparaBrasil, debes cumplir las siguientes reglas:
+
+:uno: Tratar bien al resto de miembros de la comunidad e incluir a todo el mundo por igual.
+
+:dos: No está permitido hacer promociones de proyectos ajenos sin permiso.
+
+:tres: Usar de manera adecuada los chats de este espacio. Mantengamos un ambiente profesional y respetuoso.
+
+:cuatro: Evitar hacer Spam.
+
+:bombilla: El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediata de nuestra comunidad.
+(Si consideras que debamos añadir alguna regla extra a las normas, puedes dejar un comentario aquí abajo)
+
+
+### BREVE GUIA DE CANALES A TENER EN CUENTA
+
+- :libro: #normas: Estamos aquí. Por favor revisa las reglas y lee las descripciones de los canales para un adecuado uso del espacio.
+
+- :mega: #anuncios: aquí encontraras anuncios importantes relacionados con el curso, como fechas de inicio.
+
+- :hola:#presentación: ¡Queremos conocerte! Cuéntanos cuál es tu nombre, país y lo que te motivó a unirte a nuestra comunidad.
+
+- :cara_pensativa: #preguntas-frecuentes: aquí podrás realizar preguntas relacionadas con el curso, requisitos de inscripción, contenido del programa, horarios.
+
+- :libros: #preparacion-portugues: aquí podrás encontrar y compartir recursos gratuitos relacionados con el aprendizaje del portugués.
+
+- #brasil-mercado-laboral: proporcionaremos información relacionada con el mercado laboral en Brasil, con el objetivo de ayudarte a acercarte a las oportunidades y desafíos de trabajar en el país.
+
+- :silueta_de_cabeza_parlante: #conversemos: Conversaciones no relacionadas al tema principal del canal. Comparte imágenes, enlaces y juegos. Sé respetuoso y evita temas inapropiados.
+
+- :advertencia:Una vez iniciado el curso, los inscritos van a ser invitados a canales privados del curso a los cuales permanecerán para siempre junto con los anteriores. 
+
+---
