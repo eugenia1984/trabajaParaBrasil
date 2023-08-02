@@ -10,11 +10,11 @@ Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La co
 
 - Elige entre disponibles:
 
--Mañana: 09 hs. a 12 hs.å
+-Mañana: 09 hs. a 12 hs.
 
--Tarde: 14 hs. a 1Ú hs.å
+-Tarde: 14 hs. a 1Ú hs.
 
--Noche: 19 hs. a 23 hs.*
+-Noche: 19 hs. a 23 hs.
 
 - Disfruta de **2 clases en vivo por semana**, con una duración de **1 hora** cada una.
 
