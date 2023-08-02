@@ -95,7 +95,7 @@ Para poder ser miembro de No Country-TrabajaparaBrasil, debes cumplir las siguie
 
 - <img width="38" height="38" src="https://img.icons8.com/clouds/38/4.png" alt="4"/>: Evitar hacer Spam.
 
-:bombilla: El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediata de nuestra comunidad.
+El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediata de nuestra comunidad.
 (Si consideras que debamos añadir alguna regla extra a las normas, puedes dejar un comentario aquí abajo)
 
 
