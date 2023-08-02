@@ -26,7 +26,7 @@ Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La co
 
 ---
 
-## Objetivos
+## <img width="48" height="48" src="https://img.icons8.com/color/48/goal--v1.png" alt="goal--v1"/> Objetivos
 
 En nuestro programa, te proponemos alcanzar los siguientes objetivos:
 
@@ -40,7 +40,7 @@ En nuestro programa, te proponemos alcanzar los siguientes objetivos:
 
 ---
 
-## Contenido
+## <img width="48" height="48" src="https://img.icons8.com/bubbles/48/list.png" alt="list"/> Contenido
 
 Nuestro programa se divide en 8 módulos, cubriendo los siguientes temas clave:
 
