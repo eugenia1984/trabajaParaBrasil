@@ -87,13 +87,13 @@ oportunidades laborales relevantes y conectarte con empleadores que buscan profe
 
 Para poder ser miembro de No Country-TrabajaparaBrasil, debes cumplir las siguientes reglas:
 
-:uno: Tratar bien al resto de miembros de la comunidad e incluir a todo el mundo por igual.
+- <img width="48" height="48" src="https://img.icons8.com/dusk/48/1.png" alt="1"/>: Tratar bien al resto de miembros de la comunidad e incluir a todo el mundo por igual.
 
-:dos: No está permitido hacer promociones de proyectos ajenos sin permiso.
+- <img width="48" height="48" src="https://img.icons8.com/cute-clipart/48/2-circle-c.png" alt="2-circle-c"/>: No está permitido hacer promociones de proyectos ajenos sin permiso.
 
-:tres: Usar de manera adecuada los chats de este espacio. Mantengamos un ambiente profesional y respetuoso.
+- <img width="48" height="48" src="https://img.icons8.com/doodle/48/last-hour-time-and-date.png" alt="last-hour-time-and-date"/>: Usar de manera adecuada los chats de este espacio. Mantengamos un ambiente profesional y respetuoso.
 
-:cuatro: Evitar hacer Spam.
+- <img width="48" height="48" src="https://img.icons8.com/clouds/48/4.png" alt="4"/>: Evitar hacer Spam.
 
 :bombilla: El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediata de nuestra comunidad.
 (Si consideras que debamos añadir alguna regla extra a las normas, puedes dejar un comentario aquí abajo)
