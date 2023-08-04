@@ -94,13 +94,13 @@ Una vez finalizado el programa, te ofrecemos una oportunidad única. Enviaremos 
 
 Para poder ser miembro de No Country-TrabajaparaBrasil, debes cumplir las siguientes reglas:
 
-- <img width="38" height="38" src="https://img.icons8.com/dusk/38/1.png" al3="1"/>: Tratar bien al resto de miembros de la comunidad e incluir a todo el mundo por igual.
+- <img width="30" height="30" src="https://img.icons8.com/dusk/30/1.png" alt="1"/>: Tratar bien al resto de miembros de la comunidad e incluir a todo el mundo por igual.
 
-- <img width="38" height="38" src="https://img.icons8.com/cute-clipart/38/2-circle-c.png" alt="2-circle-c"/>: No está permitido hacer promociones de proyectos ajenos sin permiso.
+- <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/2-circle-c.png" alt="2/>: No está permitido hacer promociones de proyectos ajenos sin permiso.
 
-- <img width="38" height="38" src="https://img.icons8.com/doodle/38/last-hour-time-and-date.png" alt="last-hour-time-and-date"/>: Usar de manera adecuada los chats de este espacio. Mantengamos un ambiente profesional y respetuoso.
+- <img width="30" height="30" src="https://img.icons8.com/doodle/30/last-hour-time-and-date.png" alt="3"/>: Usar de manera adecuada los chats de este espacio. Mantengamos un ambiente profesional y respetuoso.
 
-- <img width="38" height="38" src="https://img.icons8.com/clouds/38/4.png" alt="4"/>: Evitar hacer Spam.
+- <img width="30" height="30" src="https://img.icons8.com/clouds/30/4.png" alt="4"/>: Evitar hacer Spam.
 
 El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediata de nuestra comunidad.
 (Si consideras que debamos añadir alguna regla extra a las normas, puedes dejar un comentario aquí abajo)
