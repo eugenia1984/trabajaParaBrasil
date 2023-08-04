@@ -108,20 +108,20 @@ El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediat
 
 ### BREVE GUIA DE CANALES A TENER EN CUENTA
 
-- <img width="38" height="38" src="https://img.icons8.com/nolan/38/book.png" alt="book"/>: #normas: Estamos aquí. Por favor revisa las reglas y lee las descripciones de los canales para un adecuado uso del espacio.
+- <img width="30" height="30" src="https://img.icons8.com/nolan/30/book.png" alt="book"/>: #normas: Estamos aquí. Por favor revisa las reglas y lee las descripciones de los canales para un adecuado uso del espacio.
 
-- <img width="38" height="38" src="https://img.icons8.com/fluency/38/megaphone.png" alt="megaphone"/>: #anuncios: aquí encontraras anuncios importantes relacionados con el curso, como fechas de inicio.
+- <img width="30" height="30" src="https://img.icons8.com/fluency/30/megaphone.png" alt="megaphone"/>: #anuncios: aquí encontraras anuncios importantes relacionados con el curso, como fechas de inicio.
 
-- <img width="38" height="38" src="https://img.icons8.com/emoji/38/waving-hand-emoji.png" alt="waving-hand-emoji"/>:#presentación: ¡Queremos conocerte! Cuéntanos cuál es tu nombre, país y lo que te motivó a unirte a nuestra comunidad.
+- <img width="30" height="30" src="https://img.icons8.com/emoji/30/waving-hand-emoji.png" alt="waving-hand-emoji"/>:#presentación: ¡Queremos conocerte! Cuéntanos cuál es tu nombre, país y lo que te motivó a unirte a nuestra comunidad.
 
-- <img width="38" height="38" src="https://img.icons8.com/emoji/38/thinking-face.png" alt="thinking-face"/>: #preguntas-frecuentes: aquí podrás realizar preguntas relacionadas con el curso, requisitos de inscripción, contenido del programa, horarios.
+- <img width="30" height="30" src="https://img.icons8.com/emoji/30/thinking-face.png" alt="thinking-face"/>: #preguntas-frecuentes: aquí podrás realizar preguntas relacionadas con el curso, requisitos de inscripción, contenido del programa, horarios.
 
-- <img width="38" height="38" src="https://img.icons8.com/color/38/book.png" alt="book"/>: #preparacion-portugues: aquí podrás encontrar y compartir recursos gratuitos relacionados con el aprendizaje del portugués.
+- <img width="30" height="30" src="https://img.icons8.com/color/30/book.png" alt="book"/>: #preparacion-portugues: aquí podrás encontrar y compartir recursos gratuitos relacionados con el aprendizaje del portugués.
 
-- <img width="38" height="38" src="https://img.icons8.com/stickers/38/brazil.png" alt="brazil"/>: #brasil-mercado-laboral: proporcionaremos información relacionada con el mercado laboral en Brasil, con el objetivo de ayudarte a acercarte a las oportunidades y desafíos de trabajar en el país.
+- <img width="30" height="30" src="https://img.icons8.com/stickers/30/brazil.png" alt="brazil"/>: #brasil-mercado-laboral: proporcionaremos información relacionada con el mercado laboral en Brasil, con el objetivo de ayudarte a acercarte a las oportunidades y desafíos de trabajar en el país.
 
-- <img width="38" height="38" src="https://img.icons8.com/color/38/talk-female.png" alt="talk-female"/>: #conversemos: Conversaciones no relacionadas al tema principal del canal. Comparte imágenes, enlaces y juegos. Sé respetuoso y evita temas inapropiados.
+- <img width="30" height="30" src="https://img.icons8.com/color/30/talk-female.png" alt="talk-female"/>: #conversemos: Conversaciones no relacionadas al tema principal del canal. Comparte imágenes, enlaces y juegos. Sé respetuoso y evita temas inapropiados.
 
-- <img width="38" height="38" src="https://img.icons8.com/color/38/general-warning-sign.png" alt="general-warning-sign"/>:Una vez iniciado el curso, los inscritos van a ser invitados a canales privados del curso a los cuales permanecerán para siempre junto con los anteriores. 
+- <img width="30" height="0" src="https://img.icons8.com/color/30/general-warning-sign.png" alt="general-warning-sign"/>:Una vez iniciado el curso, los inscritos van a ser invitados a canales privados del curso a los cuales permanecerán para siempre junto con los anteriores. 
 
 ---
