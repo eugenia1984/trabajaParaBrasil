@@ -96,7 +96,7 @@ Para poder ser miembro de No Country-TrabajaparaBrasil, debes cumplir las siguie
 
 - <img width="30" height="30" src="https://img.icons8.com/dusk/30/1.png" alt="1"/>: Tratar bien al resto de miembros de la comunidad e incluir a todo el mundo por igual.
 
-- <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/2-circle-c.png" alt="2/>: No está permitido hacer promociones de proyectos ajenos sin permiso.
+- <img width="30" height="30" src="https://img.icons8.com/cute-clipart/30/2-circle-c.png" alt="2"/>: No está permitido hacer promociones de proyectos ajenos sin permiso.
 
 - <img width="30" height="30" src="https://img.icons8.com/doodle/30/last-hour-time-and-date.png" alt="3"/>: Usar de manera adecuada los chats de este espacio. Mantengamos un ambiente profesional y respetuoso.
 
