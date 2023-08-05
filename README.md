@@ -1,6 +1,6 @@
 # <img width="40" height="40" src="https://img.icons8.com/fluency/40/brazil.png" alt="brazil"/> TRABAJA PARA BRASIL
 
-Repositorio donde dejare mis practicas de portugués con NoCountry
+Repositorio donde dejare mis prácticas de portugués con No Country.
 
 ---
 
@@ -36,7 +36,6 @@ Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La co
 
 ## <img width="40" height="40" src="https://img.icons8.com/color/40/goal--v1.png" alt="goal--v1"/> OBJETIVOS
 
-En nuestro programa, te proponemos alcanzar los siguientes objetivos:
 
 - Adquirir los conocimientos indispensables de portugués para trabajar en Brasil, brindándote una ventaja competitiva en el mercado laboral.
 
@@ -126,7 +125,7 @@ El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediat
 
 ---
 
-## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> MODULOS CON EORÌA Y PRÁCTICA
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> MODULOS CON TEORÍA Y PRÁCTICA
 
 - [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/README.md)
 
