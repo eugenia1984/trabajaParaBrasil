@@ -100,7 +100,9 @@ Se você achar necessário, adicione uma seção com dados adicionais. Nela, voc
 
 Agora que você já sabe como estruturar o seu currículo de TI, que tal conferir mais algumas dicas para não errar na hora de elaborar esse documento?
 
-Confira:
+---
+
+## <img width="30" height="30" src="https://img.icons8.com/bubbles/30/file.png" alt="file"/> Confira:
 
 1. **1 – Vá direto ao ponto**
 
@@ -138,7 +140,7 @@ Essa personalização aumenta suas chances de ser notado pelo RH e avançar no p
 
 ---
 
-## Alguns exemplos de habilidades para currículo em TI
+## <img width="30" height="30" src="https://img.icons8.com/bubbles/30/development-skill.png" alt="development-skill"/> Alguns exemplos de habilidades para currículo em TI
 
 • Programação
 
@@ -220,7 +222,7 @@ Lembre-se também que uma carta sem erros gramaticais não é necessariamente um
 
 ---
 
-## VOCÊ SABIA
+## <img width="30" height="30" src="https://img.icons8.com/doodle/30/question-mark--v1.png" alt="question mark"/> VOCÊ SABIA
 
 Diferença entre currículo e curriculum vitae
 
@@ -230,7 +232,9 @@ versão em português.
 
 Qual o plural de curriculum vitae? Bom, o plural de currículo é currículos, pois é uma palavra em português, mas por ser uma expressão em latím, o plural de "curriculum vitae" é " curricula vitae".
 
-A seguir alguns exemplos de Currículos para tirar ideias:
+---
+
+## A seguir alguns exemplos de Currículos para tirar ideias:
 
 ## Exemplo 1
 
@@ -247,4 +251,4 @@ A seguir alguns exemplos de Currículos para tirar ideias:
 ![Alt text](image-3.png)
 
 
-## Exemplo 7
+---
