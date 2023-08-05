@@ -195,3 +195,27 @@ A carta de apresentação, assim como o currículo do candidato, deve sempre pri
 Além disso, adote uma linguagem próxima à utilizada na descrição da vaga, com atenção aos termos escolhidos pelo contratante. Recrutadores costumam pesquisar palavras-chave específicas nas cartas e currículos dos candidatos, como "gerente de projetos", "mestrado", nomes de linguagens de programação e conhecimentos em geral.
 
 Mesmo que você não atenda a todos os requisitos da vaga, há formas de compensar essa falta. Você pode, por exemplo, não conhecer uma linguagem de programação citada na descrição da vaga, mas mencionar que domina uma linguagem semelhante. Não se esqueça de evitar exageros.
+
+5. **Demonstre conhecimento sobre a empresa e o cargo pretendido**
+
+Se você acredita que seu perfil combina com o da empresa, encontre formas de expor isso em sua carta. Faça isso mesmo que já tenha trabalhado em cargos semelhantes, inclusive no mesmo setor. Cada empresa tem sua própria cultura e formas específicas de trabalhar.
+
+Ao demonstrar que você conhece bem a empresa e o cargo ao qual está se candidatando, você também reforçará seu interesse pela vaga. Por isso, reserve um tempo para pesquisar informações relevantes e atuais.
+
+6. **Evite informações desnecessárias**
+
+Seja objetivo e criterioso. O recrutador normalmente lida com muitas candidaturas em cada seleção. Informações desnecessárias ou descrições repetitivas podem tornar sua escrita cansativa e fazer o recrutador perder o interesse pela sua carta. Além disso, tais descrições tiram o foco de informações mais importantes.
+
+Procure selecionar os exemplos que pretende utilizar. Evite descrever todas as suas
+experiências profissionais e os cursos que você fez, principalmente o que não estiver relacionado à vaga. Se você exerceu a mesma função em mais de um lugar, destaque apenas o que fez de mais relevante em cada empresa ou descreva apenas a experiência mais recente.
+
+Além disso, evite tratar de assuntos não relacionados à vaga, como opiniões políticas e questões íntimas. Gostos pessoais e hobbies devem ser mencionados de forma criteriosa e sempre relacionados ao seu perfil profissional.
+
+7. **Tenha atenção especial com a língua portuguesa**
+
+O uso correto da língua é essencial para causar uma boa impressão. Da mesma forma, erros de ortografia, concordância e pontuação, entre outros problemas, podem comprometer uma candidatura. Na duvide, sempre pesquise a forma correta.
+
+Lembre-se também que uma carta sem erros gramaticais não é necessariamente uma carta bem-escrita. Frases e expressões imprecisas podem confundir o leitor e ofuscar informações relevantes. Revise seu texto várias vezes para evitar frustrações.
+
+
+---
