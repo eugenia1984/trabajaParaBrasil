@@ -125,3 +125,11 @@ El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediat
 - <img width="30" height="0" src="https://img.icons8.com/color/30/general-warning-sign.png" alt="general-warning-sign"/>:Una vez iniciado el curso, los inscritos van a ser invitados a canales privados del curso a los cuales permanecerán para siempre junto con los anteriores. 
 
 ---
+
+## MODULOS
+
+- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1.md)
+
+- [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2.md)
+
+---
