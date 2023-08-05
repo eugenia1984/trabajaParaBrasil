@@ -219,3 +219,16 @@ Lembre-se também que uma carta sem erros gramaticais não é necessariamente um
 
 
 ---
+
+## VOCÊ SABIA
+
+Diferença entre currículo e curriculum vitae
+
+No Brasil, ambas expressões, currículo e curriculum vitae, estão corretas e têm o
+mesmo significado. Curriculum vitae é a expressão em latím, enquanto currículo é a
+versão em português.
+
+Qual o plural de curriculum vitae? Bom, o plural de currículo é currículos, pois é uma palavra em português, mas por ser uma expressão em latím, o plural de "curriculum vitae" é " curricula vitae".
+
+A seguir alguns exemplos de Currículos para tirar ideias:
+
