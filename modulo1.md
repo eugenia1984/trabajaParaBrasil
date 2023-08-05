@@ -4,7 +4,7 @@
 
 2. Expresiones e tratamiento formal e informal, presentación, saludos, agradecimientos, felicitaciones, requerimientos, otros)
 
-3.  Días de la semana, meses<
+3.  Días de la semana, meses.
 
 4. Números ordinales, cardinales. Contracciones obligatorias. Pronombres personales, formas de tratamiento. Pronombres 
 posesivos, demostrativos e interrogativos.
