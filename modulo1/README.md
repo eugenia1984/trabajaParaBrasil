@@ -26,3 +26,14 @@ personales. Modelos.
 11.  Ejercicio oral. Elaboración de un vídeo de presentación.
 
 ---
+
+
+## <img width="40" height="40" src="https://img.icons8.com/nolan/40/book.png" alt="book"/> MÓDULO I
+
+PRIMEIRO DEGRAU DA NOSSA ESCADA
+
+- [Currículo Vitae](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/curriculo-vitae.md)
+
+- Cartas de apresentação
+
+- Dicas importantes.
