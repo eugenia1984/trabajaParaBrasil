@@ -232,3 +232,19 @@ Qual o plural de curriculum vitae? Bom, o plural de currículo é currículos, p
 
 A seguir alguns exemplos de Currículos para tirar ideias:
 
+## Exemplo 1
+
+![Alt text](image.png)
+
+## Exemplo 2
+
+![Alt text](image-1.png)
+## Exemplo 3
+
+![Alt text](image-2.png)
+## Exemplo 4
+
+![Alt text](image-3.png)
+
+
+## Exemplo 7
