@@ -36,4 +36,4 @@ PRIMEIRO DEGRAU DA NOSSA ESCADA
 
 - [Cartas de apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md)
 
-- Dicas importantes.
+- [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/exercicios.md)
