@@ -34,6 +34,6 @@ PRIMEIRO DEGRAU DA NOSSA ESCADA
 
 - [Currículo Vitae](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/curriculo-vitae.md)
 
-- [Cartas de apresentação]((https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md))
+- [Cartas de apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md)
 
 - Dicas importantes.
