@@ -1,8 +1,8 @@
-# :star: MODULO 1
+# <img width="40" height="40" src="https://img.icons8.com/nolan/40/form.png" alt="form"/> MODULO 1
 
-1. Alfabeto, principalmente letras X, W, www, Y, H)
+1. Alfabeto, principalmente letras (X, W, www, Y, H)
 
-2. Expresiones e tratamiento formal e informal, presentación, saludos, agradecimientos, felicitaciones, requerimientos, otros)
+2. Expresiones e tratamiento formal e informal, presentación, saludos, agradecimientos, felicitaciones, requerimientos, otros.
 
 3.  Días de la semana, meses.
 
@@ -25,4 +25,4 @@ personales. Modelos.
 
 11.  Ejercicio oral. Elaboración de un vídeo de presentación.
 
- ---
+---

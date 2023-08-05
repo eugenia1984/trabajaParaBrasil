@@ -22,7 +22,7 @@ Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La co
 
 - Cuenta siempre con **un profesor a tu disposición** para resolver tus dudas y brindarte apoyo continuo en los **espacios de conuslta**:
 
-  | dia | horario |
+  | día | horario |
   | --- | ------- |
   | LU | 20:00 - 23:00 |
   | MA | 19:00 - 23:00 |
@@ -126,10 +126,10 @@ El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediat
 
 ---
 
-## MODULOS
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> MODULOS CON EORÌA Y PRÁCTICA
 
-- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1.md)
+- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/README.md)
 
-- [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2.md)
+- [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/README.md)
 
 ---
