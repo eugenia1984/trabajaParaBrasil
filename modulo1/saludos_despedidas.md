@@ -50,3 +50,10 @@ Existe também uma série de outras saudações informais, usadas principalmente
   
 
 ---
+
+## Saludos e despedidas
+
+<img src="https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/71f58b7b-e286-4300-9b6b-1756216ebbe7" width="450" alt="saludos e despedidas" />
+
+
+---
