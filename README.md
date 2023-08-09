@@ -73,7 +73,8 @@ y social.
 
 ## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> MODULOS CON TEORÍA Y PRÁCTICA
 
-- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/README.md): - [Currículo Vitae](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/curriculo-vitae.md) / [Cartas de apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md) /  [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/exercicios.md) / [Pronombres posesivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_posesivos.md) / [Adjetivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/adjetivos.md)
+- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/README.md): - [Currículo Vitae](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/curriculo-vitae.md) / [Cartas de apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md) /  [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/exercicios.md) / [Pronombres posesivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_posesivos.md) / [Adjetivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/adjetivos.md) / [Pronomes demostrativos e interrogativos - Qualqur - Apócope del adverbio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_demonstrativos_interrogativos_apocope_del_adverbio.md)
+  
 
 - [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/README.md)
 
