@@ -10,31 +10,22 @@
 
 - [Clases de Portugués Básico - Los Números](https://www.youtube.com/watch?v=m3lqmTTrVr0)
 
-| número | escribe |
-|----- | ------ |
-| 0 | zero (con zzz) |
-| 1 | um |
-| 2 | dois |
-| 3 | três |
-| 4 | quatro |
-| 5 | cinco |
-| 6 | seis |
-| 7 | sete (sechi)|
-| 8 | oito (oitu) |
+| número | escribe | | | número | escribe |
+|----- | ------ | -- | |----- | ------ |
+| 0 | zero (con zzz) | | 11 | onze |
+| 1 | um | | 12 | doze |
+| 2 | dois | | 13 | |
+| 3 | três | | 14 | |
+| 4 | quatro | | 15 | |
+| 5 | cinco | | 16 | |
+| 6 | seis | | 17 | |
+| 7 | sete (sechi)| | 18 | |
+| 8 | oito (oitu) | | 19 | |
 | 9 | nove |
 | 10 | dez |
 
-| número | escribe |
-|----- | ------ |
-| 11 | onze |
-| 12 | doze |
-| 13 | |
-| 14 | |
-| 15 | |
-| 16 | |
-| 17 | |
-| 18 | |
-| 19 | |
+
+
 
 | número | escribe |
 |----- | ------ |
