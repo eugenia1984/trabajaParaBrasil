@@ -6,4 +6,8 @@
 
 ---
 
-A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim como os filmes em sua versão original. As letras das músicas tornam mais fácil e divertida a memorização de vocabulário e expressões. Ouvindo música, assistindo videos , filmes etc ajudamos a melhorar a pronúncia, ponto muito importante para vocês no projeto!:nota_musical:. Hoje vamos conhecer Rita Lee, uma cantora de rock brasileira , falecida recentemente, mas cuja música permanecerá nos ouvidos de muitos brasileiros. :partitura::partitura::auriculares::nota_musical:
+A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim como os filmes em sua versão original. As letras das músicas tornam mais fácil e divertida a memorização de vocabulário e expressões. Ouvindo música, assistindo videos , filmes etc ajudamos a melhorar a pronúncia, ponto muito importante para vocês no projeto!
+
+- Hoje vamos conhecer Rita Lee, uma cantora de rock brasileira , falecida recentemente, mas cuja música permanecerá nos ouvidos de muitos brasileiros. [Reza - Rita Lee (Video Original Subtitulado al español)](https://www.youtube.com/watch?v=3TTas4Ps4OA) y [Rita Lee - Lança Perfume - 1980](https://www.youtube.com/watch?v=zJfscGSe3rc)
+
+---
