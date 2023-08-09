@@ -9,12 +9,11 @@ Repositorio donde dejare mis prácticas de portugués con No Country.
 Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La comunicación se llevará a cabo de manera centralizada a través de Slack, brindándote una experiencia de aprendizaje fluida y efectiva.
 
 - Elige entre disponibles:
-
+```
 -Mañana: 09 hs. a 12 hs.
-
 -Tarde: 14 hs. a 1Ú hs.
-
 -Noche: 19 hs. a 23 hs.
+```
 
 - Disfruta de **2 clases en vivo por semana**, con una duración de **1 hora** cada unael LUNES y MIÉRCOLES de 19:00js a 20:00hs.
 
@@ -73,7 +72,7 @@ y social.
 
 ## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> MODULOS CON TEORÍA Y PRÁCTICA
 
-- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/README.md): - [Currículo Vitae](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/curriculo-vitae.md) / [Cartas de apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md) /  [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/exercicios.md) / [Pronombres posesivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_posesivos.md) / [Adjetivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/adjetivos.md) / [Pronomes demostrativos e interrogativos - Qualquer - Apócope del adverbio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_demonstrativos_interrogativos_apocope_del_adverbio.md) / [Os números](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/numeros.md) / [O alfabeto](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/o-alfabeto.md) / [Saludos y Despedidas](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/saludos_despedidas.md) / [Os meses, as estações do ano e os dias da semana](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/meses_estaciones_dias_da_semana.md)
+- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/README.md): - [Currículo Vitae](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/curriculo-vitae.md) / [Cartas de apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md) /  [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/exercicios.md) / [Pronombres posesivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_posesivos.md) / [Adjetivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/adjetivos.md) / [Pronomes demostrativos e interrogativos - Qualquer - Apócope del adverbio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_demonstrativos_interrogativos_apocope_del_adverbio.md) / [Os números](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/numeros.md) / [O alfabeto](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/o-alfabeto.md) / [Saudações e despedidas](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/saludos_despedidas.md) / [Os meses, as estações do ano e os dias da semana](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/meses_estaciones_dias_da_semana.md)
   
 
 - [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/README.md)
