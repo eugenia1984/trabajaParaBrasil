@@ -1,4 +1,4 @@
-# :star: Saludos y Despedidas
+# :star: Saudações e despedidas (Saludos y Despedidas)
 
 ## As saudações mais comuns 
 
