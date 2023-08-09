@@ -12,17 +12,17 @@
 
 | número | escribe | - | número | escribe |
 |------- | ------- | - | ------ | ------- |
-| 0 | zero (con zzz) | | 11 | onze |
-| 1 | um | | 12 | doze |
-| 2 | dois | | 13 | |
-| 3 | três | | 14 | |
-| 4 | quatro | | 15 | |
-| 5 | cinco | | 16 | |
-| 6 | seis | | 17 | |
-| 7 | sete (sechi)| | 18 | |
-| 8 | oito (oitu) | | 19 | |
-| 9 | nove |
-| 10 | dez |
+| 0 | zero (con zzz) | | 10 | dez |
+| 1 | um | | 11 | onze |
+| 2 | dois | | 12 | doze |
+| 3 | três | | 13 | |
+| 4 | quatro | | 14 | |
+| 5 | cinco | | 15 | |
+| 6 | seis | | 16 | |
+| 7 | sete (sechi)| | 17 | |
+| 8 | oito (oitu) | | 18 | |
+| 9 | nove | | 19 | |
+
 
 
 
