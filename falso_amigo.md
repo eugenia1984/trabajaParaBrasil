@@ -2,11 +2,11 @@
 
 ### Do que se trata? 
 
-Um falso amigo em português é uma palavra que pode ser igual a uma em espanhol, mas seu significado é totalmente diferente. Temos que ter cuidado com os falsos amigos! :ojos:
+Um falso amigo em português é uma palavra que pode ser igual a uma em espanhol, mas seu significado é totalmente diferente. Temos que ter cuidado com os falsos amigos! 👁️
 
 ---
 
-## :bandera-br: NOME / SOBRENOMBRE / APELIDO
+## 🇧🇷 NOME / SOBRENOMBRE / APELIDO
 
 | Portugues | Español |
 | --------- | ------- |
@@ -14,7 +14,7 @@ Um falso amigo em português é uma palavra que pode ser igual a uma em espanhol
 | sobrenome | apellido |
 | apelido | apodo | 
 
-:bandera-br: **sobrenome** todos nós temos, **apelido** talvez não.
+BR **sobrenome** todos nós temos, **apelido** talvez não.
 
 ---
 
