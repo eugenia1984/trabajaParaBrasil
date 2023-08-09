@@ -10,7 +10,7 @@
 
 - [Clases de Portugués Básico - Los Números](https://www.youtube.com/watch?v=m3lqmTTrVr0)
 
-| número | escribe |  | número | escribe |
+| número | escribe | - | número | escribe |
 |----- | ------ | -- | - |----- | ------ |
 | 0 | zero (con zzz) | | 11 | onze |
 | 1 | um | | 12 | doze |
