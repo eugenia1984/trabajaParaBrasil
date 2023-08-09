@@ -41,5 +41,7 @@ PRIMEIRO DEGRAU DA NOSSA ESCADA
 - [Pronombres posesivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_posesivos.md)
 
 - [Adjetivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/adjetivos.md)
+
+- [Pronomes demostrativos e interrogativos - Qualqur - Apócope del adverbio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_demonstrativos_interrogativos_apocope_del_adverbio.md)
   
 --- 
