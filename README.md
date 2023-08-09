@@ -132,3 +132,9 @@ El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediat
 - [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/README.md)
 
 ---
+
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> Hay palabras que en español tienen un significado muy distinto al Portugues
+
+- Se pueden ver ejemplos en [Falso amigo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/falso_amigo.md)
+
+---
