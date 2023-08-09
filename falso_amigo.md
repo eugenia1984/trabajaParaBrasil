@@ -36,10 +36,15 @@ fábrica para ser reparado?
 
 ---
 
-## <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/> ESPAÑOL DECIMOS ESCRITÓRIO (mueble) PERO EN PORTUGUÉS DECIMOS ESCRIVANINHA 
+## <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/> EN ESPAÑOL DECIMOS ESCRITÓRIO (mueble) PERO EN PORTUGUÉS DECIMOS ESCRIVANINHA 
 
 Exemplo 1:  A **escrivaninha** pequena é um modelo interessante para quem não tem tanto espaço em casa.  
  
 Exemplo 2: O **ESCRITÓRIO** IDEAL É NA PRAIA, COM OS PÉS NA AREIA E UMA **ESCRIVANINHA** DE MADEIRA! O QUE VOCÊS ACHAM? (LA **OFICINA** IDEAL ES EN LA PLAYA CON LOS PIES EN LA ARENA Y CON UN **ESCRITORIO** DE MADERA! QUE PIENSAN USTEDES? )
   
+---
+## <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/> EN ESÀÑOL DECIMOS AGARRAR Y EN PORTUGUÉS DECIMOS PEGAR
+
+Como la canción de Michel Teló - Ai se eu te pego
+
 ---
