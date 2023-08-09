@@ -6,7 +6,7 @@ Um falso amigo em português é uma palavra que pode ser igual a uma em espanhol
 
 ---
 
-## :🇧🇷: NOME / SOBRENOMBRE / APELIDO
+## 🇧🇷 NOME / SOBRENOMBRE / APELIDO
 
 | Portugues | Español |
 | --------- | ------- |
