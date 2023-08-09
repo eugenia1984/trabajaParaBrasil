@@ -87,12 +87,13 @@ y social.
 
 ## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> Você sabía ???
 
-- Se pueden ver algunos datos, curiosidades y cosas varias en: [ Você sabía?](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/voce_sabia.md)
+- Se pueden ver algunos datos, curiosidades y cosas varias en: [Você sabía?](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/voce_sabia.md)
 
 ---
+
 ## <img width="30" height="30" src="https://img.icons8.com/color/30/hearing.png" alt="hearing"/> treinamento-auditivo
 
-En [treinamento-auditivo((https://github.com/eugenia1984/trabajaParaBrasil/blob/main/treinamento-auditivo.md) hay link a video para entrenar el oido
+En [treinamento-auditivo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/treinamento-auditivo.md) hay link a video para entrenar el oido
 
 ---
 
