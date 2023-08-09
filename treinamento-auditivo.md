@@ -6,6 +6,58 @@
 
 ---
 
+## <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-uno-edutainment-flaticons-lineal-color-flat-icons.png" alt="external-uno-edutainment-flaticons-lineal-color-flat-icons"/> LOS NÚMEROS (OS NÚMEROS)
+
+- [Clases de Portugués Básico - Los Números](https://www.youtube.com/watch?v=m3lqmTTrVr0)
+
+| número | escribe |
+|----- | ------ |
+| 0 | zero (con zzz) |
+| 1 | um |
+| 2 | dois |
+| 3 | três |
+| 4 | quatro |
+| 5 | cinco |
+| 6 | seis |
+| 7 | sete (sechi)|
+| 8 | oito (oitu) |
+| 9 | nove |
+| 10 | dez |
+
+| número | escribe |
+|----- | ------ |
+| 11 | onze |
+| 12 | doze |
+| 13 | |
+| 14 | |
+| 15 | |
+| 16 | |
+| 17 | |
+| 18 | |
+| 19 | |
+
+| número | escribe |
+|----- | ------ |
+| 20 | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+---
+
 ## <img width="40" height="40" src="https://img.icons8.com/external-smashingstocks-hand-drawn-color-smashing-stocks/40/external-Sing-recreation-and-hobbies-smashingstocks-hand-drawn-color-smashing-stocks.png" alt="external-Sing-recreation-and-hobbies-smashingstocks-hand-drawn-color-smashing-stocks"/> A MÚSICA
 
 A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim como os filmes em sua versão original. As letras das músicas tornam mais fácil e divertida a memorização de vocabulário e expressões. Ouvindo música, assistindo videos , filmes etc ajudamos a melhorar a pronúncia, ponto muito importante para vocês no projeto!
