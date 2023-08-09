@@ -18,7 +18,7 @@ Um falso amigo em português é uma palavra que pode ser igual a uma em espanhol
 
 ---
 
-##  EN ESPAÑOL DECIMOS OFICINA, PERO EN PORTUGUÉS DECIMOS ESCRITORIO <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/>
+## <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/> EN ESPAÑOL DECIMOS OFICINA, PERO EN PORTUGUÉS DECIMOS ESCRITORIO
 
 Ex. 1: Renato trabalha em um **escritório** de segunda à sexta feira. 
 
@@ -27,7 +27,7 @@ se vestir confortavelmente sem parecer um desleixo e, agora, com o retorno ao es
  
 --- 
  
-##  EN ESPAÑOL DECIMOS TALLER MECÁNICO, PERO EN PORTUGUÉS DECIMOS OFICINA <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/>
+## <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/> EN ESPAÑOL DECIMOS TALLER MECÁNICO, PERO EN PORTUGUÉS DECIMOS OFICINA 
 
 Ex. 1: O radiador ferve, o veículo será consertado na **oficina** da Rua Machado de Assis 2929.  
 
@@ -36,7 +36,7 @@ fábrica para ser reparado?
 
 ---
 
-## ESPAÑOL DECIMOS ESCRITÓRIO (mueble) PERO EN PORTUGUÉS DECIMOS ESCRIVANINHA <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/>
+## <img width="38" height="38" src="https://img.icons8.com/fluency/38/brazil.png" alt="brazil"/> ESPAÑOL DECIMOS ESCRITÓRIO (mueble) PERO EN PORTUGUÉS DECIMOS ESCRIVANINHA 
 
 Exemplo 1:  A **escrivaninha** pequena é um modelo interessante para quem não tem tanto espaço em casa.  
  
