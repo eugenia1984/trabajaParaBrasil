@@ -12,4 +12,6 @@ A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim com
 
 - Hoje vamos conhecer Rita Lee, uma cantora de rock brasileira , falecida recentemente, mas cuja música permanecerá nos ouvidos de muitos brasileiros. [Reza - Rita Lee (Video Original Subtitulado al español)](https://www.youtube.com/watch?v=3TTas4Ps4OA) y [Rita Lee - Lança Perfume - 1980](https://www.youtube.com/watch?v=zJfscGSe3rc)
 
+- Vamos a ouvir a seguir a música. Mais um dado pra vcs !! tou muito generosa hoje. Vão ouvir .... [Michel Teló - Ai Se Eu Te Pego - Video Oficial (Assim você me mata)](https://www.youtube.com/watch?v=hcm55lU9knw) -> (**PEGAR en portugués significa agarrar**)
+
 ---
