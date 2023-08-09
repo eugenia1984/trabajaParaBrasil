@@ -45,5 +45,7 @@ PRIMEIRO DEGRAU DA NOSSA ESCADA
 - [Pronomes demostrativos e interrogativos - Qualquer - Apócope del adverbio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/pronomes_demonstrativos_interrogativos_apocope_del_adverbio.md)
 
 - [Os números](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/numeros.md)
-  
+
+- [O alfabeto](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/o-alfabeto.md)
+    
 --- 
