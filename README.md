@@ -71,6 +71,19 @@ y social.
 
 ---
 
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> MODULOS CON TEORÍA Y PRÁCTICA
+
+- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/README.md): - [Currículo Vitae](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/curriculo-vitae.md) / [Cartas de apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md) /  [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/exercicios.md)
+
+- [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/README.md)
+
+---
+
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> Hay palabras que en español tienen un significado muy distinto al Portugues
+
+- Se pueden ver ejemplos en [Falso amigo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/falso_amigo.md)
+
+---
 ## <img width="40" height="40" src="https://img.icons8.com/emoji/40/check-mark-button-emoji.png" alt="check-mark-button-emoji"/> APROBACIÓN
 
 Para evaluar tus habilidades y progreso, nuestro equipo de profesores evaluará **4 entregas en video**. Se evaluarán
@@ -122,19 +135,5 @@ El incumplimiento de cualquiera de estas reglas supondrá la expulsión inmediat
 - <img width="30" height="30" src="https://img.icons8.com/color/30/talk-female.png" alt="talk-female"/>: #conversemos: Conversaciones no relacionadas al tema principal del canal. Comparte imágenes, enlaces y juegos. Sé respetuoso y evita temas inapropiados.
 
 - <img width="30" height="0" src="https://img.icons8.com/color/30/general-warning-sign.png" alt="general-warning-sign"/>:Una vez iniciado el curso, los inscritos van a ser invitados a canales privados del curso a los cuales permanecerán para siempre junto con los anteriores. 
-
----
-
-## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> MODULOS CON TEORÍA Y PRÁCTICA
-
-- [Modulo 1](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/README.md): - [Currículo Vitae](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/curriculo-vitae.md) / [Cartas de apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/cartas_de_apresentacao.md) /  [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/exercicios.md)
-
-- [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/README.md)
-
----
-
-## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> Hay palabras que en español tienen un significado muy distinto al Portugues
-
-- Se pueden ver ejemplos en [Falso amigo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/falso_amigo.md)
 
 ---
