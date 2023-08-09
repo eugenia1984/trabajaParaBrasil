@@ -15,9 +15,7 @@ posesivos, demostrativos e interrogativos.
 
 7. Cartas de presentación, modelos.
 
-8. Sugerencias para presentación del perfil profesional y cualidades 
-personales. Modelos.
-
+8. Sugerencias para presentación del perfil profesional y cualidades personales. Modelos.
 
 9. Ejercicios de gramática.
 
@@ -47,5 +45,7 @@ PRIMEIRO DEGRAU DA NOSSA ESCADA
 - [Os números](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/numeros.md)
 
 - [O alfabeto](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/o-alfabeto.md)
+
+- [Saludos y Despedidas](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/saludos_despedidas.md)
     
 --- 
