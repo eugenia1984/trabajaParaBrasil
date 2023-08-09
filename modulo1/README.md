@@ -49,5 +49,7 @@ PRIMEIRO DEGRAU DA NOSSA ESCADA
 - [Saudações e despedidas](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/saludos_despedidas.md)
 
 - [Os meses, as estações do ano e os dias da semana](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/meses_estaciones_dias_da_semana.md)
-      
+
+- [Informações pessoais e apresentação](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo1/informacion_personal_presentacion.md)
+        
 --- 
