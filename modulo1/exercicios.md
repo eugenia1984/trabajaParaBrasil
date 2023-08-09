@@ -39,6 +39,35 @@ Clube atual: Paris Saint-Germain
 
 Site oficial: www.neymarjr.com/pt
 
+### Resposta:
+
+- Quem é ele? Ele é um jogador de futebol.
+
+- Qual é seu nome? Seu nome é Neymar
+
+- Quel é seu sobrenome? Seu sobrenome é da Silva Santos Júnio
+
+- Ele tem apelido? Sim, ele tem vários apelidos: Ney, Menino Ney, Príncipe do Gol, NeyMonstro, Neymito
+
+- Onde ele mora?
+
+- Quantos anos ele tem?
+
+- O que ele faz?
+
+- Ele fala inglês, espanhol ou português?
+
+- Ele tem site web? www. (dábliu, dábliu, dábliu..soletrar o endereço eletrônico.)
+
+- Qual é sua profissão?
+
+| Portugues | Español |
+| --------- | ------- |
+| nome | nombre |
+| sobrenome | apellido |
+| apelido | apodo | 
+
+---
 ---
 
 ## Exercicío 2:
