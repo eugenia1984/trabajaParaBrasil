@@ -15,37 +15,44 @@
 | 0 | zero (con zzz) | | 10 | dez |
 | 1 | um | | 11 | onze |
 | 2 | dois | | 12 | doze |
-| 3 | três | | 13 | |
-| 4 | quatro | | 14 | |
-| 5 | cinco | | 15 | |
-| 6 | seis | | 16 | |
-| 7 | sete (sechi)| | 17 | |
-| 8 | oito (oitu) | | 18 | |
-| 9 | nove | | 19 | |
-
-
-
+| 3 | três | | 13 | treze |
+| 4 | quatro | | 14 | quatorze (katorzi) )|
+| 5 | cinco | | 15 | quinze (kinzi) |
+| 6 | seis | | 16 | dezesseis |
+| 7 | sete (sechi)| | 17 | dezessete (dezesechi) |
+| 8 | oito (oitu) | | 18 | dezoito |
+| 9 | nove (novi) | | 19 | dezenove (dezenovi) |
 
 
 | número | escribe |
 |----- | ------ |
-| 20 | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| 20 | vinte (vinchi) |
+| 21 | vinte e um |
+| 22 | vinte e dois |
+| 23 | vinte e três |
+| 24 | vinte e quatro |
+
+-> Todos los de 20 van separados, en español van Juntos
+
+- De 10 en 10 
+
+| número | escribe |
+| ------ | ------- |
+| 30 | trinta |
+| 40 | quarenta |
+| 50 | cinquenta |
+| 60 | sessenta |
+| 70 | setenta |
+| 80 | oitenta |
+| 90 | noventa |
+| 100 | cem |
+
+| número | escribe |
+| ------ | ------- |
+| 101 | cente e um |
+| 102 | cento e dois |
+| 103 | cento e três |
+| 104 | cento e quatro|
 
 ---
 
