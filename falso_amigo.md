@@ -1,4 +1,4 @@
-# :star: falso amigo"
+# :star: falso amigo
 
 ### Do que se trata? 
 
