@@ -28,6 +28,19 @@
 
 ---
 
+## IR
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | vou | fui | ia | irei | vou ir |
+| Você | vai | foi | ia | irá | vai ir |
+| Ele/Ela | vai | foi | ia | irá | vai ir |
+| Nós | vamos | fomos | íamos | iremos | vamos ir @
+| Vocês |  vão | foram | iam | irão | vão ir @
+| Eles/Elas |  vão | foram | iam | irão | vão ir |
+
+---
+
 ## SER
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
