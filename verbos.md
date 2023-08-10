@@ -35,8 +35,8 @@
 | Eu | vou | fui | ia | irei | vou ir |
 | Você | vai | foi | ia | irá | vai ir |
 | Ele/Ela | vai | foi | ia | irá | vai ir |
-| Nós | vamos | fomos | íamos | iremos | vamos ir @
-| Vocês |  vão | foram | iam | irão | vão ir @
+| Nós | vamos | fomos | íamos | iremos | vamos ir |
+| Vocês |  vão | foram | iam | irão | vão ir |
 | Eles/Elas |  vão | foram | iam | irão | vão ir |
 
 ---
