@@ -103,6 +103,20 @@ Minha profissão é programadora.
 
 Ustedes son doctores -> Vocês são médicos
 
+Soy profesora de portugués. -> Eu sou professora de português.
+
+Usted es panadero -> Você é padeiro
+
+Él es astronauta -> Ele é astronauta.
+
+Ellas son azafatas -> Elas são aeromoças
+
+Paula es rubia -> Paula é loira
+
+Es una buena persona -> Ela é uma pessoa legal
+
+Nosotros somos amigos -> Nós somos amigos
+ 
 ---
 ---
 
@@ -300,24 +314,24 @@ Você deve gravar um vídeo falando sobre você indicando seus dados pessoais, o
 
 Faça as contrações e depois complete as frases.
 
-1. (de + a = ___ ) Os meninos não gostaram ___ comida que eu preparei.
+1. (de + a = da) Os meninos não gostaram da comida que eu preparei.
 
-2. (em + o =___ ) ___ próximo ano vou viajar para o Brasil.
+2. (em + o = no ) No próximo ano vou viajar para o Brasil.
 
-3. (por + as = ___ ) Este ônibus passa ______ avenidas mais famosas de São Paulo.
+3. (por + as = pelas ) Este ônibus passa pelas avenidas mais famosas de São Paulo.
 
-4. (de + os = ___ ) Não preciso mais ___ cadernos que você me emprestou.
+4. (de + os = dos ) Não preciso mais dos cadernos que você me emprestou.
 
 5. (a + os = ___ ) Você poderia entregar este comunicado ___ funcionários?
 
-6. (por + o = ____ ) Agradeço ____ apoio que vocês têm dado.
+6. (por + o = pelo ) Agradeço pelo apoio que vocês têm dado.
 
-7. (por +a) Estou feliz ___ notícia.
+7. (por + a = pela ) Estou feliz pela notícia.
 
 8. (de + as) = Os nomes ___ colegas são Ana e Paula.
 
 9. (de + os) = Os nomes ___ programas desenvolvidos estão escritos em vermelho.
 
-10. (por + a = ___ ) Eu vou caminhando ___ rua Paulista.
+10. (por + a = pela ) Eu vou caminhando pela rua Paulista.
 
 ---
