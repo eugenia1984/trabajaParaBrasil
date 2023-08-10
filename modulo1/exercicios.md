@@ -80,6 +80,21 @@ Pergunte ao seu colega sobre os seus dados pessoais.
 
 Seu colega pergunta a você
 
+
+-> 
+```
+Eu sou programadora.
+Meu nome é María Eugenia.
+Meu sobrenomeé Costa
+Eu tenho apelidos, são: Euge, Mari, Tati, Mitu.
+Eu moro em Buenos Aires.
+Eu tenho 38 anos.
+Eu trabalho de programadora no Softtek.
+Eu falo espanhol, inglês e português.
+Minha profissão é programadora.
+```
+
+---
 ---
 
 ## 3- Exercicíos on-line
@@ -88,6 +103,7 @@ Seu colega pergunta a você
 
 Ustedes son doctores -> Vocês são médicos
 
+---
 ---
 
 ## 4- Exercícios possesivos
