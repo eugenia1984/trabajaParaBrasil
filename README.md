@@ -102,6 +102,11 @@ y social.
 En [treinamento-auditivo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/treinamento-auditivo.md) hay link a video para entrenar el oido
 
 ---
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> Contrações
+
+- [Contrações](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/contracoes.md)
+
+---
 
 ## <img width="40" height="40" src="https://img.icons8.com/emoji/40/check-mark-button-emoji.png" alt="check-mark-button-emoji"/> APROBACIÓN
 
