@@ -49,17 +49,19 @@ Site oficial: www.neymarjr.com/pt
 
 - Ele tem apelido? Sim, ele tem vários apelidos: Ney, Menino Ney, Príncipe do Gol, NeyMonstro, Neymito
 
-- Onde ele mora?
+- Onde ele mora? Ele mora em São Paulo
 
-- Quantos anos ele tem?
+- Quantos anos ele tem? Ele tem 31 (trinta e um) anos.
 
-- O que ele faz?
+- O que ele faz? Ele joga futebol no  Paris Saint-Germain
 
-- Ele fala inglês, espanhol ou português?
+- Ele fala inglês, espanhol ou português? Ele fala português.
 
-- Ele tem site web? www. (dábliu, dábliu, dábliu..soletrar o endereço eletrônico.)
+- Ele tem site web? www. (dábliu, dábliu, dábliu..soletrar o endereço eletrônico.) Sim, ele tem site web, é: www.neymarjr.com/pt.
 
-- Qual é sua profissão?
+- Qual é sua profissão? Sua profissão é jogador de futebol.
+
+---
 
 | Portugues | Español |
 | --------- | ------- |
@@ -86,7 +88,7 @@ Seu colega pergunta a você
 
 ---
 
-## 4- Exercícios possesivos.
+## 4- Exercícios possesivos
 
 Complete com o pronome possessivo que corresponde.
 
@@ -94,65 +96,65 @@ Possessivos: **Meu – Minha – Meus – Minhas**
 
 Complete com o pronome possessivo que corresponde:
 
-1. ______________________ cachorro é brincalhão.
+1. Meu cachorro é brincalhão.
 
-2. ______________________ amigos são leais.
+2. Meus amigos são leais.
 
-3. ______________________ livros estão na estante.
+3. Meus livros estão na estante.
 
-4. ______________________ casa é aconchegante.
+4. Minha casa é aconchegante.
 
-5. ______________________ irmãos são muito inteligentes.
+5. Meus irmãos são muito inteligentes.
 
-6. ______________________ mochila está no armário.
+6. Minha mochila está no armário.
 
-7. ______________________ gato gosta de caçar pássaros.
+7. Meu gato gosta de caçar pássaros.
 
-8. ______________________ pais estão de férias.
+8. Meus pais estão de férias.
 
-9. ______________________ avô tem uma bicicleta nova.
+9. Meu avô tem uma bicicleta nova.
 
-10. ______________________ tia é muito carinhosa.
+10. Minha tia é muito carinhosa.
 
-11. ______________________carro está estacionado na rua.
+11. Meu carro está estacionado na rua.
 
-12. ______________________ notas estão na mochila.
+12. Minhas notas estão na mochila.
 
-13. ______________________ canetas estão na mesa.
+13. Minhas canetas estão na mesa.
 
-14. ______________________ irmã gosta de desenhar.
+14. Minha irmã gosta de desenhar.
 
-15. ______________________ computador está lento.
+15. Meu computador está lento.
 
-16. ______________________ celulares estão carregando.
+16. Meus celulares estão carregando.
 
-17. ______________________ caderno está em cima da cadeira.
+17. Meu caderno está em cima da cadeira.
 
-18. ______________________ almoço está pronto.
+18. Meu almoço está pronto.
 
-19. ______________________ relógio está atrasado.
+19. Meu relógio está atrasado.
 
-20. ______________________ marido é um excelente cozinheiro.
+20. Meu marido é um excelente cozinheiro.
 
-21. ______________________ esposa é muito talentosa.
+21. Minha esposa é muito talentosa.
 
-22. ______________________ colega de classe está doente.
+22. Minha colega de classe está doente.
 
-23. ______________________ penteado está lindo.
+23. Meu penteado está lindo. (penteado / peinado)
 
-24. ______________________ sapatos estão apertados.
+24. Meus sapatos estão apertados.
 
-25. ______________________ bolo ficou delicioso.
+25. Meu bolo ficou delicioso.
 
-26. ______________________ professora é muito paciente.
+26. Minha professora é muito paciente.
 
-27. ______________________ filha está estudando para a prova.
+27. Minha filha está estudando para a prova.
 
-28. ______________________ primos estão viajando para o exterior.
+28. Meus primos estão viajando para o exterior.
 
-29. ______________________ computador tem um vírus.
+29. Meu computador tem um vírus.
 
-30. ______________________ bolsa está na cadeira.
+30. Minha bolsa está na cadeira.
 
 ---
 
@@ -221,6 +223,7 @@ Verbos Presente e Passado:
 29. (ter) (Presente) Eu __________ um livro interessante para ler.
 
 30. (ter) (Pasado) Ela __________ um sonho estranho ontem.
+
 
 ### Preencha as lacunas com o verbo no futuro imediato:
 
