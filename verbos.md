@@ -7,10 +7,10 @@
 | - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito |
 | - | --------------------- | ------------------ | -------------------- |
 | Eu | estou | estive | |
-| Você  | estás | estiveste | |
+| Você  | está | estiveste | |
 | Ele/Ela | está  | esteve | |
 | Nós | estamos | estivemos | |
-| Você s | estais | estivestes  | |
+| Você s | estão | estivestes  | |
 | Eles/Elas | estão | estiveram | |
 
 ---
