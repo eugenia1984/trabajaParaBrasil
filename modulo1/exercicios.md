@@ -130,65 +130,65 @@ Possessivos: **Meu – Minha – Meus – Minhas**
 
 Complete com o pronome possessivo que corresponde:
 
-1. Meu cachorro é brincalhão.
+1. **Meu** cachorro é brincalhão.
 
-2. Meus amigos são leais.
+2. **Meus** amigos são leais.
 
-3. Meus livros estão na estante.
+3. **Meus** livros estão na estante.
 
-4. Minha casa é aconchegante.
+4. **Minha** casa é aconchegante.
 
-5. Meus irmãos são muito inteligentes.
+5. **Meus** irmãos são muito inteligentes.
 
-6. Minha mochila está no armário.
+6. **Minha** mochila está no armário.
 
-7. Meu gato gosta de caçar pássaros.
+7. **Meu** gato gosta de caçar pássaros.
 
-8. Meus pais estão de férias.
+8. **Meus** pais estão de férias.
 
-9. Meu avô tem uma bicicleta nova.
+9. **Meu** avô tem uma bicicleta nova.
 
-10. Minha tia é muito carinhosa.
+10. **Minha** tia é muito carinhosa.
 
-11. Meu carro está estacionado na rua.
+11. **Meu** carro está estacionado na rua.
 
-12. Minhas notas estão na mochila.
+12. **Minhas** notas estão na mochila.
 
-13. Minhas canetas estão na mesa.
+13. **Minhas** canetas estão na mesa.
 
-14. Minha irmã gosta de desenhar.
+14. **Minha** irmã gosta de desenhar.
 
-15. Meu computador está lento.
+15. **Meu** computador está lento.
 
-16. Meus celulares estão carregando.
+16. **Meus** celulares estão carregando.
 
-17. Meu caderno está em cima da cadeira.
+17. **Meu** caderno está em cima da cadeira.
 
-18. Meu almoço está pronto.
+18. **Meu** almoço está pronto.
 
-19. Meu relógio está atrasado.
+19. **Meu** relógio está atrasado.
 
-20. Meu marido é um excelente cozinheiro.
+20. **Meu** marido é um excelente cozinheiro.
 
-21. Minha esposa é muito talentosa.
+21. **Minha** esposa é muito talentosa.
 
-22. Minha colega de classe está doente.
+22. **Minha** colega de classe está doente.
 
-23. Meu penteado está lindo. (penteado / peinado)
+23. **Meu** penteado está lindo. (penteado / peinado)
 
-24. Meus sapatos estão apertados.
+24. **Meus** sapatos estão apertados.
 
-25. Meu bolo ficou delicioso.
+25. **Meu** bolo ficou delicioso.
 
-26. Minha professora é muito paciente.
+26. **Minha** professora é muito paciente.
 
-27. Minha filha está estudando para a prova.
+27. **Minha** filha está estudando para a prova.
 
-28. Meus primos estão viajando para o exterior.
+28. **Meus** primos estão viajando para o exterior.
 
-29. Meu computador tem um vírus.
+29. **Meu** computador tem um vírus.
 
-30. Minha bolsa está na cadeira.
+30. **Minha** bolsa está na cadeira.
 
 ---
 
@@ -198,65 +198,65 @@ Verbos Presente e Passado: Preencher com o verbo correto
 
 Verbos Presente e Passado:
 
-1. (ficar) (Presente) Eu fico muito feliz quando te vejo.
+1. (ficar) (Presente) Eu **fico*+ muito feliz quando te vejo.
 
-2. (ficar) (Pasado) Ela ficou surpresa com o resultado.
+2. (ficar) (Pasado) Ela **ficou** surpresa com o resultado.
 
-3. (ser) (Presente) Ele é meu melhor amigo.
+3. (ser) (Presente) Ele **é** meu melhor amigo.
 
-4. (ser) (Pasado) A festa era/foi incrível!
+4. (ser) (Pasado) A festa **era/foi** incrível!
 
-5. (ter) (Presente) Nós temos muitas coisas em comum.
+5. (ter) (Presente) Nós **temos** muitas coisas em comum.
 
-6. (ter) (Pasado) Eles tiveram um ótimo desempenho na prova.
+6. (ter) (Pasado) Eles **tiveram** um ótimo desempenho na prova.
 
-7. (estar) (Presente) O tempo está bom hoje.
+7. (estar) (Presente) O tempo **está** bom hoje.
 
-8. (estar) (Pasado) A praia estava lotada no fim de semana passado.
+8. (estar) (Pasado) A praia **estava** lotada no fim de semana passado.
 
-9. (ficar) (Presente) Vocês ficam lindos juntos!
+9. (ficar) (Presente) Vocês **ficam** lindos juntos!
 
-10. (ficar) (Pasado) Ela ficava doente na semana passada.
+10. (ficar) (Pasado) Ela **ficava** doente na semana passada.
 
-11. (ser) (Presente) Ele é um ótimo cozinheiro.
+11. (ser) (Presente) Ele **é** um ótimo cozinheiro.
 
-12. (estar) (Pasado) A comida do restaurante estava maravilhosa.
+12. (estar) (Pasado) A comida do restaurante **estava** maravilhosa.
 
-13. (ter) (Presente) Eu tenho uma bicicleta nova.
+13. (ter) (Presente) Eu **tenho** uma bicicleta nova.
 
-14. (ter) (Pasado) Ela teve uma ideia brilhante.
+14. (ter) (Pasado) Ela **teve** uma ideia brilhante.
 
-15. (estar) (Presente) O cachorro está brincando no parque.
+15. (estar) (Presente) O cachorro **está** brincando no parque.
 
-16. (estar) (Pasado) O filme estava emocionante.
+16. (estar) (Pasado) O filme **estava** emocionante.
 
-17. (ficar) (Presente) Vocês ficam bravos facilmente.
+17. (ficar) (Presente) Vocês **ficam** bravos facilmente.
 
-18. (ficar) (Pasado) Ela ficava cansada depois de tanto trabalho.
+18. (ficar) (Pasado) Ela **ficava** cansada depois de tanto trabalho.
 
-19. (ser) (Presente) Ele é muito inteligente.
+19. (ser) (Presente) Ele **é** muito inteligente.
 
-20. (ser) (Pasado) A viagem foi incrível!
+20. (ser) (Pasado) A viagem **foi** incrível!
 
-21. (ter) (Presente) Nós temos uma casa bonita.
+21. (ter) (Presente) Nós **temos** uma casa bonita.
 
-22. (ter) (Pasado) Eles tiveram um encontro romântico.
+22. (ter) (Pasado) Eles **tiveram** um encontro romântico.
 
-23. (estar) (Presente) O clima está frio hoje.
+23. (estar) (Presente) O clima **está** frio hoje.
 
-24. (estar) (Pasado) O trânsito estava terrível ontem.
+24. (estar) (Pasado) O trânsito **estava** terrível ontem.
 
-25. (ficar) (Presente) Vocês ficam ansiosos antes de uma prova.
+25. (ficar) (Presente) Vocês **ficam** ansiosos antes de uma prova.
 
-26. (ficar) (Pasado) Ela ficava feliz com a notícia.
+26. (ficar) (Pasado) Ela **ficava** feliz com a notícia.
 
-27. (ser) (Presente) Ele é um ótimo professor.
+27. (ser) (Presente) Ele **é** um ótimo professor.
 
-28. (ser) (Pasado) A festa de aniversário foi/era  divertida.
+28. (ser) (Pasado) A festa de aniversário **foi/era** divertida.
 
-29. (ter) (Presente) Eu tenho um livro interessante para ler.
+29. (ter) (Presente) Eu **tenho** um livro interessante para ler.
 
-30. (ter) (Pasado) Ela teve um sonho estranho ontem.
+30. (ter) (Pasado) Ela **teve** um sonho estranho ontem.
 
 ---
 
