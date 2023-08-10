@@ -1,7 +1,7 @@
 # <img width="30" height="30" src="https://img.icons8.com/bubbles/30/gymnastics.png" alt="gymnastics"/> EXERCICIOS
 
 
-## 1 - Formule perguntas e respostas para cada uma das informações e, depois, escreva um parágrafo apresentando a personagem
+## Exercicio 1 - Formule perguntas e respostas para cada uma das informações e, depois, escreva um parágrafo apresentando a personagem
 
 ```
 Quem é ele?
@@ -72,7 +72,7 @@ Site oficial: www.neymarjr.com/pt
 ---
 ---
 
-## Exercicío 2:
+## Exercicio 2:
 
 Agora a sua vez!!!
 
@@ -310,7 +310,7 @@ Você deve gravar um vídeo falando sobre você indicando seus dados pessoais, o
 
 ---
 
-## Exercicío 8 :
+## Exercicio 8 :
 
 Faça as contrações e depois complete as frases.
 
