@@ -5,6 +5,7 @@
 ## ESTAR
 
 | - | Presente(Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
+| - | --------------------- | -------------------------------------- |
 | Eu | estou | estive |
 | Tu | estás | estiveste |
 | Ele/Ela | está  | esteve |
