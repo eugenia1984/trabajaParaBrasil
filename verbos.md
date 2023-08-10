@@ -45,11 +45,11 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-| Eu | | | | | |
-| Você | |  | | | |
-| Ele/Ela | | | | | |
-| Nós | |  | | | |
-| Vocês | |  | | | |
-| Eles/Elas | | | | | |
+| Eu | tenho | tive | tinha | terei | vou ter |
+| Você | tem | teve | tinha | terá | vai ter |
+| Ele/Ela | tem | teve | tinha | terá | vai ter |
+| Nós | temos | tivemos | tinhamos | teremos | vãmos ter|
+| Vocês | têm | tiveram | tinham | terão | vão ter |
+| Eles/Elas | têm | tiveram | tinham | terão | vão ter |
 
 ---
