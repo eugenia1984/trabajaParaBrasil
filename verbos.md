@@ -4,14 +4,14 @@
 
 ## ESTAR
 
-| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito | Futuro Inmediato |
-| - | --------------------- | ------------------ | -------------------- | ---------------- |
-| Eu | estou | estive | | |
-| Você  | está | estiveste | | |
-| Ele/Ela | está  | esteve | | |
-| Nós | estamos | estivemos | | |
-| Você s | estão | estivestes  | | |
-| Eles/Elas | estão | estiveram | | |
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | estou | estive | estava | | |
+| Você  | está | estiveste | estava | | |
+| Ele/Ela | está  | esteve | estava | | |
+| Nós | estamos | estivemos | estávamos | | |
+| Vocês | estão | estiveram  | estavam | | |
+| Eles/Elas | estão | estiveram | estavam | | |
 
 ---
 
@@ -30,26 +30,26 @@
 
 ## SER
 
-| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito | Futuro Inmediato |
-| - | --------------------- | ------------------ | -------------------- | ---------------- |
-| Eu | | | | |
-| Você | |  |  | |
-| Ele/Ela | |  | | |
-| Nós | |  | | |
-| Vocês | |  | | |
-| Eles/Elas | | | | |
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | | | | | |
+| Você | |  |  | | |
+| Ele/Ela | |  | | | |
+| Nós | |  | | | |
+| Vocês | |  | | | |
+| Eles/Elas | | | |  | |
 
 ---
 
 ## TER
 
-| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito | Futuro Inmediato |
-| - | --------------------- | ------------------ | -------------------- | ---------------- |
-| Eu | | | | |
-| Você | |  | | |
-| Ele/Ela | | | | |
-| Nós | |  | | |
-| Vocês | |  | | |
-| Eles/Elas | | | | |
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | | | | | |
+| Você | |  | | | |
+| Ele/Ela | | | | | |
+| Nós | |  | | | |
+| Vocês | |  | | | |
+| Eles/Elas | | | | | |
 
 ---
