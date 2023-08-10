@@ -261,45 +261,45 @@ Verbos Presente e Passado:
 
 Modelo: Eu vou (viajar) para a praia no próximo fim de semana.
 
-1. Eu _______________ para a praia no próximo fim de semana. (viajar)
+1. Eu vou viajar para a praia no próximo fim de semana. (viajar)
 
-2. Você _______________ muito para a prova de matemática. (estudar)
+2. Você vai estudar muito para a prova de matemática. (estudar)
 
-3. Ele _______________ um jantar especial para o aniversário da namorada. (preparar)
+3. Ele vai preparar um jantar especial para o aniversário da namorada. (preparar)
 
-4. Nós _______________ de uma corrida de rua no domingo. (participar)
+4. Nós vamos participar de uma corrida de rua no domingo. (participar)
 
-5. A gente _______________ ao novo filme que estreia amanhã. (assistir)
+5. A gente vai assistir ao novo filme que estreia amanhã. (assistir)
 
-6. Eles _______________ presentes para a festa de casamento. (comprar)
+6. Eles vão comprar presentes para a festa de casamento. (comprar)
 
-7. Maria e João _______________ no parque esta tarde. (passear)
+7. Maria e João vão passear no parque esta tarde. (passear)
 
-8. O time de futebol _______________ mais intensamente esta semana. (treinar)
+8. O time de futebol vai treinar mais intensamente esta semana. (treinar)
 
-9. As crianças _______________ no parquinho no sábado. (brincar)
+9. As crianças vão brincar no parquinho no sábado. (brincar)
 
-10. O presidente _______________ novas medidas econômicas amanhã. (anunciar)
+10. O presidente vai anunciar novas medidas econômicas amanhã. (anunciar)
 
-11. Eu _______________ o código fonte para corrigir o bug. (modificar)
+11. Eu vou modificar o código fonte para corrigir o bug. (modificar)
 
-12. Você _______________ o novo software no servidor principal. (instalar)
+12. Você vai instalar o novo software no servidor principal. (instalar)
 
-13. Ele _______________ o aplicativo para testar sua funcionalidade. (compilar)
+13. Ele vai compilar o aplicativo para testar sua funcionalidade. (compilar)
 
-14. Nós _______________ uma reunião para discutir o projeto de desenvolvimento. (agendar)
+14. Nós vamos agendar uma reunião para discutir o projeto de desenvolvimento. (agendar)
 
-15. A equipe _______________ a infraestrutura de rede para melhorar a velocidade. (atualizar)
+15. A equipe vai atualizar a infraestrutura de rede para melhorar a velocidade. (atualizar)
 
-16. Eles _______________ um backup dos arquivos importantes antes da atualização. (fazer)
+16. Eles vão fazer um backup dos arquivos importantes antes da atualização. (fazer)
 
-17. Maria _______________ o relatório de erros para o departamento de suporte. (enviar)
+17. Maria vai enviar o relatório de erros para o departamento de suporte. (enviar)
 
-18. O departamento de TI _______________ o sistema antivírus em todos os computadores. (verificar)
+18. O departamento de TI vai verificar o sistema antivírus em todos os computadores. (verificar)
 
-19. As empresas _______________ investir em segurança cibernética para proteger seus dados. (precisar)
+19. As empresas vão precisar nvestir em segurança cibernética para proteger seus dados. (precisar)
 
-20. Não _______________ deletar nada por agora, mas podemos fazer uma limpeza mais tarde. (vamos)
+20. Não vamos deletar nada por agora, mas podemos fazer uma limpeza mais tarde. (vamos)
 
 
 ---
