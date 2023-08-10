@@ -17,7 +17,7 @@
 
 ## FICAR
 
-| - | Presente (Indicativo) | P. Perfeito | P.  
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito |
 | - | --------------------- | ---------------------------------------- |
 | Eu | fico | fiquei | ficava |
 | Você | fica | ficou | ficava |
