@@ -32,12 +32,12 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-| Eu | | | | | |
-| Você | |  |  | | |
-| Ele/Ela | |  | | | |
-| Nós | |  | | | |
-| Vocês | |  | | | |
-| Eles/Elas | | | |  | |
+| Eu | sou | fui | era | serei | vou ser |
+| Você | é | foi | era | será | vai ser |
+| Ele/Ela | é | foi | era | será | vai ser |
+| Nós | somos | fomos | éramos | seremos | vamos ser |
+| Vocês | são | foram | eram | serão | vão ser |
+| Eles/Elas | são | foram | eram |  serão | vão ser |
 
 ---
 
