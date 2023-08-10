@@ -1,7 +1,9 @@
 # <img width="30" height="30" src="https://img.icons8.com/bubbles/30/gymnastics.png" alt="gymnastics"/> EXERCICIOS
 
 
-## <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> Exercicio 1 - Formule perguntas e respostas para cada uma das informações e, depois, escreva um parágrafo apresentando a personagem
+## <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 1
+
+Formule perguntas e respostas para cada uma das informações e, depois, escreva um parágrafo apresentando a personagem
 
 ```
 Quem é ele?
@@ -72,7 +74,7 @@ Site oficial: www.neymarjr.com/pt
 ---
 ---
 
-##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> Exercicio 2:
+##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 2:
 
 Agora a sua vez!!!
 
@@ -97,7 +99,7 @@ Minha profissão é programadora.
 ---
 ---
 
-##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> 3- Exercicíos on-line
+##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 3
 
 [Exercicios](https://quizlet.com/ar/803505832/verbo-ser-presente-flash-cards/?funnelUUID=fc816c21-f5ed-4ef8-80b2-db6b34ac7959)
 
@@ -120,7 +122,7 @@ Nosotros somos amigos -> Nós somos amigos
 ---
 ---
 
-##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> 4- Exercícios possesivos
+##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 4 - Possesivos
 
 Complete com o pronome possessivo que corresponde.
 
@@ -190,7 +192,7 @@ Complete com o pronome possessivo que corresponde:
 
 ---
 
-##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> 5- Exercicíos de verbos.
+##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 5 - Verbos
 
 Verbos Presente e Passado: Preencher com o verbo correto
 
@@ -258,7 +260,9 @@ Verbos Presente e Passado:
 
 ---
 
-###  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> Exerccio 6 - Preencha as lacunas com o verbo no futuro imediato:
+###  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 6 
+
+- Preencha as lacunas com o verbo no futuro imediato:
 
 Modelo: Eu vou (viajar) para a praia no próximo fim de semana.
 
@@ -305,13 +309,13 @@ Modelo: Eu vou (viajar) para a praia no próximo fim de semana.
 
 ---
 
-##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> Exercicío 7: VÍDEO:
+##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 7: VÍDEO:
 
 Você deve gravar um vídeo falando sobre você indicando seus dados pessoais, onde mora, quantos anos tem, qual é a sua profissão, etc.
 
 ---
 
-##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> Exercicio 8 :
+##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 8 :
 
 Faça as contrações e depois complete as frases.
 
