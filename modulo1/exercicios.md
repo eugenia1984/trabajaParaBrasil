@@ -196,65 +196,65 @@ Verbos Presente e Passado: Preencher com o verbo correto
 
 Verbos Presente e Passado:
 
-1. (ficar) (Presente) Eu __________ muito feliz quando te vejo.
+1. (ficar) (Presente) Eu fico muito feliz quando te vejo.
 
-2. (ficar) (Pasado) Ela __________ surpresa com o resultado.
+2. (ficar) (Pasado) Ela ficou surpresa com o resultado.
 
-3. (ser) (Presente) Ele __________ meu melhor amigo.
+3. (ser) (Presente) Ele é meu melhor amigo.
 
-4. (ser) (Pasado) A festa __________ incrível!
+4. (ser) (Pasado) A festa era/foi incrível!
 
-5. (ter) (Presente) Nós __________ muitas coisas em comum.
+5. (ter) (Presente) Nós temos muitas coisas em comum.
 
-6. (ter) (Pasado) Eles __________ um ótimo desempenho na prova.
+6. (ter) (Pasado) Eles tiveram um ótimo desempenho na prova.
 
-7. (estar) (Presente) O tempo __________ bom hoje.
+7. (estar) (Presente) O tempo está bom hoje.
 
-8. (estar) (Pasado) A praia __________ lotada no fim de semana passado.
+8. (estar) (Pasado) A praia estava lotada no fim de semana passado.
 
-9. (ficar) (Presente) Vocês __________ lindos juntos!
+9. (ficar) (Presente) Vocês ficam lindos juntos!
 
-10. (ficar) (Pasado) Ela __________ doente na semana passada.
+10. (ficar) (Pasado) Ela ficava doente na semana passada.
 
-11. (ser) (Presente) Ele __________ um ótimo cozinheiro.
+11. (ser) (Presente) Ele é um ótimo cozinheiro.
 
-12. (estar) (Pasado) A comida do restaurante __________ maravilhosa.
+12. (estar) (Pasado) A comida do restaurante estava maravilhosa.
 
-13. (ter) (Presente) Eu __________ uma bicicleta nova.
+13. (ter) (Presente) Eu tenho uma bicicleta nova.
 
-14. (ter) (Pasado) Ela __________ uma ideia brilhante.
+14. (ter) (Pasado) Ela teve uma ideia brilhante.
 
-15. (estar) (Presente) O cachorro __________ brincando no parque.
+15. (estar) (Presente) O cachorro está brincando no parque.
 
-16. (estar) (Pasado) O filme __________ emocionante.
+16. (estar) (Pasado) O filme estava emocionante.
 
-17. (ficar) (Presente) Vocês __________ bravos facilmente.
+17. (ficar) (Presente) Vocês ficam bravos facilmente.
 
-18. (ficar) (Pasado) Ela __________ cansada depois de tanto trabalho.
+18. (ficar) (Pasado) Ela ficava cansada depois de tanto trabalho.
 
-19. (ser) (Presente) Ele __________ muito inteligente.
+19. (ser) (Presente) Ele é muito inteligente.
 
-20. (ser) (Pasado) A viagem __________ incrível!
+20. (ser) (Pasado) A viagem foi incrível!
 
-21. (ter) (Presente) Nós __________ uma casa bonita.
+21. (ter) (Presente) Nós temos uma casa bonita.
 
-22. (ter) (Pasado) Eles __________ um encontro romântico.
+22. (ter) (Pasado) Eles tiveram um encontro romântico.
 
-23. (estar) (Presente) O clima __________ frio hoje.
+23. (estar) (Presente) O clima está frio hoje.
 
-24. (estar) (Pasado) O trânsito __________ terrível ontem.
+24. (estar) (Pasado) O trânsito estava terrível ontem.
 
-25. (ficar) (Presente) Vocês __________ ansiosos antes de uma prova.
+25. (ficar) (Presente) Vocês ficam ansiosos antes de uma prova.
 
-26. (ficar) (Pasado) Ela __________ feliz com a notícia.
+26. (ficar) (Pasado) Ela ficava feliz com a notícia.
 
-27. (ser) (Presente) Ele __________ um ótimo professor.
+27. (ser) (Presente) Ele é um ótimo professor.
 
-28. (ser) (Pasado) A festa de aniversário __________ divertida.
+28. (ser) (Pasado) A festa de aniversário foi/era  divertida.
 
-29. (ter) (Presente) Eu __________ um livro interessante para ler.
+29. (ter) (Presente) Eu tenho um livro interessante para ler.
 
-30. (ter) (Pasado) Ela __________ um sonho estranho ontem.
+30. (ter) (Pasado) Ela teve um sonho estranho ontem.
 
 
 ### Preencha as lacunas com o verbo no futuro imediato:
