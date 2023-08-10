@@ -4,8 +4,8 @@
 
 ## ESTAR
 
-| - | Presente(Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
-| - | --------------------- | -------------------------------------- |
+| - | Presente (Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
+| - | --------------------- | ---------------------------------------- |
 | Eu | estou | estive |
 | Tu | estás | estiveste |
 | Ele/Ela | está  | esteve |
@@ -17,7 +17,8 @@
 
 ## FICAR
 
-| - | Presente | Pasado |
+| - | Presente (Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
+| - | --------------------- | ---------------------------------------- |
 | Eu | | |
 | Tu | |  |
 | Ele/Ela | |  |
@@ -29,7 +30,8 @@
 
 ## SER
 
-| - | Presente | Pasado |
+| - | Presente (Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
+| - | --------------------- | ---------------------------------------- |
 | Eu | | |
 | Tu | |  |
 | Ele/Ela | |  |
@@ -41,7 +43,8 @@
 
 ## TER
 
-| - | Presente | Pasado |
+| - | Presente (Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
+| - | --------------------- | ---------------------------------------- |
 | Eu | | |
 | Tu | |  |
 | Ele/Ela | |  |
