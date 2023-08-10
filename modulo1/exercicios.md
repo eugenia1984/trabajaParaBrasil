@@ -76,14 +76,9 @@ Site oficial: www.neymarjr.com/pt
 
 ##  <img width="30" height="30" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/external-homework-back-to-school-itim2101-lineal-color-itim2101.png" alt="external-homework-back-to-school-itim2101-lineal-color-itim2101"/> EXERCICIO 2:
 
-Agora a sua vez!!!
-
-Pergunte ao seu colega sobre os seus dados pessoais.
-
-Seu colega pergunta a você
+Agora a sua vez!!! Pergunte ao seu colega sobre os seus dados pessoais. Seu colega pergunta a você
 
 
--> 
 ```
 Eu sou programadora.
 oI. Meu nome é María Eugenia Y Meu sobrenome é Costa.
