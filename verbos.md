@@ -17,39 +17,39 @@
 
 ## FICAR
 
-| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito |
-| - | --------------------- | ----------- | -------------- |
-| Eu | fico | fiquei | ficava |
-| Você | fica | ficou | ficava |
-| Ele/Ela | fica | ficou | ficava |
-| Nós | ficamos | ficamos | ficávamos |
-| Vocês | ficam | ficaram | ficavam |
-| Eles/Elas | ficam | ficaram | ficavam |
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | --------------- |
+| Eu | fico | fiquei | ficava | |
+| Você | fica | ficou | ficava | |
+| Ele/Ela | fica | ficou | ficava | |
+| Nós | ficamos | ficamos | ficávamos | |
+| Vocês | ficam | ficaram | ficavam | |
+| Eles/Elas | ficam | ficaram | ficavam | |
 
 ---
 
 ## SER
 
-| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito |
-| - | --------------------- | ------------------ | -------------------- |
-| Eu | | | |
-| Você | |  | |
-| Ele/Ela | |  | |
-| Nós | |  | |
-| Vocês | |  | |
-| Eles/Elas | | |  |
+| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito | Futuro Inmediato |
+| - | --------------------- | ------------------ | -------------------- | ---------------- |
+| Eu | | | | |
+| Você | |  |  | |
+| Ele/Ela | |  | | |
+| Nós | |  | | |
+| Vocês | |  | | |
+| Eles/Elas | | | | |
 
 ---
 
 ## TER
 
-| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito |
-| - | --------------------- | ------------------ | -------------------- |
-| Eu | | | |
-| Você | |  | |
-| Ele/Ela | | |  |
-| Nós | |  | |
-| Vocês | |  | |
-| Eles/Elas | | | |
+| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito | Futuro Inmediato |
+| - | --------------------- | ------------------ | -------------------- | ---------------- |
+| Eu | | | | |
+| Você | |  | | |
+| Ele/Ela | | | | |
+| Nós | |  | | |
+| Vocês | |  | | |
+| Eles/Elas | | | | |
 
 ---
