@@ -17,14 +17,14 @@
 
 ## FICAR
 
-| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Inmediato |
-| - | --------------------- | ----------- | -------------- | --------------- |
-| Eu | fico | fiquei | ficava | |
-| Você | fica | ficou | ficava | |
-| Ele/Ela | fica | ficou | ficava | |
-| Nós | ficamos | ficamos | ficávamos | |
-| Vocês | ficam | ficaram | ficavam | |
-| Eles/Elas | ficam | ficaram | ficavam | |
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | fico | fiquei | ficava | ficarei | vou ficar |
+| Você | fica | ficou | ficava | ficará | vai ficar |
+| Ele/Ela | fica | ficou | ficava | ficará | vai ficar |
+| Nós | ficamos | ficamos | ficávamos | ficaremos | vamos ficar |
+| Vocês | ficam | ficaram | ficavam | ficarão | vão ficar |
+| Eles/Elas | ficam | ficaram | ficavam | ficarão | vão ficar |
 
 ---
 
