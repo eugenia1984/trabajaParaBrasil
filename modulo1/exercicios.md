@@ -91,7 +91,9 @@ Eu tenho apelidos, são: Euge, Mari, Tati, Mitu.
 moro em Buenos Aires com meu marido e meu cachorro.
 Eu tenho 38 anos e trabalho de programadora no Softtek.
 Falo espanhol, inglês e português.
-Trabalhei em agências de viagens e pude visitar vários lugares no Brasil, como: Porto Seguro, Arrail D'Ajuda, Porto de Galinhas, Natal e Pipa. Adoro o nordeste, o clima, a natureza, a gastronomia e as pessoas
+Trabalhei em agências de viagens e pude visitar vários lugares no Brasil,
+como: Porto Seguro, Arrail D'Ajuda, Porto de Galinhas, Natal e Pipa.
+Adoro o nordeste, o clima, a natureza, a gastronomia e as pessoas
 ```
 
 ---
