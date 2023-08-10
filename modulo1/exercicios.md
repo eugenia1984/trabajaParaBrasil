@@ -86,6 +86,8 @@ Seu colega pergunta a você
 
 [Exercicios](https://quizlet.com/ar/803505832/verbo-ser-presente-flash-cards/?funnelUUID=fc816c21-f5ed-4ef8-80b2-db6b34ac7959)
 
+Ustedes son doctores -> Vocês são médicos
+
 ---
 
 ## 4- Exercícios possesivos
