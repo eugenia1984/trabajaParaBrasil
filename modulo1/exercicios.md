@@ -193,7 +193,7 @@ Verbos Presente e Passado: Preencher com o verbo correto
 
 Verbos Presente e Passado:
 
-1. (ficar) (Presente) Eu **fico*+ muito feliz quando te vejo.
+1. (ficar) (Presente) Eu **fico** muito feliz quando te vejo.
 
 2. (ficar) (Pasado) Ela **ficou** surpresa com o resultado.
 
