@@ -16,3 +16,19 @@ Todos eles falam o mesmo idioma, mas com sotaques diferentes. Convido você a co
 ![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/5524eadf-18e7-4e48-a91e-a1c3c71cb3fd)
 
 ---
+
+## Você sabia como dizer "me dió una mano o me sacó las papas del fuego" em português?
+
+Pode me quebrar o galho? => ¿Me puedes dar una mano?
+
+Seria fazer um favor para alguém. Quebra-galho = Qualquer pessoa, recurso, ou coisa que ajuda a resolver uma dificuldade, a quebrar um galho, uma coisa ou uma maneira para resolver situações complicadas. Também é chamada de quebra-galho uma pessoa com habilidade para resolver diferentes problemas, quase sempre de maneira criativa e rápida.
+ 
+Ex. Esqueci de trazer os exercícios, mas a professora quebrou um galho e deixou que eu trouxesse amanhã.
+ 
+Ex- Meu amigo me quebrou um galho emprestando o trabalho que ele fez o ano passado para me ajudar.
+
+De formal literal, seria em espanhol "Romper la rama".
+
+Não consigo mais escrever, meu computador ficou sem bateria e vou ver quem que me quebrar esse galho? Eu já volto
+
+---
