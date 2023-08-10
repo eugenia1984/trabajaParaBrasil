@@ -4,14 +4,14 @@
 
 ## ESTAR
 
-| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito |
-| - | --------------------- | ------------------ | -------------------- |
-| Eu | estou | estive | |
-| Você  | está | estiveste | |
-| Ele/Ela | está  | esteve | |
-| Nós | estamos | estivemos | |
-| Você s | estão | estivestes  | |
-| Eles/Elas | estão | estiveram | |
+| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito | Futuro Inmediato |
+| - | --------------------- | ------------------ | -------------------- | ---------------- |
+| Eu | estou | estive | | |
+| Você  | está | estiveste | | |
+| Ele/Ela | está  | esteve | | |
+| Nós | estamos | estivemos | | |
+| Você s | estão | estivestes  | | |
+| Eles/Elas | estão | estiveram | | |
 
 ---
 
