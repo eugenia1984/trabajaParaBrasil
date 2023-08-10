@@ -4,52 +4,52 @@
 
 ## ESTAR
 
-| - | Presente (Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
-| - | --------------------- | ---------------------------------------- |
-| Eu | estou | estive |
-| Tu | estás | estiveste |
-| Ele/Ela | está  | esteve |
-| Nós | estamos | estivemos |
-| Vós | estais | estivestes  |
-| Eles/Elas | estão | estiveram |
+| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito |
+| - | --------------------- | ------------------ | -------------------- |
+| Eu | estou | estive | |
+| Você  | estás | estiveste | |
+| Ele/Ela | está  | esteve | |
+| Nós | estamos | estivemos | |
+| Você s | estais | estivestes  | |
+| Eles/Elas | estão | estiveram | |
 
 ---
 
 ## FICAR
 
-| - | Presente (Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
+| - | Presente (Indicativo) | P. Perfeito | P.  
 | - | --------------------- | ---------------------------------------- |
-| Eu | | |
-| Tu | |  |
-| Ele/Ela | |  |
-| Nós | |  |
-| Vós | |  |
-| Eles/Elas | |  |
+| Eu | fico | fiquei | ficava |
+| Você | fica | ficou | ficava |
+| Ele/Ela | fica | ficou | ficava |
+| Nós | ficamos | ficamos | ficávamos |
+| Vocês | ficam | ficaram | ficavam |
+| Eles/Elas | ficam | ficaram | ficavam |
 
 ---
 
 ## SER
 
-| - | Presente (Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
-| - | --------------------- | ---------------------------------------- |
-| Eu | | |
-| Tu | |  |
-| Ele/Ela | |  |
-| Nós | |  |
-| Vós | |  |
-| Eles/Elas | |  |
+| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito |
+| - | --------------------- | ------------------ | -------------------- |
+| Eu | | | |
+| Você | |  | |
+| Ele/Ela | |  | |
+| Nós | |  | |
+| Vocês | |  | |
+| Eles/Elas | | |  |
 
 ---
 
 ## TER
 
-| - | Presente (Indicativo) | Pasado (Pretérito Perfeito (Indicativo)) |
-| - | --------------------- | ---------------------------------------- |
-| Eu | | |
-| Tu | |  |
-| Ele/Ela | |  |
-| Nós | |  |
-| Vós | |  |
-| Eles/Elas | |  |
+| - | Presente (Indicativo) | Pretérito Perfeito | Pretérito Imperfeito |
+| - | --------------------- | ------------------ | -------------------- |
+| Eu | | | |
+| Você | |  | |
+| Ele/Ela | | |  |
+| Nós | |  | |
+| Vocês | |  | |
+| Eles/Elas | | | |
 
 ---
