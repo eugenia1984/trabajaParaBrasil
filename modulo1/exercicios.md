@@ -86,14 +86,12 @@ Seu colega pergunta a você
 -> 
 ```
 Eu sou programadora.
-Meu nome é María Eugenia.
-Meu sobrenomeé Costa
+oI. Meu nome é María Eugenia Y Meu sobrenome é Costa.
 Eu tenho apelidos, são: Euge, Mari, Tati, Mitu.
-Eu moro em Buenos Aires.
-Eu tenho 38 anos.
-Eu trabalho de programadora no Softtek.
-Eu falo espanhol, inglês e português.
-Minha profissão é programadora.
+moro em Buenos Aires com meu marido e meu cachorro.
+Eu tenho 38 anos e trabalho de programadora no Softtek.
+Falo espanhol, inglês e português.
+Trabalhei em agências de viagens e pude visitar vários lugares no Brasil, como: Porto Seguro, Arrail D'Ajuda, Porto de Galinhas, Natal e Pipa. Adoro o nordeste, o clima, a natureza, a gastronomia e as pessoas
 ```
 
 ---
