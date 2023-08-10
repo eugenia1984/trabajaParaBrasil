@@ -91,6 +91,12 @@ y social.
 
 ---
 
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> VERBOS
+
+- [Verbos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/verbos.md)
+
+---
+
 ## <img width="30" height="30" src="https://img.icons8.com/color/30/hearing.png" alt="hearing"/> TREINAMENTO-AUDITIVO
 
 En [treinamento-auditivo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/treinamento-auditivo.md) hay link a video para entrenar el oido
