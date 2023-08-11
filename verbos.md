@@ -136,7 +136,7 @@
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
 | Eu | quero | quis | queria | quererei | quereria | que eu queira | se eu quisesse | 
 | Você/Ela/Ele |  quer | quis | queria | quererá | quereria | que você queira | se você quisesse | 
-| Nós Queremos Quisemos Queríamos Quereremos Quereríamos que nós queiramos | se nós quiséssemos | 
+| Nós | queremos | quisemos | queríamos | quereremos | quereríamos | que nós queiramos | se nós quiséssemos | 
 | Vocês/Eles/Elas | querem | quiseram | queriam | quererão | quereriam | que vocês queiram | se vocês quisessem | 
 
 ---
@@ -167,10 +167,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-Eu Faço Fiz Fazia Farei Faria que eu faça se eu fizesse
-Você/Ela/Ele Faz Fez Fazia Fará Faria que você faça se você fizesse
-Nós Fazemos Fizemos Fazíamos Faremos Faríamos que nós façamos se nós fizéssemos
-Vocês/Eles/Elas Fazem Fizeram Faziam Farão Fariam que vocês façam se vocês fizessem
+| Eu | faço | fiz | fazia | farei | faria | que eu faça | se eu fizesse | 
+| Você/Ela/Ele | faz | fez | fazia | fará | faria | que você faça | se você fizesse | 
+| Nós | fazemos | fizemos | fazíamos | faremos | faríamos | que nós façamos | se nós fizéssemos | 
+| Vocês/Eles/Elas | fazem | fizeram | faziam | farão | fariam | que vocês façam | se vocês fizessem | 
 
 ---
 
@@ -178,10 +178,10 @@ Vocês/Eles/Elas Fazem Fizeram Faziam Farão Fariam que vocês façam se vocês 
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-Eu Digo Disse Dizia Direi Diria que eu diga se eu dissesse
-Você/Ela/Ele Diz Disse Dizia Dirá Diria que você diga se você dissesse
-Nós Dizemos Dissemos Dizíamos Diremos Diríamos que nós digamos se nós disséssemos
-Vocês/Eles/Elas Dizem Disseram Diziam Dirão Diriam que vocês digam se vocês dissessem 
+| Eu | digo | disse | dizia | direi | diria | que eu diga |  se eu dissesse | 
+| Você/Ela/Ele | diz | disse | dizia | dirá | diria | que você diga | se você dissesse | 
+| Nós | dizemos | dissemos | dizíamos | diremos | diríamos | que nós digamos | se nós disséssemos | 
+| Vocês/Eles/Elas | dizem | disseram | diziam | dirão | iriam | que vocês digam | se vocês dissessem  | 
 
 ---
 
@@ -189,6 +189,10 @@ Vocês/Eles/Elas Dizem Disseram Diziam Dirão Diriam que vocês digam se vocês 
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | conheço | conheci | conhecia | conhecerei | conheceria | que eu conheça | se eu conhecesse | 
+| Você/Ela/Ele | conhece | conheceu | conhecia | conhecerá | conheceria | que você conheça | se você conhecesse | 
+| Nós | conhecemos | conhecemos | conhecíamos | conheceremos | conheceríamos | que nós conheçamos | se nós conhecêssemos | 
+| Vocês/Eles/Elas | conhecem | conheceram | conheciam | conhecerão | conheceriam | que vocês conheçam | se vocês conhecessem | 
 
 
 ---
@@ -197,13 +201,22 @@ Vocês/Eles/Elas Dizem Disseram Diziam Dirão Diriam que vocês digam se vocês 
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-
+| Eu | caio | caí | caía | cairei | cairia | que eu caia | se eu caísse | 
+| Você/Ela/Ele | cai | caiu | caía | cairá | cairia | que você caia | se você caísse | 
+| Nós | caimos | caímos | caíamos | cairemos | cairíamos | que nós caiamos | se nós caíssemos | 
+| Vocês/Eles/Elas | caem | Caíram Caíam Cairão Cairiam | que vocês caiam | se vocês caíssem | 
+| Vocês/Eles/Elas | caem | caíram | caíam | cairão | cairiam | que vocês caiam | se vocês caíssem | 
+ 
 ---
 
-## POR
+## PÔR
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu Ponho Pus Punha Porei Poria | que eu ponha | se eu pusesse | 
+| Você/Ela/Ele Põe Pôs Punha Porá Poria | que você ponha | se você pusesse | 
+| Nós Pomos Pusemos Púnhamos Poremos Poríamos | que nós ponhamos | se nós puséssemos | 
+| Vocês/Eles/Elas Poem Puseram Punham Porão Poriam | que vocês ponham | se vocês pusessem | 
 
 ---
 
@@ -211,6 +224,10 @@ Vocês/Eles/Elas Dizem Disseram Diziam Dirão Diriam que vocês digam se vocês 
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+Eu Hei Houve Havia Haverei Haveria que eu haja se eu houvesse
+Você/Ela/Ele Há Houve Havia Haverá Haveria que você haja se você houvesse
+Nós Havemos/Hemos Houvemos Havíamos Haveremos Haveríamos que nós hajamos se nós houvéssemos
+Vocês/Eles/Elas Hão Houveram Haviam Haverão Haveriam que vocês hajam se vocês houvessem
 
 ---
 
@@ -218,6 +235,10 @@ Vocês/Eles/Elas Dizem Disseram Diziam Dirão Diriam que vocês digam se vocês 
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+Eu Caibo Coube Cabia Caberei Caberia que eu caiba se eu coubesse
+Você/Ela/Ele Cabe Coube Cabia Caberá Caberia que você caiba se você coubesse
+Nós Cabemos Coubemos Cabíamos Caberemos Caberíamos que nós caibamos se nós coubéssemos
+Vocês/Eles/Elas Cabem Couberam Cabiam Caberão Caberiam que vocês caibam se vocês coubessem
 
 ---
 
@@ -225,6 +246,10 @@ Vocês/Eles/Elas Dizem Disseram Diziam Dirão Diriam que vocês digam se vocês 
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+Eu Sei Soube Sabia Saberei Saberia que eu saiba se eu soubesse
+Você/Ela/Ele Sabe Soube Sabia Saberá Saberia que você saiba se você soubesse
+Nós Sabemos Soubemos Sabíamos Saberemos Saberíamos que nós saibamos se nós soubéssemos
+Vocês/Eles/Elas Sabem Souberam Sabiam Saberão Saberiam que vocês saibam se vocês soubessem
 
 ---
 
@@ -232,6 +257,10 @@ Vocês/Eles/Elas Dizem Disseram Diziam Dirão Diriam que vocês digam se vocês 
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+Eu Peço Pedi Pedia Pedirei Pediria que eu peça se eu pedisse
+Você/Ela/Ele Pede Pediu Pedia Pedirá Pediria que você peça se você pedisse
+Nós Pedimos Pedimos Pedíamos Pediremos Pediríamos que nós peçamos se nós pedíssemos
+Vocês/Eles/Elas Pedem Pediram Pediam Pedirão Pediriam que vocês peçam se vocês pedissem
 
 ---
 ---
