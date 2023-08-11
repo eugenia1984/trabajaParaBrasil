@@ -2,16 +2,32 @@
 
 ---
 
+**Futuro do presente** -> a certeja
+
+**Futuro do pretérito** -> a possibilidade
+
+---
+
+## SER
+
+| - | Presente | P. Perfeito | P.  Imperfeito | Futuro do presente | Futuro do pretérito | Presente(Subjuntivo) | P.Imperfeito(Subjuntivo) |
+| - | -------- | ----------- | -------------- | ------------------ | ------------------- | -------------------- | ------------------------ |
+| Eu | sou | fui | era | serei | seria | que eu seja | se eu fosse |
+| Você/Ele/Ela | é | foi | era | será | seria | que você seja | se você fosse |
+| Nós | somos | fomos | éramos | seremos | seríamos | que nós sejamos | se nós fóssemos |
+| Vocês/Eles/Elas | são | foram | eram | serão | seriam | que vocês sejam | se vocês fossem |
+
+---
+
 ## ESTAR
 
-| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
-| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-| Eu | estou | estive | estava | | |
-| Você  | está | estiveste | estava | | |
-| Ele/Ela | está  | esteve | estava | | |
-| Nós | estamos | estivemos | estávamos | | |
-| Vocês | estão | estiveram  | estavam | | |
-| Eles/Elas | estão | estiveram | estavam | | |
+| - | Presente | P. Perfeito | P.  Imperfeito | Futuro do presente | Futuro do pretérito | Presente(Subjuntivo) | P.Imperfeito(Subjuntivo) |
+| - | -------- | ----------- | -------------- | ------------------ | ------------------- | -------------------- | ------------------------ |
+| Eu | estou | estive | estava | estarei | estaria | que eu esteja | se eu estivesse |
+| Você/Ele/Ela  | está | esteve | estava | estará | estaria | que você esteja | se você estivesse |
+| Nós | estamos | estivemos | estávamos | estaremos | estaríamos | que nós estejamos | se nós estivéssemos |
+| Vocês/Eles/Elas | estão | estiveram  | estavam | estarão | estariam | que vocês estejam | se vocês estivessem |
+
 
 ---
 
@@ -39,18 +55,6 @@
 | Vocês |  vão | foram | iam | irão | vão ir |
 | Eles/Elas |  vão | foram | iam | irão | vão ir |
 
----
-
-## SER
-
-| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
-| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-| Eu | sou | fui | era | serei | vou ser |
-| Você | é | foi | era | será | vai ser |
-| Ele/Ela | é | foi | era | será | vai ser |
-| Nós | somos | fomos | éramos | seremos | vamos ser |
-| Vocês | são | foram | eram | serão | vão ser |
-| Eles/Elas | são | foram | eram |  serão | vão ser |
 
 ---
 
