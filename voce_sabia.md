@@ -61,8 +61,8 @@ Não consigo mais escrever, meu computador ficou sem bateria e vou ver quem que 
 
 ## Você sabia como falamos de dinheiro em português?
 
+<img src="https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/380ff6b5-7e6e-4be7-af91-2be126867162" alt="formas de dinero" width="500" />
 
-![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/380ff6b5-7e6e-4be7-af91-2be126867162)
 
 ---
 
