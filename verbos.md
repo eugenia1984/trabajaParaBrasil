@@ -28,6 +28,16 @@
 | Nós | estamos | estivemos | estávamos | estaremos | estaríamos | que nós estejamos | se nós estivéssemos |
 | Vocês/Eles/Elas | estão | estiveram  | estavam | estarão | estariam | que vocês estejam | se vocês estivessem |
 
+---
+
+## IR
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | vou | fui | ia | irei | iria | que eu vá  | se eu fosse |
+| Você/Ela/Ele | vai | foi | ia | irá | iria | que você vá | se você fosse |
+| Nós | vamos | fomos | íamos | iremos | iríamos | que nós vamos | se nós fôssemos |
+| Vocês/Eles/Elas | vão | foram | iam | irão | iriam | que vocês vão | se vocês fossem |
 
 ---
 
@@ -35,6 +45,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | dou | dei | dava | darei | daria | que eu dê  | se eu desse |
+| Você/Ela/Ele | dá | deu | dava | dará | daria | que você dê | se você desse |
+| Nós | damos | demos | dávamos | daremos  | daríamos | que nós dêmos | se nós déssemos |
+| Vocês/Eles/Elas | dão | deram | davam | darão | dariam | que vocês deem  | se vocês dessem |
 
 ---
 
