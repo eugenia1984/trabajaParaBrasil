@@ -213,10 +213,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-| Eu Ponho Pus Punha Porei Poria | que eu ponha | se eu pusesse | 
-| Você/Ela/Ele Põe Pôs Punha Porá Poria | que você ponha | se você pusesse | 
-| Nós Pomos Pusemos Púnhamos Poremos Poríamos | que nós ponhamos | se nós puséssemos | 
-| Vocês/Eles/Elas Poem Puseram Punham Porão Poriam | que vocês ponham | se vocês pusessem | 
+| Eu | ponho | pus | punha | porei | poria | que eu ponha | se eu pusesse | 
+| Você/Ela/Ele | põe | pôs | punha | porá | poria | que você ponha | se você pusesse | 
+| Nós | pomos | pusemos | púnhamos | poremos | poríamos | que nós ponhamos | se nós puséssemos | 
+| Vocês/Eles/Elas | poem | puseram | punham | porão | poriam | que vocês ponham | se vocês pusessem | 
 
 ---
 
@@ -224,10 +224,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-Eu Hei Houve Havia Haverei Haveria que eu haja se eu houvesse
-Você/Ela/Ele Há Houve Havia Haverá Haveria que você haja se você houvesse
-Nós Havemos/Hemos Houvemos Havíamos Haveremos Haveríamos que nós hajamos se nós houvéssemos
-Vocês/Eles/Elas Hão Houveram Haviam Haverão Haveriam que vocês hajam se vocês houvessem
+| Eu | hei | houve | havia | haverei | haveria | que eu haja | se eu houvesse | 
+| Você/Ela/Ele | há | houve | havia | haverá | haveria | que você haja | se você houvesse | 
+| Nós | havemos/hemos | houvemos | havíamos | haveremos | haveríamos | que nós hajamos | se nós houvéssemos | 
+| Vocês/Eles/Elas | hão | houveram | haviam | haverão | haveriam | que vocês hajam | se vocês houvessem | 
 
 ---
 
@@ -235,10 +235,10 @@ Vocês/Eles/Elas Hão Houveram Haviam Haverão Haveriam que vocês hajam se voc�
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-Eu Caibo Coube Cabia Caberei Caberia que eu caiba se eu coubesse
-Você/Ela/Ele Cabe Coube Cabia Caberá Caberia que você caiba se você coubesse
-Nós Cabemos Coubemos Cabíamos Caberemos Caberíamos que nós caibamos se nós coubéssemos
-Vocês/Eles/Elas Cabem Couberam Cabiam Caberão Caberiam que vocês caibam se vocês coubessem
+| Eu | Caibo Coube Cabia Caberei Caberia | que eu caiba | se eu coubesse | 
+| Você/Ela/Ele | Cabe Coube Cabia Caberá Caberia | que você caiba | se você coubesse | 
+| Nós | Cabemos Coubemos Cabíamos Caberemos Caberíamos | que nós caibamos | se nós coubéssemos | 
+| Vocês/Eles/Elas | Cabem Couberam Cabiam Caberão Caberiam | que vocês caibam | se vocês coubessem | 
 
 ---
 
@@ -246,10 +246,10 @@ Vocês/Eles/Elas Cabem Couberam Cabiam Caberão Caberiam que vocês caibam se vo
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-Eu Sei Soube Sabia Saberei Saberia que eu saiba se eu soubesse
-Você/Ela/Ele Sabe Soube Sabia Saberá Saberia que você saiba se você soubesse
-Nós Sabemos Soubemos Sabíamos Saberemos Saberíamos que nós saibamos se nós soubéssemos
-Vocês/Eles/Elas Sabem Souberam Sabiam Saberão Saberiam que vocês saibam se vocês soubessem
+| Eu | sei | soube | sabia |  saberei | saberia | que eu saiba | se eu soubesse | 
+| Você/Ela/Ele | sabe | soube | sabia | saberá | saberia |  que você saiba | se você soubesse | 
+| Nós | sabemos | soubemos | sabíamos | saberemos | saberíamos | que nós saibamos | se nós soubéssemos | 
+| Vocês/Eles/Elas | sabem | souberam | sabiam | saberão | saberiam | que vocês saibam | se vocês soubessem | 
 
 ---
 
@@ -257,10 +257,10 @@ Vocês/Eles/Elas Sabem Souberam Sabiam Saberão Saberiam que vocês saibam se vo
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-Eu Peço Pedi Pedia Pedirei Pediria que eu peça se eu pedisse
-Você/Ela/Ele Pede Pediu Pedia Pedirá Pediria que você peça se você pedisse
-Nós Pedimos Pedimos Pedíamos Pediremos Pediríamos que nós peçamos se nós pedíssemos
-Vocês/Eles/Elas Pedem Pediram Pediam Pedirão Pediriam que vocês peçam se vocês pedissem
+| Eu | peço | pedi | pedia | pedirei | pediria | que eu peça | se eu pedisse | 
+| Você/Ela/Ele | pede | pediu | pedia | pedirá | pediria | que você peça | se você pedisse | 
+| Nós | pedimos | pedimos | pedíamos | pediremos | pediríamos | que nós peçamos | se nós pedíssemos | 
+| Vocês/Eles/Elas | pedem | pediram | pediam | pedirão | pediriam | que vocês peçam | se vocês pedissem | 
 
 ---
 ---
