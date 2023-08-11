@@ -56,6 +56,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | falo |  falei |  falava |  falarei | falaria | que eu fale | se eu falasse | 
+| Você/Ela/Ele | fala | falou | falava | falará | falaria | que você fale | se você falasse | 
+| Nós | falamos | falamos | falávamos | falaremos | falaríamos |  que nós falemos |  se nós falássemos | 
+| Vocês/Eles/Elas | falam | falaram | falavam | falarão | falariam | que vocês falem | se vocês falassem| 
 
 ---
 
@@ -63,6 +67,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | fico | fiquei | ficava | ficarei | ficaria | que eu fique | se eu ficasse | 
+| Você/Ela/Ele | fica | ficou | ficava | ficará | ficaria | que você fique | se você ficasse | 
+| Nós | ficamos | ficamos | ficávamos | ficaremos | ficaríamos |  que nós fiquemos | se nós ficássemos | 
+| Vocês/Eles/Elas | ficam | ficaram | ficavam | ficarão | ficariam | que vocês fiquem | se vocês ficassem | 
 
 ---
 
@@ -70,6 +78,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | tenho | tive | tinha | terei | teria | que eu tenha | se eu tivesse | 
+| Você/Ela/Ele | tem | teve | tinha | terá | teria | que você tenha | se você tivesse | 
+| Nós | temos | tivemos | tínhamos | teremos | teríamos | que nós tenhamos | se nós tivéssemos | 
+| Vocês/Eles/Elas | têm | tiveram | tinham | terão | teriam | que vocês tenham |  se vocês tivessem | 
 
 ---
 
@@ -77,6 +89,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | venho | vim | vinha | virei | viria | que eu venha | se eu viesse | 
+| Você/Ela/Ele | vem | veio | vinha | virá | viria | que você venha | se você viesse | 
+| Nós | vimos | viemos | vínhamos | viremos | viríamos | que nós venhamos | se nós viéssemos | 
+| Vocês/Eles/Elas | vêm | vieram | vinham | virão | viriam | que vocês venham | se vocês viessem | 
 
 ---
 
