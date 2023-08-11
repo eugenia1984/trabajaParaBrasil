@@ -31,30 +31,24 @@
 
 ---
 
+## DAR
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## FALAR
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
 ## FICAR
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-| Eu | fico | fiquei | ficava | ficarei | vou ficar |
-| Você | fica | ficou | ficava | ficará | vai ficar |
-| Ele/Ela | fica | ficou | ficava | ficará | vai ficar |
-| Nós | ficamos | ficamos | ficávamos | ficaremos | vamos ficar |
-| Vocês | ficam | ficaram | ficavam | ficarão | vão ficar |
-| Eles/Elas | ficam | ficaram | ficavam | ficarão | vão ficar |
-
----
-
-## IR
-
-| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
-| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-| Eu | vou | fui | ia | irei | vou ir |
-| Você | vai | foi | ia | irá | vai ir |
-| Ele/Ela | vai | foi | ia | irá | vai ir |
-| Nós | vamos | fomos | íamos | iremos | vamos ir |
-| Vocês |  vão | foram | iam | irão | vão ir |
-| Eles/Elas |  vão | foram | iam | irão | vão ir |
-
 
 ---
 
@@ -62,11 +56,165 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
-| Eu | tenho | tive | tinha | terei | vou ter |
-| Você | tem | teve | tinha | terá | vai ter |
-| Ele/Ela | tem | teve | tinha | terá | vai ter |
-| Nós | temos | tivemos | tinhamos | teremos | vãmos ter|
-| Vocês | têm | tiveram | tinham | terão | vão ter |
-| Eles/Elas | têm | tiveram | tinham | terão | vão ter |
 
+---
+
+## VIR
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## VER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## LER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## CRER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## QUERER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## PODER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## TRAZER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## FAZER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## DIZER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## CONHECER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## CAIR
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## POR
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## HAVER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## CABER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## SABER
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+
+## PEDIR
+
+| - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
+| - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
+---
+---
+
+## :star: REGLAS DE FORMACIÓN
+
+| Verbos REGULARES en PRESENTE DO INDICATIVO terminados en | AR | ER | IR |
+| -------------------------------------------------------- | -- | -- | -- |
+| Eu | ...o  | ...o | ...o |
+| Você | ...a | ...e | ...e |
+| Nós | ...amos | ...emos | ...imos |
+| Vocês |...am | ...em | ...em |
+
+| Verbos REGULARES en PRETÉRITO PERFEITO DO INDICATIVO terminados en | AR | ER | IR |
+| ------------------------------------------------------------------ | -- | -- | -- |
+| Eu | …ei |  …i  |...i |
+| Você | …ou | …eu | …iu |
+| Nós | …amos | …emos | …imos |
+| Vocês | …aram | …eram | …iram |
+
+| Verbos REGULARES en PRETÉRITO IMPERFEITO DO INDICATIVO terminados en | AR | ER | IR |
+| -------------------------------------------------------------------- | -- | -- | -- |
+| Eu | …ava | …ia | ...ia |
+| Você | …ava | …ia | …ia |
+| Nós | …ávamos | …íamos | …íamos |
+| Vocês | …avam | …iam | …iam
+
+| Verbos REGULARES en FUTURO DO PRESENTE DO INDICATIVO terminados en | AR | ER | IR |
+| ------------------------------------------------------- | -- | -- | -- |
+| Eu  | …ei | …ei | ...ei |
+| Você | …á | …á | …á |
+| Nós | …emos | …emos | …emos |
+| Vocês | …ão | …ão | …ão |
+
+| Verbos REGULARES en FUTURO DO PRETÉRITO terminados en | AR | ER | IR |
+| ----------------------------------------------------- | -- | -- | -- |
+| Eu | …ia | …ia | ...ia |
+| Você …ia …ia …ia |
+| Nós | …íamos | …íamos | …íamos |
+| Vocês | …iam | …iam | …iam |
+
+| Verbos PRETÉRITO IMPERFEITO DO SUBJUNTIVO terminados en | AR | ER | IR |
+| ------------------------------------------------------- | -- | -- | -- |
+| Eu | …sse | …sse | ...sse |
+| Você | …sse | …sse | …sse |
+| Nós | …ssemos | …ssemos | …ssemos |
+| Vocês | …ssem |…ssem |…ssem |
+
+---
 ---
