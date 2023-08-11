@@ -65,3 +65,7 @@ A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim com
 - Vamos a ouvir a seguir a música. Mais um dado pra vcs !! tou muito generosa hoje. Vão ouvir .... [Michel Teló - Ai Se Eu Te Pego - Video Oficial (Assim você me mata)](https://www.youtube.com/watch?v=hcm55lU9knw) -> (**PEGAR en portugués significa agarrar**)
 
 ---
+
+## :computer: PROGRMACION
+
+- [CURSO DE JAVASCRIPT COM EXERCÍCIOS E PROJETOS](https://www.youtube.com/watch?v=OYPbr6ZG3pc)
