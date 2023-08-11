@@ -8,12 +8,7 @@ Repositorio donde dejare mis prácticas de portugués con No Country.
 
 Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La comunicación se llevará a cabo de manera centralizada a través de Slack, brindándote una experiencia de aprendizaje fluida y efectiva.
 
-- Elige entre disponibles:
-```
--Mañana: 09 hs. a 12 hs.
--Tarde: 14 hs. a 1Ú hs.
--Noche: 19 hs. a 23 hs.
-```
+- Elige entre disponibles: ```Mañana: 09 hs. a 12 hs. / Tarde: 14 hs. a 1Ú hs. / Noche: 19 hs. a 23 hs.```
 
 - Disfruta de **2 clases en vivo por semana**, con una duración de **1 hora** cada unael LUNES y MIÉRCOLES de 19:00js a 20:00hs.
 
