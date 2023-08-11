@@ -232,3 +232,89 @@
 
 ---
 ---
+
+## :star: Pessoas + Verbos = ação 
+
+VERBO SER - ESTAR
+
+
+![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/61b6a428-9b3e-49cd-a646-2f3b2dcfdfca)
+
+---
+
+## Verbos mais usados no Brasil - Presente 
+
+![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/8c56e0ec-377e-45d9-aece-599b05239e59)
+
+---
+
+## Verbos mais usados no brasil -passado 
+
+![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/520ff8fd-cef1-4882-b8a2-b11cb8d52095)
+
+---
+
+## Verbos mais usados no brasil -futuro
+
+
+![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/608b671f-4c8d-4e05-9772-8b66f1f966fd)
+
+---
+
+## :star: Verbos Regulares – modelos 
+
+
+![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/03dff13a-db84-4839-8b14-9f78bb0300db)
+
+
+Exemplos de uso:
+
+- Eu canto muito bem, mas eu danço muito mal
+
+- Nós estudamos Português em No Country.
+
+- Ele viajou para o Brasil no* ano passado.
+
+📝**Nota**  NO = em + o. Uma das contrações usadas no Português 
+
+Mais contrações –     
+
+NA = em + a 
+
+DA = de + a 
+
+DO = de + o
+
+PELO = por + o
+
+PELA = por + a
+
+
+---
+
+## :star: Verbos relacionados  à  tecnologia e projetos em geral: 
+
+```
+Desenvolver    Programar        Codificar
+Analisar     	 Testar           Depurar
+Otimizar       Implementar      Gerenciar
+Planejar       Colaborar        Coordenar
+Avaliar        Documentar       Automatizar
+Resolver       Projetar         Manter
+Configurar     Inovar           Pesquisar
+Aprender       Comunicar        Treinar
+Apresentar     Supervisionar    Assessorar
+Arquitetar     Documentar       Colaborar
+Integrar       Revisar          Monitorar
+Implementar    Documentar       Resolver problemas
+Participar     Cumprir prazos   Demonstrar
+Consultar      Negociar         Suportar
+Realizar
+```
+
+---
+
+
+
+
+
