@@ -4,7 +4,7 @@
 
 **Futuro do presente** -> a certeja
 
-**Futuro do pretérito** -> a possibilidade
+**Futuro do pretérito** -> a possibilidade| 
 
 ---
 
@@ -100,6 +100,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | veio | vi | via | verei | veria | que eu veja | se eu visse | 
+| Você/Ela/Ele | vê | viu | via | verá | veria | que você veja | se você visse | 
+| Nós | vemos | vimos | víamos | veremos | veríamos | que nós vejamos | se nós víssemos | 
+| Vocês/Eles/Elas | veem | viram | viam | verão | veriam | que vocês vejam | se vocês vissem | 
 
 ---
 
@@ -107,6 +111,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | leio | li | lia | lerei | leria | que eu leia | se eu lesse | 
+| Você/Ela/Ele | lê | leu | lia | lerá | leria | que você leia | se você lesse | 
+| Nós | lemos | lemos | líamos | leremos | leríamos | que nós leiamos | se nós léssemos | 
+| Vocês/Eles/Elas | leem | leram | liam | lerão | leriam | que vocês leiam | se vocês lessem | 
 
 ---
 
@@ -114,6 +122,11 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | creio | cri | cria | crerei | creria | que eu creia | se eu cresse | 
+| Você/Ela/Ele | crê | creu | cria | crerá | creria | que você creia | se você cresse | 
+| Nós | cremos | cremos | críamos | creremos | creríamos | que nós creiamos | se nós créssemos | 
+| Vocês/Eles/Elas | creem | creram | criam | crerão | creriam | que vocês creiam | se vocês cressem | 
+
 
 ---
 
@@ -121,6 +134,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | quero | quis | queria | quererei | quereria | que eu queira | se eu quisesse | 
+| Você/Ela/Ele |  quer | quis | queria | quererá | quereria | que você queira | se você quisesse | 
+| Nós Queremos Quisemos Queríamos Quereremos Quereríamos que nós queiramos | se nós quiséssemos | 
+| Vocês/Eles/Elas | querem | quiseram | queriam | quererão | quereriam | que vocês queiram | se vocês quisessem | 
 
 ---
 
@@ -128,6 +145,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | posso | pude | podia | poderei | poderia | que eu possa | se eu pudesse | 
+| Você/Ela/Ele | pode | pôde | podia | poderá | poderia | que você possa | se você pudesse | 
+| Nós | podemos | pudemos | podíamos | poderemos | poderíamos | que nós possamos | se nós pudéssemos
+| Vocês/Eles/Elas | podem | puderam | podiam | poderão | poderiam | que vocês possam | se vocês pudessem | 
 
 ---
 
@@ -135,6 +156,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+| Eu | trago | trouxe | trazia | trarei | traria | que eu traga | se eu trouxesse | 
+| Você/Ela/Ele | traz | trouxe | trazia | trará | traria | que você traga | se você trouxesse | 
+| Nós Trazemos | trouxemos | trazíamos | traremos | traríamos | que nós tragamos | se nós trouxéssemos | 
+| Vocês/Eles/Elas | trazem | trouxeram | traziam | trarão | trariam | que vocês tragam | se vocês trouxessem | 
 
 ---
 
@@ -142,6 +167,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+Eu Faço Fiz Fazia Farei Faria que eu faça se eu fizesse
+Você/Ela/Ele Faz Fez Fazia Fará Faria que você faça se você fizesse
+Nós Fazemos Fizemos Fazíamos Faremos Faríamos que nós façamos se nós fizéssemos
+Vocês/Eles/Elas Fazem Fizeram Faziam Farão Fariam que vocês façam se vocês fizessem
 
 ---
 
@@ -149,6 +178,10 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+Eu Digo Disse Dizia Direi Diria que eu diga se eu dissesse
+Você/Ela/Ele Diz Disse Dizia Dirá Diria que você diga se você dissesse
+Nós Dizemos Dissemos Dizíamos Diremos Diríamos que nós digamos se nós disséssemos
+Vocês/Eles/Elas Dizem Disseram Diziam Dirão Diriam que vocês digam se vocês dissessem 
 
 ---
 
@@ -156,6 +189,7 @@
 
 | - | Presente (Indicativo) | P. Perfeito | P.  Imperfeito | Futuro Simples | Futuro Inmediato |
 | - | --------------------- | ----------- | -------------- | -------------- | ---------------- |
+
 
 ---
 
