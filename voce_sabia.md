@@ -32,3 +32,13 @@ De formal literal, seria em espanhol "Romper la rama".
 Não consigo mais escrever, meu computador ficou sem bateria e vou ver quem que me quebrar esse galho? Eu já volto
 
 ---
+
+## Deixo pra vocês uma expressão brasileira para quando alguma coisa sai errado... Ummm... oh , no! No puede ser!
+
+Sabes cuando algo sale mal, te equivocas o tenes un problemón que resolver? No sé, se borró algun archivo o la conexión cayó justo cuando tenías aquella reunión importante o algo urgente que hacer en equipo o hablar justo con el jefe?
+
+Bueno, en esos momentos , un buen compañero de trabajo te podría decir en #portuguesdoBrasil "Não Esquenta...!" - esto es, no te preocupes, no calientes la cabeza por eso, se va a resolver, todo tiene una solución.
+
+Tome nota de esa expresión brasileña y así, cuando trabajes con equipos brasileños, podrás ser un buen compañero y alentar al que metió la pata con un "Não Esquenta"  (literalmente no calientes).
+
+---
