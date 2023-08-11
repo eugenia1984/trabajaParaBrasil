@@ -14,7 +14,9 @@ Sumérgete en un espacio exclusivo donde alumnos y profesores se integran. La co
 
 - Accede a **1 clase grabada semanalmente**, para que puedas repasar el contenido en tu propio horario.
 
-- Cuenta siempre con **un profesor a tu disposición** para resolver tus dudas y brindarte apoyo continuo en los **espacios de consulta**: LU: 20:00 - 23:00, MA: 19:00 - 23:00, MI: 20:00 - 23:00, JU: 19:00 - 23:00 y VI: 19:00 - 23:00.
+- Cuenta siempre con **un profesor a tu disposición** para resolver tus dudas y brindarte apoyo continuo en los **espacios de consulta**:
+
+LU: 20:00 - 23:00, MA: 19:00 - 23:00, MI: 20:00 - 23:00, JU: 19:00 - 23:00 y VI: 19:00 - 23:00.
 
 - Participa en **talleres de conversación y situaciones de role play**, para poner en práctica tus habilidades de comunicación.
 
