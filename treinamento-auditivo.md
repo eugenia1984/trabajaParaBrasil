@@ -10,27 +10,19 @@
 
 - [Clases de Portugués Básico - Los Números](https://www.youtube.com/watch?v=m3lqmTTrVr0)
 
-| número | escribe | - | número | escribe |
-|------- | ------- | - | ------ | ------- |
-| 0 | zero (con zzz) | | 10 | dez |
-| 1 | um | | 11 | onze |
-| 2 | dois | | 12 | doze |
-| 3 | três | | 13 | treze |
-| 4 | quatro | | 14 | quatorze (katorzi) )|
-| 5 | cinco | | 15 | quinze (kinzi) |
-| 6 | seis | | 16 | dezesseis |
-| 7 | sete (sechi)| | 17 | dezessete (dezesechi) |
-| 8 | oito (oitu) | | 18 | dezoito |
-| 9 | nove (novi) | | 19 | dezenove (dezenovi) |
+| número | escribe | - | número | escribe | - |  número | escribe | 
+|------- | ------- | - | ------ | ------- |  - | ------ | ------- |
+| 0 | zero (con zzz) | | 10 | dez | - | | 20 | vinte (vinchi) |
+| 1 | um | | 11 | onze | - |  21 | vinte e um |
+| 2 | dois | | 12 | doze | - | 22 | vinte e dois |
+| 3 | três | | 13 | treze | - | 23 | vinte e três |
+| 4 | quatro | | 14 | quatorze (katorzi) )| - | 24 | vinte e quatro |
+| 5 | cinco | | 15 | quinze (kinzi) | - | 25 | vinte e cinco |
+| 6 | seis | | 16 | dezesseis | - | 26 | vinte e seis |
+| 7 | sete (sechi)| | 17 | dezessete (dezesechi) | - | 27 | vinte e sete |
+| 8 | oito (oitu) | | 18 | dezoito | - | 28 | vinte e oito |
+| 9 | nove (novi) | | 19 | dezenove (dezenovi) | - | 29 | vinte e nove |
 
-
-| número | escribe |
-|----- | ------ |
-| 20 | vinte (vinchi) |
-| 21 | vinte e um |
-| 22 | vinte e dois |
-| 23 | vinte e três |
-| 24 | vinte e quatro |
 
 -> Todos los de 20 van separados, en español van Juntos
 
