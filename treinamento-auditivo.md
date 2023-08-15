@@ -69,3 +69,7 @@ A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim com
 ## :computer: PROGRMACION
 
 - [CURSO DE JAVASCRIPT COM EXERCÍCIOS E PROJETOS](https://www.youtube.com/watch?v=OYPbr6ZG3pc)
+
+- [Inteligência artificial simplificando o amanhã | Rodrigo Scotti | TEDxPinheiros ](https://youtu.be/jUfhJQYmV58) -> Desta vez, vamos treinar nossos ouvidos com uma palestra muito interessante. Ela fala sobre inteligência artificial, vamos ouvi-la parando a cada dois minutos, fazendo o mesmo exercício de antes, ouvindo as palavras e o som de cada uma delas. Fiquei pensando na frase final da palestra: não são apenas as pessoas que aprendem com nossas ações, mas também as máquinas. O que você acha?
+
+---
