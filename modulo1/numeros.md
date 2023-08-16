@@ -1,6 +1,6 @@
 # :star: Os números
 
-## Del 0 al 15
+## <img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/>  Del 0 al 15
 
 | numero | escreve |
 | ------ | ------- |
@@ -21,7 +21,7 @@
 | 14 | quatorze |
 | 15 | quinze |
 
-## Del 16 al 29
+## <img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/> Del 16 al 29
 
 | numero | escreve |
 | ------ | ------- |
@@ -40,7 +40,7 @@
 | 28 | vinte e oito |
 | 29  | vinte nove |
 
-## Del 31 al 99
+##<img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/>  Del 31 al 99
 
 (se escriben en dos palabras, unidas por e)
 
@@ -55,22 +55,24 @@
 | 90 noventa | | um/ dois/ três/ quatro/ cinco/ seis/ sete/ oito/ nove |
 
 ---
+---
 
 Aprender   un   nuevo   idioma   significa   comenzar   siempre   por   los cimientos;   es   decir,   por   aquellos   contenidos   más   básicos.   Los números, al igual que el alfabeto, representan algunos de los saberes esenciales   a   la   hora   de   aprender   portugués.   En   este   artículo queremos   ayudarte   a   que   aprendas   y   comprendas los números
 en portugués,   consolidando   así   tus   primeros   conocimientos   de   la lengua.
 
 Los números están presentes en todas partes y en todos los ámbitos de nuestra vida. Los utilizamos en forma de dinero para pagar en el supermercado o en diferentes tiendas, para dar nuestro número de teléfono, preguntar la hora, consultar un horario, realizar cálculos o identificar   objetos.   ¿Todavía   dudas   de   su   importancia   en   el conocimiento de la lengua?
 
-## Los números cardinales en portugués
+---
+
+## <img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/> Los números cardinales en portugués
 
 Los números cardinales son aquellos que utilizamos para contar o expresar unidades enteras. Como bien es sabido, el idioma portugués es bastante similar al español. Los números ordinales no suponen, por tanto, una excepción. A continuación, veremos cómo podemos contar en portugués.
 
 ## Los números del uno al veinte en portugués
 
-Los números del uno al veinte - Números de um a vinte
 
-| Español  | Portugués |
-| -------- | --------- |
+| Los números del uno al veinte  | Números de um a vinte |
+| ------------------------------ | --------------------- |
 | Uno, una |  Um, uma |
 | Dos | Dois, duas |
 | Tres | Três |
@@ -104,7 +106,7 @@ Como puedes observar, la mayoría de números en portugués guardan gran similit
 
 ---
 
-## Las decenas en portugués
+##  <img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/> Las decenas en portugués
 
 Ahora   que   ya   conoces   los   veinte   primeros   números,   pasaremos   a explicar la formación de las decenas.   A   partir   de   treinta,   las decenas tienen nombres específicos basados en la raíz de las cifras correspondientes
 
@@ -132,7 +134,7 @@ Para formar números con las decenas solamente debes acordarte de añadir   una 
 
 ---
 
-## Los números grandes en portugués
+##  <img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/> Los números grandes en portugués
 
 
 Por   último,   es   fundamental   que   conozcas   también   la   manera   de expresar números y cantidades grandes en   portugués.   Ten   en cuenta   que   son   esenciales   a   la   hora   de   hablar   de   años,   fechas   o cantidades   de   dinero   abundantes.   Vamos   a   comenzar   desde   el número cien, que se escribe cem y se pronuncia  /t?sɛm/
@@ -140,7 +142,7 @@ Por   último,   es   fundamental   que   conozcas   también   la   manera   de
 
 | Español | Portugués |
 |-------- | --------- |
-| Cien |   Cem| 
+| Cien |   Cem | 
 | Doscientos | Duzentos/Duzentas | 
 | Trescientos | Trezentos/Trezentas | 
 |  Cuatrocientos | Quatrocentos/Quatrocentas | 
@@ -182,7 +184,7 @@ Al hablar de cantidades verdaderamente grandes, como millones,  billones y trill
 ---
 ---
 
-## Los números ordinales en portugués
+##  <img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/> Los números ordinales en portugués
 
 Los números ordinales son   aquellos   que   sirven   para   expresar   la posición u orden que ocupa un elemento en su conjunto, en lugar de la   cantidad.   Los   utilizamos   en   nuestra   vida   diaria   para   hacer referencia al piso en el que vivimos o para indicar el puesto o lugar que ocupamos en una clasificación. En portugués; tal y como sucede en   español,   también   pueden   variar   su   forma   en   masculino   y femenino,   singular   y   plural.   El   género   y   número   va   a   depender,   en todo momento, de la palabra con la que se encuentren relacionados.
 
@@ -243,7 +245,7 @@ Responde
 ---
 ---
 
-## Números de telefone:
+##  <img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/> Números de telefone:
 
 —Você tem WhatsApp?
 
