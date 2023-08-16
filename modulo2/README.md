@@ -31,6 +31,8 @@ Aplicación.
 
 - [Escribir e-mails formales](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/escribir_e-mails_formales.md)
 
+- [Todo y Tudo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/tudo_todo.md)
+  
 - [ moeda brasileira: real](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/a_moeda_brasileira.md)
 
 - [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/exercicios.md)
