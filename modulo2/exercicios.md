@@ -26,29 +26,29 @@ Ejemplo: "Comeram todo o bolo" (Se comieron todo el pastel).
 
 ## 1. Completar con "tudo", "todo" o "todos":
 
-Eu li ______ o livro ontem
+Eu li ___ todo ___ o livro ontem
 
-Elas comeram ______ os doces.
+Elas comeram __ todos ____ os doces.
 
-Estava escuro, não conseguia ver ______ .
+Estava escuro, não conseguia ver __ tudo ____ .
 
-Comprei ______ o material necessário.
+Comprei ___ todo ___ o material necessário.
 
-Ela perdeu ______ o dinheiro.
+Ela perdeu ___ todo ___ o dinheiro.
 
-Precisamos limpar ______ a casa antes da festa.
+Precisamos limpar __ toda ____ a casa antes da festa.
 
-Ele comprou ______ os presentes de Natal.
+Ele comprou ___ todos ___ os presentes de Natal.
 
-Preciso organizar ______ os documentos antes da reunião.
+Preciso organizar ___ todos ___ os documentos antes da reunião.
 
-Ela cantou ______ a música sem errar uma única palavra.
+Ela cantou ___ toda ___ a música sem errar uma única palavra.
 
-Vocês devem prestar atenção ______ ao professor.
+Vocês devem prestar atenção ___ todo ___ ao professor.
 
-Ontem choveu ______ o dia.
+Ontem choveu ___ todo ___ o dia.
 
-Meus amigos me contaram ______ sobre a viagem deles.
+Meus amigos me contaram ___ tudo ___ sobre a viagem deles.
 
 ---
 
@@ -62,15 +62,15 @@ Tentou, mas não conseguiu.
 
 Complete com mas ou mais:
 
-a)Ele foi, _________ a filha ficou.
+a) Ele foi, _____mas ____ a filha ficou.
 
-b)Sou apaixonado pelos filmes de terror , _______ a minha namorada não gosta deles.
+b) Sou apaixonado pelos filmes de terror, ___ mas ____ a minha namorada não gosta deles.
 
-c)Estude ______ e passará no vestibular.
+c) Estude ___mais ___ e passará no vestibular.
 
-d)Carolina é inteligente, _______ pouco simpática.
+d) Carolina é inteligente, ___ mas ____ pouco simpática.
 
-e)O ferro é ________ barato que o ouro.
+e) O ferro é ___ mais _____ barato que o ouro.
 
 ---
 
@@ -99,17 +99,19 @@ Essa talvez seja à solução ideal”, afirma.
 ## 4 - Complete as orações, de acordo com o conteúdo do texto acima:
 
 
-1. Trabalhando em casa você vai produzir mois desde que ___________________________
+1. Trabalhando em casa você vai produzir mois desde que __ consiga mantener uma disciplina rigida _
 
-2. Ao montar um home office é imprescindível ___________________________ , ________ para que _____________________
+2. Ao montar um home office é imprescindível __ computador robusto __ , _ notebook conjugados aos celulares _ para que __ o escritorio acompanhe o profissional aonde quer que ele vá__
 
-3. Misturando trabalho e lar voce terá tempo para _____________ com o seu cachorro
+3. Misturando trabalho e lar voce terá tempo para __ brincar __ com o seu cachorro
 
-4. Embora o executivo esteja conectado ao mundo através do computador, ele
+4. Embora o executivo esteja conectado ao mundo através do computador, ele  __  recorre á comunicação por correio eletrônico para boa parte das tarefas de trabalho  __
 
-5. Quanto menor for o contato direto com colegas e clientes, ___________________________
+5. Quanto menor for o contato direto com colegas e clientes, ___ sinto a necessidade de sair, de
+ter o contato mais pessoal com quem me relaciono profissionalmente. __
 
-6. A pessoa entrevistado se sentiu tão solitario que ________________________________
+6. A pessoa entrevistado se sentiu tão solitario que __  ele decidiu por um modelo,
+digamos, hibrido de trabalho, “Três dias em casa, dois no escritório __
 
 ---
 
@@ -117,15 +119,28 @@ Essa talvez seja à solução ideal”, afirma.
 
 1. Você gostaria de montar um escritório em casa e trabalhar de pijama?
 
+Eu tenho um escritorio em casa, mas gosto de trabalhas com roupa no com pijama.
+
 2. O que é necessário para montar um home office?
+
+Para montar um escritório em casa, é necessário contar com: um computador, uma mesa, uma cadeira confortável e uma boa iluminação.
 
 3. O estresse desaparecerá com esse sistema de trabalho?
 
+O estresse não desaparecerá dependendo do sistema de trabalho; o estresse desaparecerá se a equipe é bem organizada.
+
 4. Quais os pontos positivos e os pontos negativos desse sistema de trabalho?
+
+Os pontos positivos do home office são todo o tempo de deslocamento até o escritório que você economiza.
+E se você se organizar bem, não há pontos negativos.
 
 5. Escritórios convencionais ainda existirão no futuro?
 
+Que boa pergunta! Talvez existam para determinados trabalhos 
+
 6. Trabalho de TI é possível fazer totalmente remoto? O que você acha?
+
+Sim, é possível, estou trabalhando 100% remotamente há dois anos.
 
 ---
 
