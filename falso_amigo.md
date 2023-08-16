@@ -63,3 +63,8 @@ Exemplos: Nossa! Que dia lindo! ..¡Uau! ¡Qué día lindo!
 E com certeza você já deve ter ouvido em um verão a famosa música Nossa, nossa assim você me mata ... de Michel Teló. Justamente aí se usa nesse sentido, **Dios mio!! Virgen Santa!!**. Nossa é a contração de **NOSSA SENHORA DA APARECIDA (Padroeria do Brasil)**  por isso muitas vezes é traduzido como Virgen Santa em espanhol.
 
 ---
+
+
+## Contenido de apoyo para [evitar hablar  ̈Portuñol](https://youtu.be/jO7bwzd-bUs)
+
+---
