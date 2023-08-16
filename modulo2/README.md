@@ -26,3 +26,11 @@ Aplicación.
 12.  Ejercicio oral. Elaboración de un vídeo sobre el trabajo remoto
 
 ---
+
+## <img width="40" height="40" src="https://img.icons8.com/nolan/40/form.png" alt="form"/> Links
+
+- [Escribir e-mails formales](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/escribir_e-mails_formales.md)
+
+- [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/exercicios.md)
+
+---
