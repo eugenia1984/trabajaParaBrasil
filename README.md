@@ -98,6 +98,12 @@ En [treinamento-auditivo](https://github.com/eugenia1984/trabajaParaBrasil/blob/
 
 ---
 
+## <img width="30" height="30" src="https://img.icons8.com/color/30/hearing.png" alt="hearing"/> TREINAMENTO PELA ENTREVISTA
+
+[Falar sobre você na entrevista de emprego: como responder](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/treinamento_pela_entrevista.md)
+
+---
+
 ## <img width="40" height="40" src="https://img.icons8.com/emoji/40/check-mark-button-emoji.png" alt="check-mark-button-emoji"/> APROBACIÓN
 
 Para evaluar tus habilidades y progreso, nuestro equipo de profesores evaluará **4 entregas en video**. Se evaluarán
