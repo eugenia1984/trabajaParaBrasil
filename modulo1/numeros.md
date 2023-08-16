@@ -55,3 +55,41 @@
 | 90 noventa | | um/ dois/ três/ quatro/ cinco/ seis/ sete/ oito/ nove |
 
 ---
+
+Aprender   un   nuevo   idioma   significa   comenzar   siempre   por   los cimientos;   es   decir,   por   aquellos   contenidos   más   básicos.   Los números, al igual que el alfabeto, representan algunos de los saberes esenciales   a   la   hora   de   aprender   portugués.   En   este   artículo queremos   ayudarte   a   que   aprendas   y   comprendas los números
+en portugués,   consolidando   así   tus   primeros   conocimientos   de   la lengua.
+
+Los números están presentes en todas partes y en todos los ámbitos de nuestra vida. Los utilizamos en forma de dinero para pagar en el supermercado o en diferentes tiendas, para dar nuestro número de teléfono, preguntar la hora, consultar un horario, realizar cálculos o identificar   objetos.   ¿Todavía   dudas   de   su   importancia   en   el conocimiento de la lengua?
+
+## Los números cardinales en portugués
+
+Los números cardinales son aquellos que utilizamos para contar o expresar unidades enteras. Como bien es sabido, el idioma portugués es bastante similar al español. Los números ordinales no suponen, por tanto, una excepción. A continuación, veremos cómo podemos contar en portugués.
+
+## Los números del uno al veinte en portugués
+
+Los números del uno al veinte - Números de um a vinte
+
+| Español  | Portugués |
+| -------- | --------- |
+| Uno, una |  Um, uma |
+| Dos | Dois, duas |
+| Tres | Três |
+| Cuatro | Quatro |
+| Cinco | Cinco |
+| Seis | Seis |
+| Siete | Sete |
+| Ocho | Oito |
+| Nueve | Nove |
+| Diez | Dez |
+| Once | Onze |
+| Doce | Doze |
+| Trece | Treze |
+| Catorce  | Quatorze/catorze |
+| Quince | Quinze |
+| Dieciséis | Dezesseis |
+| Diecisiete | Dezessete |
+| Dieciocho | Dezoito |
+
+
+
+---
