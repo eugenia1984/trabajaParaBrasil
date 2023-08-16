@@ -664,3 +664,36 @@ Conjugaciones correctas de verbos en Portugués  que son errores graves en Espa�
 
 
 ---
+
+
+## :star: FALAR = HABLAR
+
+YO HABLÉ
+
+EU FALEI
+
+YO HABLABA
+
+EU FALAVA
+
+NOSOTROS HABLABAMOS = NÓS FALAVAMOS
+
+### -ABA = -AVA
+
+É = EI – ABA = AVA – Ó = OU
+
+AMAR
+
+YO AMÉ
+
+EU AMEI
+
+ÉL HABLÓ
+
+ELE FALOU
+
+ELE AMOU
+
+Ó = OU
+
+---
