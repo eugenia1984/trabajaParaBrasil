@@ -1,22 +1,26 @@
 # :star: EXERCÍCIOS MÓDULO II
 
-En portugués brasileño, "tudo" y "todo" tienen diferencias sutiles en su uso. "Tudo" se utiliza principalmente como pronombre indefinido o adverbio, mientras que "todo" se emplea como
-adjetivo numeral. Aquí te explico cómo se utilizan:
+En portugués brasileño, **"tudo"** y **"todo"** tienen diferencias sutiles en su uso. 
 
-"Tudo" como adverbio o pronombre indefinido:
+**"Tudo"** se utiliza principalmente como **pronombre indefinido** o **adverbio**, mientras que **"todo"** se emplea como **adjetivo numeral**. 
+
+Aquí te explico cómo se utilizan:
+
+## "Tudo" como adverbio o pronombre indefinido:
 
 Ejemplo: "Alguém comeu tudo" (Alguien se comió todo)
-.
-En este caso, "tudo" se utiliza como pronombre indefinido que significa "todo" o "todo ello".
 
-Puede referirse a un objeto, una situación o una idea en su totalidad.
+-> En este caso, **"tudo"** se utiliza como **pronombre indefinido** que significa "todo" o "todo ello".
 
-"Todo" como adjetivo numeral:
+-> Puede referirse a un objeto, una situación o una idea en su totalidad.
+
+## "Todo" como adjetivo numeral:
 
 Ejemplo: "Comeram todo o bolo" (Se comieron todo el pastel).
 
-Aquí, "todo" se usa como adjetivo numeral que concuerda en género y número con el sustantivo al que acompaña. Indica que la totalidad del sustantivo fue afectada o está
-incluida en la acción.
+-> Aquí, **"todo"** se usa como **adjetivo numeral** que concuerda en género y número con el sustantivo al que acompaña. 
+
+-> Indica que la totalidad del sustantivo fue afectada o está incluida en la acción.
 
 ---
 
