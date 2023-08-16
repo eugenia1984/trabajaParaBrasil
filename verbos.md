@@ -392,8 +392,275 @@ Realizar
 ```
 
 ---
+---
+
+## :star: Lista completa de los 20 verbos irregulares en portugués
 
 
+Existen muchísimas formas de conjugar estos verbos en portugués, muchos de ellos son iguales o parecidas al español, lo que hice fue separar las conjugaciones más distintas para que puedas enfocarte en ellas, en el caso que quieras ver todas las conjugaciones haz clic en el verbo de la lista.
+
+| Verbo | Conjugaciones para Aprender |
+| ----- | --------------------------- |
+| Trazer | Trouxe / Trazido / Trouxer |
+| Pedir | Peço / Peça |
+| Medir | Meço |
+| Estar | Estava / Estive / Esteja / Estiver |
+| Ser | Fosse / For |
+| Ir | Fosse / For |
+| Vir | Vim / Vem / Veio / Vier |
+| Ver | Vejo / Visse / Vir |
+| Saber | Saiba / Soube / Souber |
+| Ter | Tive / Teve / Tiver |
+| Caber | Coube / Caiba / Cabido / Couber | 
+| Haver | Houve / Haja / Houvesse | 
+|  Poder | Posso / Pude / Pôde | 
+| Ler | Lido / Lesse | 
+| Sair | Saia / Saio / Saísse | 
+| Pôr | Pus / Pôs / Puser | 
+| Fazer | Fez / Faço / Fizer | 
+| Ouvir | Ouço / Ouviu | 
+| Dar | Deu / Dei / Desse / Der | 
+| Querer | Quis / Quisesse / Quiser | 
+
+---
+
+## Frases con verbos irregulares en Portugués para practicar
+
+(página con el audio: https://philipebrazuca.com/lista-verbos-irregulares-en-portugues/#1_TRAZER_TROUXE_-_TRAZIDO_-_TROUXER)
+
+### 1. TRAZER (TROUXE – TRAZIDO – TROUXER)
+
+- VOCÊ VAI TRAZER COMIDA PRA GENTE?
+
+- SE VOCÊ TIVESSE TRAZIDO COMIDA NINGUÉM ESTARIA COM FOME
+
+- QUANDO VOCÊ TROUXER A COMIDA LEMBRE DE DEIXÁ-LA NA MESA DA COZINHA
+
+### 2. PEDIR (PEÇO / PEÇA)
+
+- SEMPRE QUE PEÇO UM AUMENTO PRO MEU CHEFE ELE INVENTA  UMA DESCULPA PRA NÃO ME DAR
+
+- PEÇA O AUMENTO PRO SEU CHEFE EM OUTRA ÉPOCA DO ANO
+
+### 3. MEDIR (MEÇO)
+
+- EU MEÇO 1.79 de altura
+
+### 4. ESTAR (ESTAVA / ESTIVE / ESTEJA / ESTIVER)
+
+- A GENTE ESTAVA/TAVA JANTANDO COM UNS AMIGOS
+
+- ONTEM EU ESTIVE/TIVE COM O PESSOAL NESSE RESTAURANTE.
+
+- QUANDO EU CHEGAR EU TE AVISO PRA QUE VOCÊ ESTEJA TRANQUILA.
+
+- QUANDO VOCÊ ESTIVER POR AQUI ME AVISA, FAZ TEMPO QUE NÃO SAÍMOS.
+
+### 5. SER (FOSSE/FOR)
+
+- SE EU FOSSE VOCÊ NÃO FARIA ISSO
+
+- QUANDO VOCÊ FOR O GERENTE DA EMPRESA ME CONTRATE
+
+### 6. IR (FOSSE / FOR)
+
+- SE EU FOSSE LÁ TODO DIA COM CERTEZA TERIA ALGUM DESCONTO
+  
+- QUANDO VOCÊ FOR NO SUPERMERCADO ME AVISA PRA EU IR COM VOCÊ
+
+### 7. VIR (VIM / VEM / VEIO / VIER)
+
+- EU VIM AQUI ONTEM MAS ELE NÃO TAVA
+
+- ELE VEM SEMPRE POR AQUI ACOMPANHADO OU SOZINHO?
+
+- DA ÚLTIMA VEZ ELE VEIO COM A NAMORADA
+
+- SE ELE VIER POR AQUI ME AVISA
+
+### 8. VER (VEJO / VISSE / VIR)
+
+- EU SEMPRE VEJO ESSE CASAL POR AQUI
+
+- SE EU VISSE ESSE SERIADO TODO DIA NÃO TERIA TEMPO PRA NADA
+
+- QUANDO EU VIR ALGO SUSPEITO EU TE AVISO
+
+### 9. SABER (SAIBA / SOUBE / SOUBER)
+
+- EU TÔ FALANDO ISSO SÓ PRA QUE VOCÊ SAIBA QUE ESTOU AQUI  PRA TE AJUDAR
+
+- QUANDO EU SOUBE DO QUE ACONTECEU FIQUEI CHOCADA
+
+- SE VOCÊ SOUBER DE ALGUMA NOTÍCIA DELE ME AVISA
+
+### 10. TER (TIVE / TEVE / TIVER)
+
+- EU TIVE UM PROBLEMA TÉCNICO COM MEU CARRO
+
+- VOCÊ SEMPRE TEVE ESSE CARRO?
+
+- QUANTO VOCÊ TIVER UM 4X4 ME AVISA PRA GENTE IR FAZER TRILHA
+
+### 11. CABER (COUBE / CAIBA / CABIDO / COUBE
+
+- TIVEMOS QUE ALUGAR UM CARRO MAIOR PORQUE A MALA NÃO COUBE NO PORTA MALAS
+
+- TALVEZ SE A GENTE TIRAR ALGUMAS COISAS CAIBA
+
+- TALVEZ SE A GENTE TIVESSE TIRADO ALGUMAS COISAS TERIA CABIDO.
+
+- SE NÃO COUBER TUDO ME AVISA QUE EU EMPRESTO MEU CARRO.
+
+### 12. HAVER (HOUVE / HAJA / HOUVESSE)
+
+- HOUVE VÁRIAS BRONCAS NA EMPRESA
+
+- TALVEZ HAJA UMA FORMA MAIS FÁCIL DE RESOLVER ISSO
+
+- SE HOUVESSE UMA FORMA MAIS FÁCIL TERIA SIDO MUITO MELHOR
+
+### 13. PODER (POSSO – PUDE – PÔDE)
+
+- EU POSSO CONVERSAR COM VOCÊ?
+
+- EU NUNCA PUDE FALAR TUDO QUE PENSO SOBRE A GENTE
+
+- ELE NUNCA PÔDE FALAR COMIGO SEM NINGUÉM POR PERTO
+
+*Atención com Você, ele pode (presente, pronúncia aberta y você, ele  pôde, passado, pronuncia de la o cerrada)
+
+### 14. LER (LIDO – LESSE)
+
+- EU JURAVA QUE VOCÊ JÁ TINHA LIDO ESSE LIVRO
+
+- SE EU LESSE MAIS TODOS OS DIAS JÁ TERIA TERMINADO TODOS OS LIVROS
+
+### 15. SAIR (SAIA / SAIO / SAÍSSE)
+
+- SAIA DAQUI O QUANTO ANTES PRA EVITAR PROBLEMAS
+
+- EU SAIO, MAS DIGA PRO PESSOAL QUE NÃO TIVE CULPA DE NADA
+
+- SE EU SAISSE DO HOTEL EU CONHECERIA MAIS PESSOAS
+
+### 16. PÔR (PUS / PÔS / PUSER)
+
+- EU PUS A COMIDA EM CIMA DA MESA
+
+- ELE PÔS A CERVEJA NA GELADEIRA
+
+- SE VOCÊ PUSER UMA ROUPA FORMAL ME AVISA
+
+### 17. FAZER (FIZ / FEZ / FAÇO / FIZER)
+
+- EU SEMPRE FIZ ISSO E NUNCA TIVE PROBLEMAS
+
+- ELE TAMBÉM FEZ E DEU CERTO
+
+- EU FAÇO MAS SEMPRE DÁ ERRADO
+
+- SE EU FIZER E NÃO FUNCIONAR VOCÊ ME AJUDA?
+
+### 18. OUVIR (OUÇO / OUVIU)
+
+- SEMPRE QUE OUÇO SUA VOZ LEMBRO DO MEU PAI
+
+- VOCÊ OUVIU O QUE EU FALEI?
+
+### 19. DAR (DEU, DEI, DESSE, DER)
+
+- ELE ME DEU UM DESCONTO
+
+- EU DEI UM DESCONTO PORQUE ELE É CLIENTE FREQUENTE
+
+- SE DESSE PRA FAZER UM DESCONTO EU FARIA MAS INFELIZMENTE NÃO POSSO.
+
+- SE VOCÊ ME DER UM DESCONTO EU TRAGO MEUS AMIGOS PRA COMPRAR AQUI
+
+### 20. QUERER (QUIS / QUISESSE / QUISER)
+
+- ELE SEMPRE QUIS TE CONHECER
+
+- SE ELE QUISESSE ME CONHECER DE VERDADE JÁ TERIA VINDO AQUI HÁ MUITO TEMPO
+
+- SE VOCÊ QUISER EU POSSO CONVERSAR COM ELE
+
+### 21. DIZER (DISSE – DITO – DISSER)
+
+- EU DISSE PRA ELE TER MAIS CUIDADO MAS ELE NÃO ME DEU ATENÇÃO
+
+- SE VOCÊ TIVESSE DITO ISSO DE UM JEITO MAIS AMIGÁVEL ELE TERIA TE ESCUTADO
+
+- NA PRÓXIMA VEZ QUE VOCÊ DISSER ALGO ASSIM TENHA ISSO EM CONTA
+
+---
+
+## :star: Futuro del Subjuntivo con los verbos irregulares en portugués (SER/IR)
+
+Aprende a utilizar el futuro del subjuntivo en portugués.
+
+Conjugaciones correctas de verbos en Portugués  que son errores graves en Español
+
+## Verbo Resolver: Resolvido / Resuelto
+
+- Todos os problemas foram resolvidos.
+
+- Todos los problemas fueron resueltos.
+
+## Verbo Desenvolver: Desenvolvido – Desarrollado
+
+- Esse projeto já está muito desenvolvido.
+
+- Este proyecto ya está muy desarrollado.
+
+## Verbo Devolver: Devolvido – Devuelto
+
+- O carro foi devolvido sem nenhum problema.
+
+- El auto fue devuelto sin ningún problema.
+
+## Verbo Envolver: Envolvido – Involucrado
+
+- Eu não tinha nem ideia que ele tava envolvido nesse escândalo.
+
+- Yo no tenía idea que él estaba involucrado en este escándalo.
+
+## Verbo Voltar: Voltado – Vuelto
+
+- Se eu fosse você eu teria voltado pra lá.
+
+- Si yo fuera usted hubiera vuelto para allá
+
+## Verbo Morrer: Morrido – Muerto
+
+- Quando eu cheguei lá ele já tinha morrido.
+
+- Cuando yo llegué él ya había muerto.
+
+## Verbo Traduzir: Traduziu – Tradujo
+
+- Ela traduziu o documento completo sem nenhum erro.
+
+- Ella tradujo el documento completo sin ningún error.
+
+## Verbo Progredir: Progredido – Progresado
+
+- Fico feliz de que você tenha progredido.
+
+- Me alegro que hayas progresado.
+
+## Verbo Entregar: Entregue – Entregado
+
+- As provas foram entregues ao diretor do colégio.
+
+- Los exámenes fueron entregados al director del colegio.
+
+## Verbo Produzir: Produziu – Produjo
+
+- Ele produziu muitos vídeos ensinando Português
+
+- Él produjo muchos videos enseñando portugués
 
 
-
+---
