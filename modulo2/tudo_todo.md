@@ -23,8 +23,5 @@ Ela bebeu tudo.
 
 Eu entendi tudo.
 
-A GENTE ESTAVA/ESTEVE
-
-NÓS ESTAVÁMOS/ESTIVEMO
 
 ---
