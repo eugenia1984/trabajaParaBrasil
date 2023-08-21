@@ -64,4 +64,10 @@ A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim com
 
 - [Inteligência artificial simplificando o amanhã | Rodrigo Scotti | TEDxPinheiros ](https://youtu.be/jUfhJQYmV58) -> Desta vez, vamos treinar nossos ouvidos com uma palestra muito interessante. Ela fala sobre inteligência artificial, vamos ouvi-la parando a cada dois minutos, fazendo o mesmo exercício de antes, ouvindo as palavras e o som de cada uma delas. Fiquei pensando na frase final da palestra: não são apenas as pessoas que aprendem com nossas ações, mas também as máquinas. O que você acha?
 
+- [Discurso Steve Jobs em Stanford dublado](https://www.youtube.com/watch?v=9AMcl9bKeqs) ->  Um discurso de Steve Jobs dublado por uma das melhores vozes:micrófono:
+
+- [Dicas para se tornar um desenvolvedor](https://www.youtube.com/watch?v=VVGOJ7Qu54k)
+
+- [O ELEVADOR - Curta-metragem de ROMANCE](https://www.youtube.com/watch?v=YZ0tR9oyHb4) -> Um curta-metragem romântico
+  
 ---
