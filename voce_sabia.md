@@ -104,10 +104,34 @@ Realizar-se conforme o esperado. Ex.  Não se preocupe, tudo vai dar certo. /No 
 
 ---
 
-## <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+## <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia como se pronunciam as palavras WhatsApp, Youtube, Laptop, Notebook, Mc, Facebook em português?
+
+Atenção com as consonantes que não tem vogal ao lado.
+
+Não existe uma letra “I” entre o “T” e o “S” em WhatsApp. Por que colocamos um “I” nesta posição sem perceber? Como não temos nenhuma palavra na língua portuguesa com a sequência t-s-a, temos a tendência natural de recorrermos a uma vogal para que que falemos a palavra com mais facilidade. Essa vogal “fantasma” recebe o nome de “VOGAL DE APOIO”.
+
+Justamente por termos quase sempre uma vogal no final das palavras em português, exceto as que terminam em “R”, “M”, “S”, “X” e “L”, temos uma tendência natural de querer fazer o mesmo com os vocábulos da língua inglesa. É muito comum ouvirmos uma vogal “a mais”, a chamada vogal de apoio. LEMBRE!! Fonética :
+
+WHATSAPP /UATIZAPI
+
+Mc /MEQUI
+
+Youtube /IUTUBI
+
+Notebook / Notibuki
+
+Laptop/ LAPITOPI
+
+Facebook / Faisibuki
 
 ---
 
 ## <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
+
+## ## <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
 
 ---
