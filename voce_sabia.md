@@ -81,3 +81,33 @@ Saudade: em espanhol é traduzida como "extrañar a alguien o algo", também dep
 Chega de Saudades (chega = basta) -> [Caetano Veloso - Chega de Saudade (Ao Vivo)](https://www.youtube.com/watch?v=o0o1AtEhV9M)
 
 ---
+
+## <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia o que significa né?
+
+### Significado de Né
+
+Forma contraída da expressão "não é", geralmente usada para confirmar o que foi falado anteriormente ou para pedir aprovação sobre alguma coisa: 
+
+Ex 1: **você quer um suco, né?** 
+
+Ex 2: **Você conversou com seu pai, né?**
+
+Etimologia (origem da palavra né). Contração de não + é.   
+
+É uma palavra que usamos com muita frequência. Agora você já sabe
+
+---
+
+## <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia o que significa "dar certo"? 
+
+Realizar-se conforme o esperado. Ex.  Não se preocupe, tudo vai dar certo. /No te preocupes, todo va a salir bien !.Um projeto com tudo para dar certo!
+
+---
+
+## <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
+
+## <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
