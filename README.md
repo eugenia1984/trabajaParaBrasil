@@ -66,7 +66,7 @@ y social.
 
 - [Modulo 2](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/README.md): - [Escribir e-mails formales](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/escribir_e-mails_formales.md) / [ moeda brasileira: real](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/a_moeda_brasileira.md) /  [Todo y Tudo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/tudo_todo.md) / [Mas e Mais](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/mas_mais.md) / [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo2/exercicios.md)
 
-- [Modulo 3](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo3)
+- [Modulo 3](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo3):  [plural](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/plural.md) / [Como conduzir uma conversa de trabaho pelo telefone](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/converza_telefone.md)
 
 ---
 
