@@ -1,4 +1,4 @@
-#:computer: EXERCÍCIOS:
+# :computer: EXERCÍCIOS:
 
 ## 1 - Condicional simples (futuro do presente):
 
