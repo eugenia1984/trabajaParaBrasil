@@ -135,17 +135,35 @@ E por falar em trabalho, vamos aprender mais algumas palavras.?
 Você sabia como se diz ...
 
 Empleados -> funcionários
-Pagamento :flecha_a_la_derecha: pago
- Jubilado :flecha_a_la_derecha:aposentado
-Monto:flecha_a_la_derecha:montante
-Salario Neto :flecha_a_la_derecha:  salario líquido
-Férias :flecha_a_la_derecha: Vacaciones
-Há três possibilidades para o desligamento de um funcionário: 1) demissão sem justa causa; 2) demissão por justa causa; e 3) demissão a pedido do funcionário.
-Despedir demissão / demitir :flecha_a_la_derecha: despido . Ex. Quando o funcionário comete alguma falta grave, pode ser demitido por justa causa.  Ex . Após sua demissão,  Luis achou muito difícil conseguir outro emprego.
-Renunciar :flecha_a_la_derecha:  Pedir demissão  Ex.  O que acontece se eu pedir minha demissão? Quem pede demissão não tem o direito de receber o seguro-desemprego.
-Recibo de sueldo: Pode ser conhecido por vários nomes, :flecha_a_la_derecha:holerite, como contracheque, folha de pagamento ou simplesmente recibo de pagamento de salário.
-Pagamento de Férias:flecha_a_la_derecha:   pago de vacaciones
-Firmar contrato de Trabajo :flecha_a_la_derecha:assinar contrato de trabalho
+Pagamento -> pago
+Jubilado -> aposentado
+Monto -> :montante
+Salario Neto ->  salario líquido
+Férias ->  Vacaciones
+
+Há três possibilidades para o desligamento de um funcionário: 
+
+1) demissão sem justa causa;
+
+2) demissão por justa causa; e
+
+3) demissão a pedido do funcionário.
+
+Despedir demissão / demitir -> despido
+
+Ex.: Quando o funcionário comete alguma falta grave, pode ser demitido por justa causa.  
+
+Ex.: Após sua demissão,  Luis achou muito difícil conseguir outro emprego.
+
+Renunciar -> Pedir demissão  
+
+Ex.: O que acontece se eu pedir minha demissão? Quem pede demissão não tem o direito de receber o seguro-desemprego.
+
+Recibo de sueldo: Pode ser conhecido por vários nomes, -> holerite, como contracheque, folha de pagamento ou simplesmente recibo de pagamento de salário.
+
+Pagamento de Férias ->   pago de vacaciones
+
+Firmar contrato de Trabajo -> assinar contrato de trabalho
 
 ---
 
