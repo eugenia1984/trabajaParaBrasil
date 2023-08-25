@@ -167,12 +167,22 @@ Firmar contrato de Trabajo -> assinar contrato de trabalho
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> capoeira
+
+Com certeza você já viu aquela imagem típica brasileira. Homens ou mulheres vestidos de branco "dançando” capoeira.
+
+A capoeira é uma expressão cultural brasileira que compreende os elementos: arte-marcial, esporte, cultura popular, dança e música.
+
+Ela constrói relações de sociabilidade e familiaridade entre mestres e discípulos, sendo difundida de modo oral e gestual nas ruas e academias.
+
+A capoeira tem origem nos povos escravizados e se difundiu por todo o Brasil. Hoje é considerada um dos maiores símbolos da cultura brasileira.  
 
 ---
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
 
 ---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
 
 ---
