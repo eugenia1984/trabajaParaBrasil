@@ -2,13 +2,13 @@
 
 ## 1 - Condicional simples (futuro do presente):
 
-Se eu estudar mais, passarei na prova.
+Se eu estudar mais, **passarei** na prova.
 
-Se chover, ficarei em casa.
+Se chover, **ficarei** em casa.
 
 Frases para completar:
 
-1. Se ele _________ (aprender) programação, poderá criar um aplicativo incrível.
+1. Se ele ____ aprenderei_____ (aprender) programação, poderá criar um aplicativo incrível.
 
 2. Se nós _________ (comprar) esse software, teremos mais recursos para o projeto.
 
