@@ -76,12 +76,67 @@ garço**m** -> garço**ns**
 
 tre**m** -> tre**ns**
 
-image**m** -> IMAGE**ns**
+image**m** -> image**ns**
+
+garage**m** -> garáge**ns**
 
 ---
 
 
-## :star: PLURAL DE PALAVRAS TERMINADAS EM -L
+## :star: PLURAL DE PALAVRAS TERMINADAS EM -L (-IS / -EIS)
+
+Existem dois tipos de plural para PALAVRAS QUE TERMINAM EM L.
+
+Se as palavras terminam em -AL, -EL, -OL, -UL e a silaba tônica está no final, TROCAMOS o -L por -IS
+
+anim*a*l** (animaU) -> anima**is**
+
+fi**el** (fieU) -> fie**is**
+
+barr**il** (barriU) -> barr**is**
+
+far**ol** (faroU) -> faró**is**
+
+az**ul** -> azu**is**
+
+No caso de palavra que terminam com -IL mas tem uma sílaba acentuada antes, ocorre a mudança de -IL para -EIS
+
+répt**il** -> répt**eis**
+
+fért**il** -> fért**eis**
+
+téxt**il** -> téct**eis**
+
+---
+
+
+## :star: PLURAL DE PALAVRAS TERMINADAS EM -S( -S / -SES )
+
+Também temos dois casos para palavras que terminam em S.
+
+Se uma palavra tem acento em suas primeiras sílabas, nada acontece, ou seja, a palavra continua como estava.
+
+ônibu**s** -> ônibu**s**
+
+lápi**s** -> lápi**s**
+
+bônu**s** -> bônu**s**
+
+Se a palabra tem o acento na sílaba final, acrescentamos -ES. Quando passada para o plural, a palavra perde o acento.
+
+Franc**ês** -> frances**es**
+
+campon**ês** -> campones**es**
+
+noruegu**ês** -> noruegues**es**
+
+fregu**ês** -> fregues**es**
+
+PAra te ajudar um pouquinho, aqui va uma dica:
+
+se a palavra terminar em -S e for monossilaba, para transformar em plural é só adicionar -ES
+
+mês -> meses
 
 ---
 
