@@ -212,11 +212,11 @@ aguardente -> aguardente**s**
 
 aeromoço -> aeromoço**s**  (aeromoço / aeromoça)
 
--> ExcepçãO: girass**ol** -> girassó**is**
+-> Excepção: girass**ol** -> girassó**is**
 
 Entretando, se a palavra composta tiver um hífen, as regras mudam. Se a palavra for formada por um **substantivo + adjetivo** os **substantivo + número**, as duas palavras devem ficar na forma plural
 
-quint**a**-feir**a** -> quint**as**-feir**as**
+quint**a**-feir**a** (jueves) -> quint**as**-feir**as**
 
 gent**il**-hom**em** -> gent**is**-hom**ens**
 
@@ -225,6 +225,23 @@ palavr**a**-chav**e** -> palavr**as**-chav**e** ou palavr**as**-chav**es**
 couv**e**-flo**r** -> couv**es**-flor ou couv**es**-flor**es**
 
 bomb**a**-relógi**o** -> bomb**as**-relógio ou  bomb**as**-relógio**S**
+
+
+Se a palavra composta é formada por un **VERBO + SUBSTANTIVO**, a forma de plural é feita ao adicionar o -S no substantivo.
+
+guarda-roup**a** -> guarda-roup**as**
+
+guarda-s**ol** -> guarda-s**óis**
+
+guarda-chuv**a** -> guada-chuv**as**
+
+Se a forma composta tem uma **preposição** junto dela, para formar o plural deve colocar apenas a primeira palavra no plural.
+
+ág**ua**-de-colônia -> ág**uas**-de-colônia
+
+p**é*-de-moleque -> p**és**-de-moleque (es un dulce con maní)
+
+caval**o**-vapor -> caval**os**-vapor
 
 ---
 
