@@ -104,3 +104,6 @@ En general el futuro del subjuntivo est´acompañado de las siguientes conjuncio
 **como** -> Faça **como** ele disser.
 
 ---  
+---
+
+
