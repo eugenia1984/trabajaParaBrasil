@@ -89,7 +89,7 @@ Existem dois tipos de plural para PALAVRAS QUE TERMINAM EM L.
 
 Se as palavras terminam em -AL, -EL, -OL, -UL e a silaba tônica está no final, TROCAMOS o -L por -IS
 
-anim*a*l** (animaU) -> anima**is**
+anim**al** (animaU) -> anima**is**
 
 fi**el** (fieU) -> fie**is**
 
@@ -122,7 +122,9 @@ lápi**s** -> lápi**s**
 
 bônu**s** -> bônu**s**
 
-Se a palabra tem o acento na sílaba final, acrescentamos -ES. Quando passada para o plural, a palavra perde o acento.
+- Se a palabra tem o acento na sílaba final, acrescentamos -ES. Quando passada para o plural, a palavra perde o acento.
+
+-> E com ACENTO CIRCUNFLEXO:
 
 Franc**ês** -> frances**es**
 
@@ -132,11 +134,46 @@ noruegu**ês** -> noruegues**es**
 
 fregu**ês** -> fregues**es**
 
-PAra te ajudar um pouquinho, aqui va uma dica:
+- Para te ajudar um pouquinho, aqui va uma dica:
 
 se a palavra terminar em -S e for monossilaba, para transformar em plural é só adicionar -ES
 
 mês -> meses
+
+---
+
+## :star: PLURAL DE PALABRAS TERMINADAS EM -X (xis)
+
+As palabras que terminam em -x também não variam na forma de plural, elas ficam iguais.
+
+latex -> latex
+
+xirox -> xirox
+
+pirex -> pirex
+
+
+
+---
+
+## :star: PLURAL DE PALABRAS TERMINADAS EM -ão
+
+No passado te explicamos sobre o plural del palavras terminades em -ão.
+
+Estas palavras têm seu plural de diferentes maneiras dependiendo des regras a que se aplicam.
+
+Vejam TODAS A REGRAS NA NOSSA DICA ANTIGA SOBRE ISTO:
+
+p**ão** -> p**ães**
+
+alem**ão** -> alem**ães**
+
+capit**ão** -> capit**ães**
+
+irm**ão** -> irm**ães**
+
+estaç*ão** -> estaç**ões**
+
 
 ---
 
