@@ -68,7 +68,7 @@ y social.
 
 - [Modulo 3](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo3):  [plural](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/plural.md) / [Como conduzir uma conversa de trabaho pelo telefone](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/converza_telefone.md) / [Condicional Simple](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/condicional_simple.md) /  [Futuro do subjuntivo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/futuro_do_subjuntivo.md) /  [exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/exercicios.md)
 
-- [Modulo 4](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo4):  [Verbos que demonstram responsabilidade / Palavras que refletem valores da empresa / Adjetivos que mostrem paixão / Verbos fortes para demonstrar liderança] / (https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema1.md)
+- [Modulo 4](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo4):  [Verbos que demonstram responsabilidade / Palavras que refletem valores da empresa / Adjetivos que mostrem paixão / Verbos fortes para demonstrar liderança](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema1.md) // Expressões para introduzir frases na entrevista: Para falar de si mesmo / Para falar das suas competências / Para falar por que você quer esta vaga / Para perguntar / Por último: Não fale exageradamente, mas também não figure calado  // Linguagem formal e Frases adequadas em situações de entrevistas de emprego  // Exercícios 
 
 - [Modulo 5](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo5): 
 
