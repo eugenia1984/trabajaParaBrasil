@@ -68,6 +68,16 @@ y social.
 
 - [Modulo 3](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo3):  [plural](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/plural.md) / [Como conduzir uma conversa de trabaho pelo telefone](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/converza_telefone.md) / [Condicional Simple](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/condicional_simple.md) /  [Futuro do subjuntivo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/futuro_do_subjuntivo.md) /  [exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo3/exercicios.md)
 
+- [Modulo 4](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo4):
+
+- [Modulo 5](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo5): 
+
+- [Modulo 6](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo6): 
+
+- [Modulo 7](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo7): 
+
+- [Modulo 8](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo8): 
+
 ---
 
 ## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> Hay palabras que en español tienen un significado muy distinto al Portugues
