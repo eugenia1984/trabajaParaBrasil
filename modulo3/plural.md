@@ -17,13 +17,52 @@ Mas primero dê uma olhada nesta tabela:
 
 ---
 
-## :star:  PLURAL DAS PALAVRAS EM VOGAIS
+## :star:  PLURAL DAS PALAVRAS EM VOGAIS (-VOGAL + S)
 
 Vamos começar pelo PLURAL DAS PALAVRAS TERMINADAS EM -A, -E, -I, -O, -U.
 
 Essa regra é simples.
 
-Se as palavras TERMINAN COM VOGAL 
+Se as palavras TERMINAN COM VOGAL NO SINGULAR, basta ACRESCENTAR a letra S ao final da palavra para passar para o plural.
+
+cas**a** -> cas**as**
+
+p**é** -> p**és** (pies)
+
+aça**+i** -> aça**ís**
+
+ré**u** -> ré**us**
+
+---
+
+## :star: PLURAL DE PALAVRAS TERMINADAS EN -R (-R + ES)
+
+
+Se uma plavra terminar em -R, acrescentamos -ES ao final.
+
+professo**r** -> professor**es**
+
+ato**r** -> ator**Es**
+
+cauto**r** -> cauto**res*
+
+sabo**r** -> sabo**res**
+
+amo**r** -> amo**res**
+
+---
+
+## :star: PLURAL DA PALAVRA TERMINAS EM Z (-Z + ES)
+
+Assim como a regras anterior, se uma palavra termina em -Z, precisamos acrescentar -ES ao final.
+
+gravid**ez** -> gravide**zes**
+
+ra*i*z** -> ra**izes**
+
+matr**iz** -> matr**izes**
+
+rap**az** -> rap**azes**
 
 ---
 
