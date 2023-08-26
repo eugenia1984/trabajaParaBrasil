@@ -126,16 +126,16 @@ Você terá que fazer um vídeo sobre o vídeo Projeto leva formação em tecnol
 
 Lembre as perguntas:
 
-Como você pode contribuir para o conhecimento de outras pessoas sobre tecnologia?
+- Como você pode contribuir para o conhecimento de outras pessoas sobre tecnologia?
 
-• Você já ajudou um amigo ou familiar com tecnologia?
+- Você já ajudou um amigo ou familiar com tecnologia?
 
-• Você gostaria de ensinar adultos ou crianças?
+- Você gostaria de ensinar adultos ou crianças?
 
-•  Se você pudesse ajudar alguém que precisa saber como usar o computador para conseguir um emprego, você ajudaria?
+-  Se você pudesse ajudar alguém que precisa saber como usar o computador para conseguir um emprego, você ajudaria?
 
-• Em que dias da semana você poderia dar aulas e em que horários?
+- Em que dias da semana você poderia dar aulas e em que horários?
 
-• Acha que seria bom para o seu currículo?
+- Acha que seria bom para o seu currículo?
 
 ---
