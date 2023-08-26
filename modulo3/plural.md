@@ -1,6 +1,6 @@
 # :star: PLURAL 
 
-O plural em portugyês pode ser um pouco confusu, mas não se preocupe porque estamos aqui para te ajudar!
+O plural em português pode ser um pouco confuso, mas não se preocupe porque estamos aqui para te ajudar!
 
 Para cada forma de prural existem diferentes regras, então nós vamos te ensinar uma por uma.
 
