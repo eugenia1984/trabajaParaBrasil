@@ -148,9 +148,9 @@ As palabras que terminam em -x também não variam na forma de plural, elas fica
 
 latex -> latex
 
-xirox -> xirox
+xirox -> xirox (fotocopia)
 
-pirex -> pirex
+pirex -> pirex (frasco de vidrio apto para microondas y horno)
 
 
 
@@ -170,10 +170,61 @@ alem**ão** -> alem**ães**
 
 capit**ão** -> capit**ães**
 
+org**ão** -> org**ãos** (organo del cuerpo, y puede ser una organizacion, como un organo del gobierno/financieras. la ONG le dicen ONGI, le agregan la i al final)
+
 irm**ão** -> irm**ães**
 
-estaç*ão** -> estaç**ões**
+cidad**ão** -> cidad**ãos**
 
+estaç**ão** (estasau) -> estaç**ões**
+
+lim**ão** -> lim**ões**
+
+raz**ão** -> raz**ões**
+
+---
+
+## :star: PLURAL EM PORTUGUESPARA PALAVRAS TERMINADAS EM -ZINHO/A (-ZINHO**S** /-ZINHA**S**)
+
+
+As palavras que terminam em -ZINHO/A são formas de diminutivo de alguma palavra. Desta forma, para colocar no plural é só adicional o -S também.
+
+viagen**zinha** (viashenziñas) -> viagen**zinhas**
+
+irmão**zinho** -> irmão**zinhos**
+
+mãe**zinha** -> mãe**zinhas**
+
+cidade**zinha** -> cidade**zinhas**
+
+---
+
+
+## :star: PLURAL EM PORTUGUES DE PALAVRAS COMPOSTAS
+
+Quando temos palavras compostas em português, as formas de plural podem variar também.
+
+As palavras compostas que não tem hífen (-) seguem as mesmas regras que os substantivos simples.
+
+-> ARCESCENTAMOS  O -S
+
+aguardente -> aguardente**s**
+
+aeromoço -> aeromoço**s**  (aeromoço / aeromoça)
+
+-> ExcepçãO: girass**ol** -> girassó**is**
+
+Entretando, se a palavra composta tiver um hífen, as regras mudam. Se a palavra for formada por um **substantivo + adjetivo** os **substantivo + número**, as duas palavras devem ficar na forma plural
+
+quint**a**-feir**a** -> quint**as**-feir**as**
+
+gent**il**-hom**em** -> gent**is**-hom**ens**
+
+palavr**a**-chav**e** -> palavr**as**-chav**e** ou palavr**as**-chav**es**
+
+couv**e**-flo**r** -> couv**es**-flor ou couv**es**-flor**es**
+
+bomb**a**-relógi**o** -> bomb**as**-relógio ou  bomb**as**-relógio**S**
 
 ---
 
