@@ -8,11 +8,11 @@ Aprende frases y vocabulario útiles para situaciones urgentes y cotidianas.
 
 - [Verbos que demonstram responsabilidade / Palavras que refletem valores da empresa / Adjetivos que mostrem paixão / Verbos fortes para demonstrar liderança](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema1.md)
 
-- Expressões para introduzir frases na entrevista: Para falar de si mesmo / Para falar das suas competências / Para falar por que você quer esta vaga / Para perguntar / Por último: Não fale exageradamente, mas também não figure calado
+- [Expressões para introduzir frases na entrevista: Para falar de si mesmo / Para falar das suas competências / Para falar por que você quer esta vaga / Para perguntar / Por último: Não fale exageradamente, mas também não figure calado](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema2.md)
 
-- Linguagem formal e Frases adequadas em situações de entrevistas de emprego
+- [Linguagem formal e Frases adequadas em situações de entrevistas de emprego](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema3.md)
 
-- Exercícios
+- [Exercícios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema4.md)
   
 ---
 
