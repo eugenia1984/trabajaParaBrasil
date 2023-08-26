@@ -40,3 +40,66 @@ Eu ganhei um relógio.
 8. Se eu tive**sse** um milhão de dólares, pensa**ria** em diversificar meus investimentos para garantir um futuro estável. Também considera**ria** comprar um imóvel ou, quem sabe, investir em alguma paixão ou hobby que sempre quis desenvolver.
    
 ---
+
+## ¿Cómo se forma el futuro del subjuntivo en portugues?
+
+Se forma a partir de la tercera persona del plural del pretérito perfecto del indicativo al que se le elimina la terminación -AM y agrega la terminacion correspondiente
+
+Ex.: 
+
+- verbo DIZER -> Eles disser**am**
+
+| Pronome | Pret. Perf. | + |
+| ------- | ----------- | - |
+| eu | disser | - |
+| você/ele/ela | disser | - |
+| nós | disser | mos |
+| vocês/eles/elas | disser | em/M |
+
+- verbo SER -> Eles for**am**
+
+| Pronome | Pret. Perf. | + |
+| ------- | ----------- | - |
+| eu | for | - |
+| você/ele/ela | for | - |
+| nós | forr | mos |
+| vocês/eles/elas | for | em |
+
+Ejemplos:
+
+- Faça quando **puder**
+
+- Se eu **for** ao shopping, eu le aviso.
+
+- Irei so Brasil quando eu **tiver** dinheiro.
+
+- Depois que **fizeram** o exercicio, vamos comer um bolo de hocolate.
+
+- Se você **quiser**, pode vir amanhã.
+
+- Quando eu **tiver** dinheiro, comprarei uma casa.
+
+-> Fijate que siempre debe haber una condición. 
+
+-> Recuerda que siempre que uses **compraria**, **falaria**, **iria**, **esdudaria**, es decir el futuro del pretérito del indicativo, no emplearás jamás el futuro del subjuntivo. En esas oraciones usaras  el pretérito imperfecto del subjuntivo.
+
+Si de un lado está el futuro del subjuntivo, del otro solo puedes tener: presente, futuro e imperativo.
+
+Si e TIVESSE dinheiro, COMPRARIA uma casa.
+
+Se você ESTUDASSE, FALARIA melhor.
+
+Se eu MORASSE no Rio, IRIA todo dia para a praia
+
+
+## ¿ Qué frases introducen el futuro del subjuntivo?
+
+En general el futuro del subjuntivo est´acompañado de las siguientes conjunciones
+
+**à medida que** -> **à medida que** frem chegando, podem sentar
+
+**assim que** -> **Assim que** você chega, començarei a trabalhar.
+
+**como** -> Faça **como** ele disser.
+
+---  
