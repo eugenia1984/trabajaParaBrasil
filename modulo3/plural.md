@@ -56,13 +56,32 @@ amo**r** -> amo**res**
 
 Assim como a regras anterior, se uma palavra termina em -Z, precisamos acrescentar -ES ao final.
 
-gravid**ez** -> gravide**zes**
+gravid**ez** -> gravide**zes** (embarazo)
 
 ra**iz** -> ra**izes**
 
-matr**iz** -> matr**izes**
+matr**iz** -> matr**izes** (como la casa matriz, la sucursal principal, como una iglesia muy importante)
 
-rap**az** -> rap**azes**
+rap**az** -> rap**azes** (muchacho 15-30 años / para mujeres sería **moça**)
+
+---
+
+## :star: PLURAL DE PALAVRAS TERMINADAS EM -M(trocamos por: -NS)
+
+Quando uma palavra terminada em -EM, para passar para o plural precisamos trocarr -M por -NS
+
+home**m** -> home**ns**
+
+garço**m** -> garço**ns**
+
+tre**m** -> tre**ns**
+
+image**m** -> IMAGE**ns**
+
+---
+
+
+## :star: PLURAL DE PALAVRAS TERMINADAS EM -L
 
 ---
 
