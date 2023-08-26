@@ -239,7 +239,7 @@ Se a forma composta tem uma **preposição** junto dela, para formar o plural de
 
 ág**ua**-de-colônia -> ág**uas**-de-colônia
 
-p**é*-de-moleque -> p**és**-de-moleque (es un dulce con maní)
+p**é**-de-moleque -> p**és**-de-moleque (es un dulce con maní)
 
 caval**o**-vapor -> caval**os**-vapor
 
