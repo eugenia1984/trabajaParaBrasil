@@ -25,13 +25,13 @@ Essa regra é simples.
 
 Se as palavras TERMINAN COM VOGAL NO SINGULAR, basta ACRESCENTAR a letra S ao final da palavra para passar para o plural.
 
-cas**a** -> cas**as**
+cas **a** -> cas **as**
 
-p**é** -> p**és** (pies)
+p **é** -> p **és** (pies)
 
-aça**+i** -> aça**ís**
+aça **i** -> aça **ís**
 
-ré**u** -> ré**us**
+ré **u** -> ré **us**
 
 ---
 
@@ -40,15 +40,15 @@ ré**u** -> ré**us**
 
 Se uma plavra terminar em -R, acrescentamos -ES ao final.
 
-professo**r** -> professor**es**
+professo **r** -> professor **es**
 
-ato**r** -> ator**Es**
+ato **r** -> ato **res**
 
-cauto**r** -> cauto**res*
+cauto **r** -> cauto **res**
 
-sabo**r** -> sabo**res**
+sabo **r** -> sabo **res**
 
-amo**r** -> amo**res**
+amo **r** -> amo **res**
 
 ---
 
@@ -56,13 +56,13 @@ amo**r** -> amo**res**
 
 Assim como a regras anterior, se uma palavra termina em -Z, precisamos acrescentar -ES ao final.
 
-gravid**ez** -> gravide**zes**
+gravid **ez** -> gravide **zes**
 
-ra*i*z** -> ra**izes**
+ra **iz** -> ra **izes**
 
-matr**iz** -> matr**izes**
+matr **iz** -> matr **izes**
 
-rap**az** -> rap**azes**
+rap **az** -> rap **azes**
 
 ---
 
