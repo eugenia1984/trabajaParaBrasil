@@ -41,7 +41,7 @@ Eu ganhei um relógio.
    
 ---
 
-## ¿Cómo se forma el futuro del subjuntivo en portugues?
+## :star:  ¿Cómo se forma el futuro del subjuntivo en portugues?
 
 Se forma a partir de la tercera persona del plural del pretérito perfecto del indicativo al que se le elimina la terminación -AM y agrega la terminacion correspondiente
 
@@ -91,8 +91,9 @@ Se você ESTUDASSE, FALARIA melhor.
 
 Se eu MORASSE no Rio, IRIA todo dia para a praia
 
+---
 
-## ¿ Qué frases introducen el futuro del subjuntivo?
+## :star: ¿ Qué frases introducen el futuro del subjuntivo?
 
 En general el futuro del subjuntivo est´acompañado de las siguientes conjunciones
 
