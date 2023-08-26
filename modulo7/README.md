@@ -1,0 +1,1 @@
+# :star: MODULO 7 *   Vocabulario técnico
