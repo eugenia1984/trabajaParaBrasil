@@ -179,7 +179,30 @@ A capoeira tem origem nos povos escravizados e se difundiu por todo o Brasil. Ho
 
 ---
 
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia como se diz "ancho" em português 
+
+Atenção! ele é um falso amigo. 
+
+Ex. Los pantalones anchos no son una vestimenta apropiada para jogar futebol. 
+
+-> Calças **largas** não são uma vestimenta adequada para jugar al fútbol.
+
+---
+
 ##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia como se diz "banda ancha" em português?
+
+-> **BANDA LARGA**
+
+![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/a780b6bf-d9ff-4c35-a48e-f18dfe8fbbc3)
+
 
 ---
 
