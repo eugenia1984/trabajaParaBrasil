@@ -701,3 +701,26 @@ ELE AMOU
 Ó = OU
 
 ---
+---
+
+## :star:  El "preterito perfecto compuesto" de indicativo
+
+### Usos del "preterito perfecto compuesto"
+
+El "preterito perfecto compuesto" se usa para indicar:
+
+- una acción que empieza en el pasado y se mantiene en  el presente
+
+Tenho comido muita besteira nesses dias -> He comido muchas porquerías en estos días
+
+Tem falado constantemente sobre o assunto -> Ha hablado constantemente sobre el asunto
+
+### Conjugación del "preterito perfecto  compuesto"
+
+La conjugación del "pluscuamperfecto" es: **[VERBO AUXILIAR EN PRESENTE] + [PARTICIPIO]**
+
+Si se está conjugando un verbo con participio regular e irregular, se usará el participio regular.
+
+
+---
+---
