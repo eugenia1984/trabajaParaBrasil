@@ -144,17 +144,18 @@
 | o programador | el programador |
 | a linguagem de | el lenguaje de |
 | programação | programación |
+| o código-fonte | el código fuente  |
+| o ciclo | el bucle |
+| a interface | la interface |
+| o salto | el salto |
+| a estrutura | la estructura |
+| o overflow | el desbordamiento |
+| a herança | la herencia |
+| Tela | pantalla |
+| Salvar |  guardar |
+| a ramificação | la ramificación |
+| Lixeira |  Papelera |
+| Lixo |  Basura |
+| Janela |  ventana |
 
-o código-fonte el código fuente 
-o ciclo el bucle 
-a interface la interface 
-o salto el salto 
-a estrutura la estructura 
-o overflow el desbordamiento 
-a herança la herencia 
-Tela  pantalla 
-Salvar  guardar 
-a ramificação la ramificación 
-Lixeira  Papelera  
-Lixo  Basura 
-Janela  ventana 
+---
