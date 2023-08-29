@@ -115,7 +115,7 @@ En [treinamento-auditivo](https://github.com/eugenia1984/trabajaParaBrasil/blob/
 
 ---
 
-## <img width="30" height="30" src="https://img.icons8.com/color/30/hearing.png" alt="hearing"/> GLOSARIO TECNOLOGIA
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> GLOSARIO TECNOLOGIA
 
 - [GLOSARIO TECNOLOGIA](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/glosario_tecnologia.md)
   
