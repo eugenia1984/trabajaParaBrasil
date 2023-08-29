@@ -781,4 +781,110 @@ Na festa vimos que tínhamos comprado a camiseta errada -> En la fiesta vimos qu
 Ontem haviam dito que o julgamento seria amanhã -> Ayer habían dicho que el juicio sería mañana  
 
 ---
+
+
+### :star: Conjugación del "preterito mais que perfeito composto"
+
+La conjugación del "preterito mais que perfeito composto" es: **[VERBO AUXILIAR EN PRETÉRITO IMPERFECTO] + [PARTICIPIO]**
+
+Si se está conjugando un verbo con participio regular e  irregular, se usará el participio regular.
+
+A continuación os mostramos el verbo "falar" conjugado con los auxiliares "ter" y "haver" y además os recordamos como  se conjugan los verbos auxiliares en pretérito imperfecto para formar el "pretérito mais que perfeito compuesto".
+
+| Conjugación | Significado |
+| ----------- | ----------- |
+| eu tinha falado | yo había hablado |
+| tu tinhas falado | tú habías hablado |
+| você tinha falado | tú habías hablado |
+| ele tinha falado | él había hablado |
+| nós tínhamos falado | nosotros habíamos hablado |
+| a gente tinha falado | nosotros habíamos hablado |
+| vós tínheis falado  | vosotros habíais hablado |
+| vocês tinham falado | vosotros habíais hablado |
+| eles tinham falado | ellos habían hablado |
+
+A gente tinha falado com o diretor -> Nosotros habíamos hablado con el director
+
+---
+
+### :star: Verbo auxiliar "ter" (tener) en pretérito imperfecto
+
+| Pronombre | Ter |
+| --------- | --- |
+| eu tinha | yo tenía |
+| tu tinhas | tú tenías |
+| você tinha | tú tenías |
+| ele tinha | él tenía |
+| nós tínhamos | nosotros teníamos |
+| a gente tinha | nosotros teníamos |
+| vós tínheis | vosotros teníais |
+| vocês tinham | vosotros teníais |
+| eles tinham | ellos tenían |
+
+
+---
+
+## :star: Futuro do presente composto
+
+El "futuro do presente composto" describe hechos en el futuro que empiezan y acaban.
+
+(Eu)Terei corrigido as provas antes de sexta-feira -> Habré corregido las pruebas antes del viernes
+
+A gente terá comido toda a sobremesa, quando cheguem -> Nosotros nos habremos comido todo el postre, cuando  ellos lleguen
+
+
+### Ejemplos con los verbos "ter" y "haver".
+
+Amanhã ele terá hipotecado a casa que tanto sonhava -> Mañana él firmará la hipoteca de la casa que tanto soñaba
+
+Si os fijáis en el ejemplo anterior, en portugués no se usa la expresión "firmará la hipoteca", la traducción literal de esta frase es: "Mañana él tendrá hipotecada la casa que tanto soñaba".
+
+Na empresa haverá mudanças, más pequenas -> En la empresa habrá cambios, pero pequeñas
+
+Atención a la palabra "mudanza", se puede traducir como "mudanza", pero dependiendo del contexto también puede significar "cambio".
+
+Y ya que sale aquí esta palabra, deciros que para mudanzas de un sitio a otro, pueden usar el verbo "mudar" o el verbo "trocar". Cuando usas "mudar" simplemente te vas de una casa a otra, pero cuando se usa "trocar" es que te vas de una casa pequeña a otra más grande.
+
+---
+
+### :star: Conjugación del "Futuro do presente composto"
+
+El "Futuro do presente composto" se forma conjugando el auxiliar ("ter" o "haver") en "futuro do presente" + el participio del verbo.
+
+**[AUXILIAR EN FUTURO DO PRESENTE DO  INDICATIVO] + [PARTICIPIO]**
+
+Si se está conjugando un verbo con participio regular e irregular, se usará el participio regular.
+
+A continuación os mostramos un ejemplo con el verbo "falar".
+
+| Conjugación | Significado |
+| ----------- | ----------- |
+| eu havia falado | yo había hablado |
+| tu havias falado | tú habías hablado |
+| você havia falado | tú habías hablado |
+| ele havia falado | él había hablado |
+| nós havíamos falado | nosotros habíamos hablado |
+| a gente havia falado | nosotros habíamos hablado |
+| vós havíes falado | vosotros habíais hablado |
+| vocês haviam falado | vosotros habíais hablado |
+| eles haviam falado | ellos habían hablado |
+
+
+Os recordamos como se conjugan los auxiliares "ter" y  "haver" para formar el "Futuro do presente composto".
+
+| Pronombre | Ter | Haver |
+| --------- | --- | ----- |
+| eu | terei(tendré) | haverei(habré) |
+| tu | terás(tendrás) | haverás(habrás) |
+| você | terá(tendrás) | haverá(habrás) |
+| ele | terá(tendrá) | haverá(habrá) |
+| nós | teremos(tendremos) | haveremos(habremos) |
+| a gente | terá(tendremos) | haverá(habremos) |
+| vós | tereis(tendréis) | havereis(habréis) |
+| vocês | terão(tendréis)  | haverão(habréis) |
+| eles |terão(tendrán) | haverão(habrán) |
+
+Referencias y mas tiempos verbales: https://www.portuguessencillo.com/ter-
+
+---
 ---
