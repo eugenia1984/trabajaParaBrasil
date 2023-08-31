@@ -96,8 +96,6 @@ De tudo que foi um dia... Do que será amanhã... e do que já não é mais!
 
 Autor desconhecido
 
-Página con áudio dos contos: [https://philipebrazuca.com/lectura-de-cuentos-
-en-portugues-con-audio/#1_Casa_dos_Mil_Espelhos](https://philipebrazuca.com/lectura-de-cuentos-
-en-portugues-con-audio/#1_Casa_dos_Mil_Espelhos)
+Página con áudio dos contos: [https://philipebrazuca.com/lectura-de-cuentos-en-portugues-con-audio/#1_Casa_dos_Mil_Espelhos](https://philipebrazuca.com/lectura-de-cuentos-en-portugues-con-audio/#1_Casa_dos_Mil_Espelhos)
 
 ---
