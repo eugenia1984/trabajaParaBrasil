@@ -4,9 +4,11 @@ En portugués, como en español, existe la voz activa y la voz pasiva.
 
 La pasiva se utiliza cuando la persona que realiza la acción (llamado "agente") no se conoce o es poco relevante.
 
+
 - **Voz activa: El sujeto en activa, pasará a ser el agente en pasiva**
 
 Ela plantou uma flor. / Ella plantó una flor.
+
 
 - **Voz pasiva: Ahora el sujeto ya no es "ela", sino "a flor"(que era el complemento directo en activa)**
 
@@ -14,7 +16,7 @@ A flor foi plantada por ela. / La flor fue plantada por ella
 
 ---
 
-## Conjugación
+## :star: Conjugación
 
 La estructura es totalmente equivalente al español:
 
@@ -25,6 +27,8 @@ La estructura es totalmente equivalente al español:
 Cuando tenemos un verbo con participio regular e irregular, para la pasiva se usa siempre el irregular.
 
 Acordaos que "por" se puede contraer cuando va seguido de un artículo determinado.
+
+---
 
 ## Por + Artículo Contracción
 
@@ -38,7 +42,8 @@ por + as -> pelas
 
 ---
 
-La forma más usada para formar la pasiva es con el verbo **"ser"** pero en ocasiones usan otros verbos como: 
+## :star: La forma más usada para formar la pasiva es con el verbo **"ser"** pero en ocasiones usan otros verbos como: 
+
 
 **estar(estar)**
 
@@ -54,6 +59,7 @@ O estádio estava rodeado pelos policiais.
 
 El estadio fue rodeado por los policias
 
+
 **ficar(quedar)**
 
 - Voz Activa:
@@ -67,6 +73,7 @@ Los policías detuvieron al hombre
 O homem ficou detido pelos policiais
 
 El hombre fue/quedó detenido por la policía
+
 
 **Vir (venir)**
 
@@ -103,6 +110,7 @@ Sou elogiado pelos chefes diante dos colegas.
 
 Soy elogiado por los jefes delante de los compañeros.
 
+
 ## Imperfecto
 
 | Voz Activa | Voz Pasiva |
@@ -111,6 +119,7 @@ Soy elogiado por los jefes delante de los compañeros.
 
 Era elogiado pelos chefes diante dos colegas. -> Era elogiado por los jefes delante de los compañeros.
 
+
 ## Pretérito perfecto simple
 
 | Voz Activa | Voz Pasiva |
@@ -118,6 +127,7 @@ Era elogiado pelos chefes diante dos colegas. -> Era elogiado por los jefes dela
 | elogiei/ elogiéera | elogiado / era elogiado |
 
 Fui elogiado pelos chefes diante dos colegas -> Fui elogiado por los jefes delante de los compañeros
+
 
 ## Futuro
 
@@ -136,6 +146,7 @@ Na reunião será elogiado pelos chefes diante dos colegas -> En la reunión ser
 
 Na reunião, vai ser elogiado pelos chefes diante dos colegas. -> En la reunión, va a ser elogiado por los jefes delante de los compañeros
 
+
 ## Condicional
 
 | Voz Activa | Voz Pasiva |
@@ -143,6 +154,7 @@ Na reunião, vai ser elogiado pelos chefes diante dos colegas. -> En la reunión
 | elogiaria / elogiaría | seria elogiado / sería elogiado |
 
 Seria elogiado pelos chefes diante dos colegas, se fosse trabalhador. -> Sería elogiado por los jefes delante de los compañeros, si fuera trabajador
+
 
 ## Pluscuamperfecto
 
@@ -173,40 +185,51 @@ fuera elogiado
 
 Esperava que fosse elogiado pelos chefes diante dos colegas -> Esperaba que fuera elogiado por los jefes delante de los compañeros
 
+
 ## Futuro de subjuntivo
 
-Voz Activa Voz Pasiva
+| Voz Activa | Voz Pasiva |
 | ---------- | ---------- |
-elogiar
-elogiare for elogiado
-fuere elogiado
+| elogiar | for elogiado |
+| elogiare | fuere elogiado |
 
 Quando for elogiado pelos chefes diante dos colegas, estará feliz -> Cuando fuere elogiado por los jefes delante de los compañeros, estará feliz
 
+---
+
 ## Concordancia entre el sujeto y el participio- 
 
-El sujeto y el participio de la pasiva tienen que concordar, al igual que en 
-español el participio tiene género y número:
-Género Singular Plural
-Masculino escrito escritos
-Femenino escrita escritas
-Masculino singular:
-O livro foi escrito pelo meu irmão
-El libro fue escrito por mi hermano
-Femenino singular:
-A poesia foi escrita pelo meu irmão
-La poesía fue escrita por mi hermano
-Masculino plural:
-Os livros foram escritos pelo meu irmão
-Los libros fueron escritos por mi hermano
-Femenino plural:
-As poesias foram escritas pelo meu irmão
-La poesía fue escrita por mi hermano
+El sujeto y el participio de la pasiva tienen que concordar, al igual que en español el participio tiene género y número:
+
+| Género | Singular | Plural |
+| ------ | -------- | ------ |
+| Masculino | escrito | escritos |
+| Femenino | escrita | escritas |
+
+## Masculino singular:
+
+O livro foi escrito pelo meu irmão -> El libro fue escrito por mi hermano
+
+## Femenino singular:
+
+A poesia foi escrita pelo meu irmão -> La poesía fue escrita por mi hermano
+
+## Masculino plural:
+
+Os livros foram escritos pelo meu irmão -> Los libros fueron escritos por mi hermano
+
+## Femenino plural:
+
+As poesias foram escritas pelo meu irmão -> La poesía fue escrita por mi hermano
+
+---
+
 Conto: 
-Um senhor de bastante idade chegou a um consultório médico, 
-pra fazer um curativo em sua mão, na qual havia um profundo 
-corte.
-E muito apressado pediu urgência no atendimento, pois tinha um 
-compromisso.
-O médico que o atendia, curioso, perguntou o que tinha de tão 
-urgente pra fazer.
+
+Um senhor de bastante idade chegou a um consultório médico, pra fazer um curativo em sua mão, na qual havia um profundo corte.
+
+E muito apressado pediu urgência no atendimento, pois tinha um compromisso.
+
+O médico que o atendia, curioso, perguntou o que tinha de tão urgente pra fazer.
+
+---
