@@ -98,6 +98,10 @@ y social.
 
 - [Voz Pasiva](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/voz_pasiva.md)
 
+- [Preterito mais que perfeito composto](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/preterito_mais_que_perfeito_composto.md)
+
+- [Preterito Perfecto Compuesto](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/preterito_perfecto_compuesto_indicativo.md)
+
 - [Futuro do presente composto](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/futuro_do_presente_composto.md)
   
 ---
