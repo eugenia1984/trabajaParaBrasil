@@ -13,7 +13,9 @@ Aprende frases y vocabulario útiles para situaciones urgentes y cotidianas.
 - [Linguagem formal e Frases adequadas em situações de entrevistas de emprego](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema3.md)
 
 -  [Palavras com sílaba tônica diferente. (heterotônicas)](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema5.md)
-  
+
+- [Leitura](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema6.md)
+   
 - [Exercícios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema4.md)
   
 ---
