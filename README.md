@@ -96,6 +96,8 @@ y social.
 
 - [Verbos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/verbos.md)
 
+- [Vos Pasiva](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/voz_pasiva.md)
+  
 ---
 
 ## <img width="30" height="30" src="https://img.icons8.com/color/30/hearing.png" alt="hearing"/> TREINAMENTO-AUDITIVO
