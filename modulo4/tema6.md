@@ -1,4 +1,4 @@
-# :bok: Leitura do Conto: A casa dos mil espelhos: 
+# :book: Leitura do Conto: A casa dos mil espelhos: 
 
 Tempos atrás em um distante e pequeno vilarejo, havia um lugar conhecido como a casa dos 1000 espelhos.
 
@@ -57,7 +57,9 @@ problema nosso... é problema deles.
 
 Nunca digas PICADURA en Brasil.
 
-Amor verdadeiro:
+---
+
+# :book: Amor verdadeiro:
 
 Um senhor de bastante idade chegou a um consultório médico, pra fazer um curativo em sua mão, na qual havia um profundo 
 corte.
@@ -66,8 +68,7 @@ E muito apressado pediu urgência no atendimento, pois tinha um compromisso.
 
 O médico que o atendia, curioso, perguntou o que tinha de tão urgente pra fazer.
 
-O simpático velhinho lhe disse que todas as manhãs ia visitar sua esposa que estava em tratamento numa clínica, com mal de 
-Alzheimer em fase muito avançada.
+O simpático velhinho lhe disse que todas as manhãs ia visitar sua esposa que estava em tratamento numa clínica, com mal de Alzheimer em fase muito avançada.
 
 O médico, preocupado com o atraso do atendimento, disse:
 
