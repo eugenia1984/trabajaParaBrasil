@@ -703,109 +703,17 @@ ELE AMOU
 ---
 ---
 
-## :star:  El "preterito perfecto compuesto" de indicativo
-
-### Usos del "preterito perfecto compuesto"
-
-El "preterito perfecto compuesto" se usa para indicar:
-
-- una acción que empieza en el pasado y se mantiene en  el presente
-
-Tenho comido muita besteira nesses dias -> He comido muchas porquerías en estos días
-
-Tem falado constantemente sobre o assunto -> Ha hablado constantemente sobre el asunto
-
-### Conjugación del "preterito perfecto  compuesto"
-
-La conjugación del "pluscuamperfecto" es: **[VERBO AUXILIAR EN PRESENTE] + [PARTICIPIO]**
-
-Si se está conjugando un verbo con participio regular e irregular, se usará el participio regular.
-
-### Conjugación de los verbos auxiliares
-
-A conticuación os mostramos el verbo "falar" conjugado con los auxiliares "ter" y "haver" y además os recordamos como se conjugan los verbos auxiliares en presente para formar el "pretérito perfeito compuesto".
-
-### Pretérito Perfecto Compuesto con el auxiliar "ter" 
-
-| Pretérito perfecto compuesto | Español |
-| ---------------------------- | ------- |
-| eu tenho falado | yo he hablado  |
-| tu tens falado |  tú has hablado |
-| você tem falado | tú has hablado |
-| ele tem falado | él ha hablado |
-| nós temos falado | nosotros hemos hablado |
-| a gente tem falado | nosotros hemos hablado |
-| vós tendes falado | vosotros habéis hablado |
-| vocês têm falado | vosotros habéis hablado |
-| eles têm falado | ellos han hablado |
-
-Vocês têm falado muito na aula -> Ustedes han hablado mucho en clase
 
 
-### Auxiliar "ter" en presente
 
-| Pretérito perfecto Compuesto | Español |
-| ---------------------------- | -------- |
-| eu tenho | yo tengo |
-| tu tens | tú tienes |
-| você tem | tú tienes |
-| ele tem | él tiene |
-| nós temos | nosotros tenemos |
-| a gente tem | nosotros tenemos |
-| vós tendes | vosotros tenéis |
-| vocês têm | vosotros tenéis |
-| eles têm | ellos tienen |
-
-##  El "preterito mais que perfeito composto" de indicativo   
+##  El "mar" de indicativo   
 
 -  Usos del "preterito mais que perfeito composto"
 - Conjugación del "preterito mais que perfeito  composto"
 
 ---
 
-## El "preterito mais que perfeito composto" de indicativo
 
-### Usos del "preterito mais que perfeito composto"
-
-El "preterito mais que perfeito composto" se usa para indicar:
-
-- Un hecho pasado ya terminado anterior a otro hecho pasado. O lo que es lo mismo por si se entiende mejor es: dos acciones pasadas terminadas que una va antes que la otra, y esta que va antes que la otra es la que usa el "preterito mais que perfeito composto".
-
-O professor começou a aula quando tínhamos terminado o exercício -> El profesor empezó la clase cuando habíamos terminado el ejercicio
-
-Na festa vimos que tínhamos comprado a camiseta errada -> En la fiesta vimos que habíamos comprado la camiseta equivocada
-
-
-- Una acción incierta en el pasado
-
-Ontem haviam dito que o julgamento seria amanhã -> Ayer habían dicho que el juicio sería mañana  
-
----
-
-
-### :star: Conjugación del "preterito mais que perfeito composto"
-
-La conjugación del "preterito mais que perfeito composto" es: **[VERBO AUXILIAR EN PRETÉRITO IMPERFECTO] + [PARTICIPIO]**
-
-Si se está conjugando un verbo con participio regular e  irregular, se usará el participio regular.
-
-A continuación os mostramos el verbo "falar" conjugado con los auxiliares "ter" y "haver" y además os recordamos como  se conjugan los verbos auxiliares en pretérito imperfecto para formar el "pretérito mais que perfeito compuesto".
-
-| Conjugación | Significado |
-| ----------- | ----------- |
-| eu tinha falado | yo había hablado |
-| tu tinhas falado | tú habías hablado |
-| você tinha falado | tú habías hablado |
-| ele tinha falado | él había hablado |
-| nós tínhamos falado | nosotros habíamos hablado |
-| a gente tinha falado | nosotros habíamos hablado |
-| vós tínheis falado  | vosotros habíais hablado |
-| vocês tinham falado | vosotros habíais hablado |
-| eles tinham falado | ellos habían hablado |
-
-A gente tinha falado com o diretor -> Nosotros habíamos hablado con el director
-
----
 
 ### :star: Verbo auxiliar "ter" (tener) en pretérito imperfecto
 
