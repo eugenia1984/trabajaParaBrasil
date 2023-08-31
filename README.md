@@ -96,7 +96,9 @@ y social.
 
 - [Verbos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/verbos.md)
 
-- [Vos Pasiva](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/voz_pasiva.md)
+- [Voz Pasiva](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/voz_pasiva.md)
+
+- [Futuro do presente composto](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/futuro_do_presente_composto.md)
   
 ---
 
