@@ -70,7 +70,7 @@ y social.
 
 - [Modulo 4](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo4):  [Verbos que demonstram responsabilidade / Palavras que refletem valores da empresa / Adjetivos que mostrem paixão / Verbos fortes para demonstrar liderança](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema1.md) // [Expressões para introduzir frases na entrevista: Para falar de si mesmo / Para falar das suas competências / Para falar por que você quer esta vaga / Para perguntar / Por último: Não fale exageradamente, mas também não figure calado](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema2.md)  //   [Palavras com sílaba tônica diferente. (heterotônicas)](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema5.md) // [Linguagem formal e Frases adequadas em situações de entrevistas de emprego](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema3.md)  // [Leitura](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema6.md) // [Exercícios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo4/tema4.md) 
 
-- [Modulo 5](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo5): 
+- [Modulo 5](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo5): - [Reuniões de trabalho](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo5/reuni%C3%B5es_de_trabalho.md) //  [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo5/exercicios.md)
 
 - [Modulo 6](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo6): 
 
