@@ -12,7 +12,7 @@
 
 | número | escribe | - | número | escribe | - |  número | escribe | 
 |------- | ------- | - | ------ | ------- |  - | ------ | ------- |
-| 0 | zero (con zzz) | | 10 | dez | - || 20 | vinte (vinchi) |
+| 0 | zero (con zzz) | | 10 | dez | - | 20 | vinte (vinchi) |
 | 1 | um | | 11 | onze | - |  21 | vinte e um |
 | 2 | dois | | 12 | doze | - | 22 | vinte e dois |
 | 3 | três | | 13 | treze | - | 23 | vinte e três |
