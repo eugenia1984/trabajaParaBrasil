@@ -58,7 +58,7 @@ A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim com
 
 ---
 
-## :computer: PROGRMACION
+## :computer: PROGRAMACION
 
 - [CURSO DE JAVASCRIPT COM EXERCÍCIOS E PROJETOS](https://www.youtube.com/watch?v=OYPbr6ZG3pc)
 
@@ -70,4 +70,10 @@ A música é uma ferramenta que, pode nos ajudar a aprender um idioma, assim com
 
 - [O ELEVADOR - Curta-metragem de ROMANCE](https://www.youtube.com/watch?v=YZ0tR9oyHb4) -> Um curta-metragem romântico
   
+---
+
+## TED
+
+- [Conectar pontos para ampliar a nossa visão de futuro | Andrea Bisker | TEDxSaoPaulo](https://www.youtube.com/watch?v=ui5DKWgUCjA&pp=ygUVdGVkIHRhbGtzIDIwMjMgYnJhc2ls)
+
 ---
