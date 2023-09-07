@@ -187,13 +187,6 @@ Ex. Los pantalones anchos no son una vestimenta apropiada para jogar futebol.
 
 -> Calças **largas** não são uma vestimenta adequada para jugar al fútbol.
 
----
-
-##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
-
----
-
-##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
 
 ---
 
