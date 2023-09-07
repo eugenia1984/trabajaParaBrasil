@@ -206,6 +206,53 @@ Ex. Los pantalones anchos no son una vestimenta apropiada para jogar futebol.
 
 ---
 
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia que em português, em alguns casos, usamos o verbo estar e não o verbo ter?
+
+Você se lembra de como usamos o verbo estar em português? 
+
+Nesta Dica, vamos nos concentrar em situações e características temporais. 
+
+A estrutura é: **verbo estar + substantivo**. 
+
+Quando usamos **o verbo + a preposição com + um substantivo**, criamos uma expressão que fala de algo temporário que estamos sentindo. Veja alguns exemplos:
+
+- (ES) Tengo frio ->  (PT) Estou com frio
+
+- (ES) Tengo sueño-> (PT) Estou com sono.
+
+-  (ES) Tengo hambre -> (PT) Estou com fome, com sede..  
+
+- estou com frio / sono / fome / sede
+
+![image](https://github.com/eugenia1984/trabajaParaBrasil/assets/72580574/113970c4-8059-41eb-b1a7-7dd8e586a97a)
+
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia o que aconteceu em 7 de setembro?   
+
+### A Independência do Brasil 
+
+A Independência do Brasil foi um processo político que permitiu liberar o Brasil da dominação portuguesa, a princípios do século XIX. A Independência foi proclamada em 7 de setembro de 1822, mediante o chamado “Grito de Ipiranga”, que teve lugar nas afueras de São Paulo. Diferentemente do resto dos processos independentistas latinoamericanos, a independência do Brasil foi incruenta e liderada por um integrante da família real lusitana, el príncipe herdeiro Pedro I. O Brasil, ao igual que por exemplo o México, optou pela monarquia depois de independizar-se. Mas, a diferença do país azteca, onde o império se derrubou em só dois anos, no Brasil perdurou até 1889, sendo o regime monárquico independente mais duradouro de toda América.
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+
+---
+
 ##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
 
 ---
