@@ -1,5 +1,9 @@
 # <img width="48" height="48" src="https://img.icons8.com/color/48/hearing.png" alt="hearing"/> TREINAMENTO AUDITIVO 
 
+## Celpe bras
+
+[Videos de YouTube](https://www.youtube.com/results?search_query=celpe-bras)
+
 ## <img width="40" height="40" src="https://img.icons8.com/bubbles/40/elevator-doors.png" alt="elevator-doors"/> PITCH
 
 - [Pitch: dicas para montar o seu!](https://www.youtube.com/watch?v=S3jOmagjPGY&t=153s)
