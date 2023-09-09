@@ -79,7 +79,7 @@ Coloque-as no singular.
 
 Ouça o seguinte áudio e com o seu colega trabalhe com o rol de candidato e empregador.
 
-Link: [https://drive.google.com/drive/folders/1f2qmANo6dUKFqvn3mPnOrj5PfjzgyQcy]([)](https://drive.google.com/drive/folders/1f2qmANo6dUKFqvn3mPnOrj5PfjzgyQcy)
+Link: [https://drive.google.com/drive/folders/1f2qmANo6dUKFqvn3mPnOrj5PfjzgyQcy](https://drive.google.com/drive/folders/1f2qmANo6dUKFqvn3mPnOrj5PfjzgyQcy)
 
 Este áudio possui duas partes. A primeira:
 
