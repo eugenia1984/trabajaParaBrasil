@@ -3,29 +3,14 @@
 
 ## MESES
 
-1. Janeiro
-
-2. Fevereiro
-
-3. Março
-
-4. Abril
-
-5. Maio
-
-6. Junho
-
-7. Julho
-
-8. Agosto
-
-9. Setembro
-
-10.Outubro
-
-11.Novembro
-
-12.Dezembro
+| Numero | Mes | - | Numero | Mes |
+| ------ | --- | - | ------ | --- | 
+| 1 | Janeiro | - | 7 | Julho |
+| 2 | Fevereiro | - | 8 | Agosto |
+| 3 | Março | - | 9 | Setembro |
+| 4 |  Abril | - | 10 | Outubro |
+| 5 |  Maio | - | 11 | Novembro |
+| 6 |  Junho | - | 12 | Dezembro
 
 ##  As estações do ano e os dias da semana
 
