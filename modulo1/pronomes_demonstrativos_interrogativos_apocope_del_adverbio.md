@@ -15,6 +15,7 @@
 ## :star: Pronomes Interrogativos
 
 | PT | ES |
+| -- | -- |
 | Que | Qué |
 | Quem | Quién |
 | Qual | Cuál |
