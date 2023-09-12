@@ -11,7 +11,7 @@ posesivos, demostrativos e interrogativos.
 
 5. Principales verbos que nos permitirán presentarnos.
 
-6. C.V., principa9es partes de un currículum. Modelos de C.V. de IT.
+6. C.V., principales partes de un currículum. Modelos de C.V. de IT.
 
 7. Cartas de presentación, modelos.
 
