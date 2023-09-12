@@ -74,7 +74,7 @@ y social.
 
 - [conjuncoes-coordenativa](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo5/conjuncoes-coordenativas.md) //  [conjuncoes_subordinativa](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo5/conjuncoes_subordinativa.md) //  [Regência do verbo preferir](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo5/reg%C3%AAncia_do_verbo_preferir.md) // [Exercicios](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo5/exercicios.md)
 
--  [Modulo 6](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo6): 
+-  [Modulo 6](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo6):  - [Linguagem formal e Frases adequadas em situações de entrevistas de emprego](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo6/tema1.md) //  [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo6/tema2.md)
 
 - [Modulo 7](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo7): 
 
