@@ -33,9 +33,15 @@ Inverno, Primavera, Verão, Outono
 7. Domingo
 
 ---
-Idiomas/Linguas: árabe y 
-frances
+
+Idiomas/Linguas: árabe y frances
+
 Idade: 32 anos
-Nacionalidade: marroquinoSobrenome: Rammane
-Endereço:
-Rua Mariano Andrés, nº 45, 2º ANDAR. C.P. 24008, Curitiba
+
+Nacionalidade: marroquino
+
+Sobrenome: Rammane
+
+Endereço:Rua Mariano Andrés, nº 45, 2º ANDAR. C.P. 24008, Curitiba
+
+---
