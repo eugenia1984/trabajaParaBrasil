@@ -40,7 +40,7 @@
 | 28 | vinte e oito |
 | 29  | vinte nove |
 
-##<img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/>  Del 31 al 99
+## <img width="40" height="40" src="https://img.icons8.com/color/40/123.png" alt="123"/>  Del 31 al 99
 
 (se escriben en dos palabras, unidas por e)
 
