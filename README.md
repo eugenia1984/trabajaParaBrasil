@@ -74,7 +74,7 @@ y social.
 
 -  [Modulo 6](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo6):  - [Linguagem formal e Frases adequadas em situações de entrevistas de emprego](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo6/tema1.md) //  [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo6/tema2.md)
 
-- [Modulo 7](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo7): - [Ditongo, tritongo e hiato: encontros vocálicos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/ditongo_tritongo_hiato.md) // [Pretérito mais-que-perfeito composto do indicativo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/preterito_mais_que_perfeito_composto_do_indicativo.md)
+- [Modulo 7](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo7): - [Ditongo, tritongo e hiato: encontros vocálicos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/ditongo_tritongo_hiato.md) // [Pretérito mais-que-perfeito composto do indicativo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/preterito_mais_que_perfeito_composto_do_indicativo.md) // [Que fazer e que nao fazer numa entrevista de emprego](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/tips.md) //  [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/exercicio.md)
 
 - [Modulo 8](https://github.com/eugenia1984/trabajaParaBrasil/tree/main/modulo8): 
 
