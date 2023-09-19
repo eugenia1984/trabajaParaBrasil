@@ -18,6 +18,6 @@ sonhos!
 
 - [Pretérito mais-que-perfeito composto do indicativo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/preterito_mais_que_perfeito_composto_do_indicativo.md)
 
-- [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/exercicio.md)https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/exercicio.md
+- [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/exercicio.md)
 
 ---  
