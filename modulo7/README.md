@@ -18,6 +18,8 @@ sonhos!
 
 - [Pretérito mais-que-perfeito composto do indicativo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/preterito_mais_que_perfeito_composto_do_indicativo.md)
 
+- [Que fazer e que nao fazer numa entrevista de emprego](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/tips.md)
+  
 - [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo7/exercicio.md)
 
 ---  
