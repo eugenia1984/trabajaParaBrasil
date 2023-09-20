@@ -126,7 +126,16 @@ En [treinamento-auditivo](https://github.com/eugenia1984/trabajaParaBrasil/blob/
 ## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/> GLOSARIO TECNOLOGIA
 
 - [GLOSARIO TECNOLOGIA](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/glosario_tecnologia.md)
-  
+
+
+---
+
+
+## <img width="30" height="30" src="https://img.icons8.com/nolan/30/form.png" alt="form"/>  DICAS
+
+- [Dicas](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/dicas.md)
+
+
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/emoji/40/check-mark-button-emoji.png" alt="check-mark-button-emoji"/> APROBACIÓN
