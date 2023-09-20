@@ -230,11 +230,88 @@ A Independência do Brasil foi um processo político que permitiu liberar o Bras
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia a origem da palavra carioca?
+
+Paulistas e cariocas, com certeza você já ouviu essas palavras antes, certo?
+
+Mas vamos saber um pouco mais sobre isso.
+
+Os paulistas são os indivíduos nascidos no estado de São Paulo, localizado na Região Sudeste do Brasil.
+
+E os cariocas??
+
+A Origem da Palavra Carioca: Curiosidades e História.
+
+A palavra “carioca” tem origem tupi-guarani e significa “casa de branco” Foi utilizada inicialmente para se referir aos europeus que habitavam a região da atual cidade do Rio de Janeiro Com o tempo, a palavra passou a ser utilizada para se referir a todos os habitantes da cidade, independentemente da origem étnica. O termo “carioca” se popularizou no início do século XX, principalmente com a música “Cidade Maravilhosa”, de André Filho A música foi composta em 1935 para um concurso promovido pela prefeitura do Rio de Janeiro e se tornou um hino não oficial da cidade O apelido “carioca” é utilizado com orgulho pelos habitantes da cidade e é considerado um símbolo da identidade carioca O termo também é utilizado em outras partes do Brasil para se referir a pessoas que possuem características típicas dos cariocas, como descontração e simpatia.
+Mais uma história da origem da palavra carioca:
+
+A história conta que os índios da região onde hoje fica o Rio de Janeiro, chamavam a Baía de Guanabara de “Kari oka”, que significa “casa de caranguejo”. Com a chegada dos portugueses, a palavra foi adaptada para “Carioca” e passou a designar os habitantes da cidade.
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/>
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/brazil.png" alt="brazil"/> Você sabia a história do famoso Cristo Redentor?
+
+O monumento Cristo Redentor é uma famosa estátua de Jesus Cristo localizada no Rio de Janeiro, no morro do Corcovado.
+O monumento art déco foi fruto da ideia e realização de um grupo de pessoas, sendo Heitor da Silva Costa o engenheiro responsável pelo desenho e Paul Maximilian Landowski o escultor.
+
+Ao todo, tem 38 metros de altura, sendo que a estátua tem 30 metros e o pedestal 8 metros (esta altura é equivalente a um prédio de 13 andares).
+
+Em 2007 ele foi eleito como uma das novas 7 Maravilhas do Mundo Moderno.
+
+Conjuntamente com o Pão de Açúcar, o Cristo Redentor é das marcas mais conhecidas que distinguem não apenas o Rio de Janeiro, mas também o Brasil.
+
+Como é um célebre ponto turístico, esta escultura também expressa a hospitalidade do povo brasileiro, que recebe as pessoas de braços abertos.
+
+## História do monumento Cristo Redentor
+
+O Cristo Redentor foi inaugurado no dia 12 de outubro de 1931, dia de Nossa Senhora Aparecida. (Lembrem que é a padroeira do Brasil.)
+
+Em 1859, o padre Pierre-Marie Boss estava no Colégio da Imaculada Conceição, na praia de Botafogo e, vendo o monte Corcovado, pensou em construir um monumento em honra da Princesa Isabel, filha do imperador Pedro II.
+Durante os preparativos para o centenário da Independência do Brasil, em 1920, o Círculo Católico do Rio de Janeiro fez a proposta e angariou fundos para a construção do monumento.
+Nesta época surgiram várias propostas, mas a vencedora foi aquela que representava Jesus Cristo em pé, com os braços abertos, com uma postura que refletia uma atitude de amor e paz.
+O arquiteto e engenheiro Heitor da Silva Costa foi o autor do projeto vencedor do concurso aberto pela Igreja Católica em 1921 para a construção de um monumento no cume do Morro do Corcovado.
+
+Seu trabalho teve como inspiração ilustrações do pintor ítalo-brasileiro Carlos Oswald e recebeu o primeiro lugar no concurso. Heitor da Silva Costa além de vencer o concurso, coordenou todas as fases da obra.
+
+As mãos e a cabeça da estátua foram trabalhadas pelo escultor polonês-francês Paul Landowski sendo que a cabeça foi trabalhada pelo escultor romeno Gheorghe Leonida. Uma curiosidade: Landowski nunca pisou em solo brasileiro e jamais chegou a visitar o Cristo.
+
+A obra também contou com a ajuda do engenheiro especialista em concreto armado Albert Caquot, que fez os cálculos estruturais para a escultura.
+
+O engenheiro Heitor Levy, por sua vez, foi o braço direito de Heitor da Silva Costa e ficou conhecido como o mestre de obras do Cristo Redentor. Levy acompanhou as obras no local e conduziu as equipes ao trabalho.
+Outro nome importante para o monumento foi o do cardeal Sebastião Leme, talvez o membro da Igreja Católica mais interessado em levar a frente o projeto. Foi ele que promoveu campanhas de arrecadação de doações e buscou fundos para o monumento ser efetivamente erguido. Por esse motivo, até hoje a Arquidiocese do Rio é a única detentora dos direitos patrimoniais.
+
+## Composição do monumento Cristo Redentor e manutenção
+
+O monumento é feito em concreto armado e pedra-sabão. Esta pedra, que existe em grande quantidade no Brasil, além de ser bonita, apresenta elevada resistência à erosão.
+
+Para compor o Cristo Redentor foram esculpidos milhares de triângulos de pedra-sabão que foram posteriormente colados em um tecido e aplicados na estátua.  Essas pequenas peças triangulares são conhecidas como tesselas. As tesselas tinham como objetivo proteger a estrutura de concreto armado.
+
+Como a escultura está situada em um dos pontos mais altos da cidade de clima tropical, ela recebe muitas descargas elétricas durante as tempestades.
+
+Esse fato faz com que as tesselas sejam danificadas, por esse motivo a estátua precisa de constante observação e restauro periódico, feito por restauradores alpinistas.
+
+Por ser o pico do Morro do Corcovado, foi necessário instalar uma série de para-raios no monumento, principalmente na cabeça e nos braços da escultura.
+
+Segundo o Instituto Nacional de Pesquisas Espaciais (INPE), o Cristo Redentor é atingido por cerca de seis raios ao ano. Em 16 de janeiro de 2014, parte do dedo polegar da mão direita do Cristo quebrou após ser atingida por um raio.
+Um mês antes do polegar ter sido atingido, o dedo médio da mesma mão havia recebido também um raio, ficando significativamente danificado.
+
+## Curiosidades sobre o Cristo Redentor
+
+-Nem todo o monumento foi construído no Brasil. As mãos e a cabeça foram esculpidas em Paris e divididas em várias partes, montadas no Brasil. -A cabeça foi dividida em 50 peças e as mãos em 8 peças.
+
+-Antes da sua construção foram sugeridos três locais para a construção do monumento: Morro de Santo Antônio, Pão de Açúcar e o Morro do Corcovado, sendo que foi escolhido este último.
+
+-O Cristo Redentor é a segunda maior representação em escultura de Jesus Cristo do mundo, só ultrapassada pela escultura "Estátua de Cristo Rei" que se encontra na Polônia.
+
+-Existe um coração no Cristo Redentor, que mede 1,30. Nesse coração, na parte de dentro da escultura, existe um frasco de vidro com um pergaminho que contém a árvore genealógica do engenheiro fiscal Pedro Fernandes e do mestre de obras Heitor Levy.
+
+Cristo Redentor na cultura brasileira
+
+Por ser um dos maiores cartões postais do Brasil e ter impacto significativo na paisagem e na vida dos brasileiros, o Cristo Redentor está presente em muitas obras da cultura nacional.
+Na música, foi tema de canções de diversos cantores e compositores, como Caetano Veloso, Nara Leão, Chico Buarque, Tom Jobim, Vinícius de Mores, entre outros
+
+A estátua também apareceu em obras cinematográficas e muito na televisão, principalmente em telenovelas.
+Os convido a ouvir uma das muitas músicas sobre ele no canal de treinamento auditivo 
 
 ---
 
