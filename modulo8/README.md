@@ -35,7 +35,7 @@ Estes são alguns dos pontos importantes.
 
 - [Posesivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/posessivos.md)
 
--  Ser y estar
+-  [Ser y estar](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/ser_estar.md)
    
 - quedar(se) en español y ficar en portugués.
 
