@@ -39,6 +39,7 @@ Estes são alguns dos pontos importantes.
    
 - [quedar(se) en español y ficar en portugués](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/quedar_estar.md)
 
-- Verbos reflexivos
-  
+- [Verbos reflexivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/verbos_reflexivos.md)
+
+- [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/exercicio.md) 
 --- 
