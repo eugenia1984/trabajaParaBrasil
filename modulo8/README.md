@@ -25,7 +25,7 @@ Estes são alguns dos pontos importantes.
 
 - [Preposiciones y Contracciones](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/preposiciones_y_contracciones.md)
 
-- ["Ir a" frente a "ir para"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/ir_a_ir_para.md)
+- ["Ir a" frente a "ir para" / "Hacia", "para" y "face a"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/ir_a_ir_para.md)
 
 -  "De" y "desde"
 
