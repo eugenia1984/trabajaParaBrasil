@@ -41,5 +41,6 @@ Estes são alguns dos pontos importantes.
 
 - [Verbos reflexivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/verbos_reflexivos.md)
 
-- [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/exercicio.md) 
+- [Exercicio](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/exercicio.md)
+  
 --- 
