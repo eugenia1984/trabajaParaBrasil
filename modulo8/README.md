@@ -21,7 +21,7 @@ Estes são alguns dos pontos importantes.
 
 - [Conjunciones: "y"/"e", "o"/"ou"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/conjuncoes.md)
 
-- "Sí", "sim", "si" y "se"
+- ["Sí", "sim", "si" y "se"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/si_sim_se.md)
 
 - Preposiciones y Contracciones
 
