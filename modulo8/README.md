@@ -31,7 +31,7 @@ Estes são alguns dos pontos importantes.
 
 - [Palabras que cambian de genero en portugués](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/generos.md)
 
-- Uso del artículo determinado ('el'/'o', 'la'/'a', 'los'/'os', 'las'/'as')
+- [Uso del artículo determinado ('el'/'o', 'la'/'a', 'los'/'os', 'las'/'as')](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/articulos.md)
 
 - Posesivos
 
