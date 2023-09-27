@@ -33,7 +33,7 @@ Estes são alguns dos pontos importantes.
 
 - [Uso del artículo determinado ('el'/'o', 'la'/'a', 'los'/'os', 'las'/'as')](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/articulos.md)
 
-- Posesivos
+- [Posesivos](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/posessivos.md)
 
 -  Ser y estar
    
