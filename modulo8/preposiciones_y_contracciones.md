@@ -24,16 +24,16 @@ Tres formas adicionales existen para el femenino y el plural.
 disto, disso, daquilo, nisto, nisso, naquilo, àquilo
 
 ## La "a" personal
-En español se utiliza una preposición, -la llamada "a personal"-, delante del objeto directo de un
-verbo transitivo (excepto tener) cuando éste denota una persona, o un animal o una cosa
-personificados. No se utiliza para personas anónimas conocidas solo por su profesión o estatus
-(policías, médicos, soldados, etc.). En portugués, la "a personal" es muy poco frecuente.
-Ocasionalmente la hallamos en textos formales, como el mandamiento bíblico Amar a Deus
-sobre todas as coisas (Amar a Dios sobre todas las cosas), pero suena arcaico. Dado que en
-portugués el objeto directo no es normalmente precedido por una preposición, es fácil
-diferenciarlo del objeto indirecto que siempre va precedido de una preposición, y cualquier
-posible leísmo sería menos problemático en portugués. El loísmo y el laísmo nunca se dan en
-portugués.
+
+En español se utiliza una preposición, -la llamada "a personal"-, delante del objeto directo de un verbo transitivo (excepto tener) cuando éste denota una persona, o un animal o una cosa personificados.
+
+No se utiliza para personas anónimas conocidas solo por su profesión o estatus (policías, médicos, soldados, etc.). En portugués, la "a personal" es muy poco frecuente.
+
+Ocasionalmente la hallamos en textos formales, como el mandamiento bíblico Amar a Deus sobre todas as coisas (Amar a Dios sobre todas las cosas), pero suena arcaico. 
+
+Dado que en portugués el objeto directo no es normalmente precedido por una preposición, es fácil diferenciarlo del objeto indirecto que siempre va precedido de una preposición, y cualquier posible leísmo sería menos problemático en portugués. 
+
+El loísmo y el laísmo nunca se dan en portugués.
 
 
 
