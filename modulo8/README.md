@@ -37,7 +37,7 @@ Estes são alguns dos pontos importantes.
 
 -  [Ser y estar](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/ser_estar.md)
    
-- quedar(se) en español y ficar en portugués.
+- [quedar(se) en español y ficar en portugués](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/quedar_estar.md)
 
 - Verbos reflexivos
   
