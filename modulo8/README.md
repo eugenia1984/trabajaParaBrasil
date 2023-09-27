@@ -19,7 +19,7 @@ Estes são alguns dos pontos importantes.
 
 - [Números cardinales](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/numeros_cardinales.md)
 
-- Conjunciones: "y"/"e", "o"/"ou"
+- [Conjunciones: "y"/"e", "o"/"ou"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/conjuncoes.md)
 
 - "Sí", "sim", "si" y "se"
 
