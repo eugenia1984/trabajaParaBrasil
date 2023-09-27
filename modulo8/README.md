@@ -27,7 +27,7 @@ Estes são alguns dos pontos importantes.
 
 - ["Ir a" frente a "ir para" / "Hacia", "para" y "face a"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/ir_a_ir_para.md)
 
--  "De" y "desde"
+-  ["De" y "desde"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/de_desde.md)
 
 - Palabras que cambian de genero en portugués
 
