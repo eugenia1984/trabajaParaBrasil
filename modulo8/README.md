@@ -13,9 +13,9 @@ Estes são alguns dos pontos importantes.
 
 ---
 
-- Todo y Tudo
+- [Todo y Tudo](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/toto_e_tudo.md)
 
-- Muy," "mucho," y "muito"
+- Muy, mucho, y muito
 
 - Números cardinales
 
