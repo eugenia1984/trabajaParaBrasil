@@ -23,9 +23,9 @@ Estes são alguns dos pontos importantes.
 
 - ["Sí", "sim", "si" y "se"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/si_sim_se.md)
 
-- Preposiciones y Contracciones
+- [Preposiciones y Contracciones](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/preposiciones_y_contracciones.md)
 
-- "Ir a" frente a "ir para"
+- ["Ir a" frente a "ir para"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/ir_a_ir_para.md)
 
 -  "De" y "desde"
 
