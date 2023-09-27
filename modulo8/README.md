@@ -29,7 +29,7 @@ Estes são alguns dos pontos importantes.
 
 -  ["De" y "desde"](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/de_desde.md)
 
-- Palabras que cambian de genero en portugués
+- [Palabras que cambian de genero en portugués](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/generos.md)
 
 - Uso del artículo determinado ('el'/'o', 'la'/'a', 'los'/'os', 'las'/'as')
 
