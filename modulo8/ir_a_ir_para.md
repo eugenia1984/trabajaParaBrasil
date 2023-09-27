@@ -7,3 +7,24 @@ Bastante frecuentes en los dos idiomas son las preposiciones a y para. Sin embar
 Sin embargo, nótese que en el primer ejemplo, para puede ser usado en portugués si está en contraposición con un período muy breve de tiempo:
 
 Não fico muito tempo, só um minuto. Tenho de ir para o mercado. tarea pendiente o compromiso
+
+---
+
+# :star:  "Hacia", "para" y "face a"
+
+El español tiene dos preposiciones diferentes: para y hacia. De las dos, sólo para existe en portugués, abarcando ambos significados:
+
+- Este presente é para ti/si (você). (portugués) -> Este regalo es para ti/usted. (español)
+
+
+- Aquele avião voa para Nova Iorque. (portugués) -> Aquel avión vuela hacia Nueva York. (español)
+
+El para de la última frase en portugués puede ser sustituida por rumo a ("rumbo a", "en
+dirección a").
+
+Aunque face significa cara y el portugués face a está etimológicamente relacionado con el
+español hacia, face a también significa frente a, con respecto a, en lo concerniente a. 
+
+Ejemplos de utilización:
+
+Face ao exposto, só posso concluir isso. (Con respecto a lo expuesto, sólo puedo concluir eso) O euro permanece estável face ao dólar. (El euro permanece estable frente al dólar)
