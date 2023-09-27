@@ -17,7 +17,7 @@ Estes são alguns dos pontos importantes.
 
 - [Muy, mucho, y muito](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/muy_mucho_muito.md)
 
-- Números cardinales
+- [Números cardinales](https://github.com/eugenia1984/trabajaParaBrasil/blob/main/modulo8/numeros_cardinales.md)
 
 - Conjunciones: "y"/"e", "o"/"ou"
 
